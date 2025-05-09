@@ -1,0 +1,28 @@
+plan:
+  id: "minimal-day-of-week"
+  name: "Minimal Day-of-Week Plan"
+  description: "A tiny example of a day-of-week based plan."
+  type: "thematic"
+  duration_days: -1 # Duration often not applicable or tracked simply
+  schedule_type: "day-of-week"
+
+  # Optional but good practice per spec example: Define sections (validator doesn't currently use this)
+  day_section:
+    sunday: "Creation Story"
+    monday: "Early Patriarchs"
+    # ... other days ...
+
+  readings:
+    # Reading for Sunday
+    - day_of_week: "sunday"
+      id: "sun-read-gen1" # ID must be unique *within* the day_of_week
+      sections:
+        - book: "Genesis"
+          chapters: [1]
+
+    # Reading for Monday
+    - day_of_week: "monday"
+      id: "mon-read-gen2"
+      sections:
+        - book: "Genesis"
+          chapter_verse: "2:1-7"

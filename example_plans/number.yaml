@@ -1,0 +1,16 @@
+plan:
+  id: "minimal-numbered"
+  name: "Minimal Numbered Plan"
+  description: "A tiny example of a numbered plan."
+  type: "sequential"
+  duration_days: 2 # Must match the number of 'day' entries
+  schedule_type: "numbered"
+  readings:
+    - day: 1
+      sections:
+        - book: "Genesis"
+          chapters: [1] # Read Genesis chapter 1
+    - day: 2
+      sections:
+        - book: "Genesis"
+          chapter_verse: "2:1-4" # Read Genesis chapter 2, verses 1-4

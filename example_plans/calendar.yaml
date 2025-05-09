@@ -1,0 +1,16 @@
+plan:
+  id: "minimal-calendar"
+  name: "Minimal Calendar Plan"
+  description: "A tiny example of a calendar-dated plan."
+  type: "sequential"
+  duration_days: 2 # Matches the number of unique dates
+  schedule_type: "calendar"
+  readings:
+    - date: "2025-05-01" # ISO format YYYY-MM-DD
+      sections:
+        - book: "Genesis"
+          chapters: [1]
+    - date: "2025-05-02"
+      sections:
+        - book: "Genesis"
+          chapter_verse: "2" # Read all of Genesis chapter 2

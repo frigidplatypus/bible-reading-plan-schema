@@ -1,0 +1,16 @@
+plan:
+  id: "minimal-flexible"
+  name: "Minimal Flexible Plan"
+  description: "A tiny example of a flexible checklist plan."
+  type: "thematic"
+  duration_days: -1 # Standard for flexible plans
+  schedule_type: "flexible"
+  readings:
+    - id: "reading-gen1" # Unique string ID for the reading item
+      sections:
+        - book: "Genesis"
+          chapters: [1, 2, 3] # List of chapters to read
+    - id: "reading-gen2"
+      sections:
+        - book: "Genesis"
+          chapters: [4, 5] # List of chapters to read
