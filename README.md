@@ -2,6 +2,8 @@
 
 This document describes the standardized YAML format for Bible reading plans used by the Bible Reading Plan API. This format aims to be flexible enough to represent various types of reading plans while maintaining consistency and ease of use.
 
+**Schema Version: 1.0.0**
+
 ## Overview
 
 Bible reading plans are represented as YAML files that define a structured approach to reading the Bible. The format accommodates various reading patterns including:

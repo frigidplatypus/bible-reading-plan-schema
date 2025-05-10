@@ -8,6 +8,7 @@ from datetime import datetime
 import sys
 
 # --- Constants ---
+SCHEMA_VERSION = "1.0.0"
 BIBLE_DATA_DEFAULT_FILENAME = 'books-of-the-bible.yaml'
 REQUIRED_PLAN_FIELDS = ['id', 'name', 'description', 'type', 'version', 'duration_days', 'schedule_type', 'readings']
 ALLOWED_SCHEDULE_TYPES = ['numbered', 'calendar', 'calendar-generic', 'flexible', 'day-of-week']
@@ -37,6 +38,37 @@ def load_yaml_file(filepath):
         raise ValidationError(f"Error parsing YAML file {filepath}: {e}")
     except Exception as e:
         raise ValidationError(f"Error reading file {filepath}: {e}")
+
+def convert_calendar_generic_to_date(generic_date, year):
+    """
+    Converts a calendar-generic date (MMM-DD) to a datetime.date object for a specific year.
+    
+    Args:
+        generic_date (str): A string in MMM-DD format (e.g., "Jan-01")
+        year (int): The year to use for the date
+        
+    Returns:
+        datetime.date: The calendar date for the specified year
+        
+    Raises:
+        ValueError: If the generic_date format is invalid
+    """
+    if not validate_mmdd_date(generic_date):
+        raise ValueError(f"Invalid calendar-generic date format: {generic_date}. Expected format like 'Jan-01'.")
+        
+    month_abbr = generic_date[:3]
+    day_str = generic_date[4:]
+    
+    # Convert month abbreviation to month number
+    month_map = {
+        'Jan': 1, 'Feb': 2, 'Mar': 3, 'Apr': 4, 'May': 5, 'Jun': 6,
+        'Jul': 7, 'Aug': 8, 'Sep': 9, 'Oct': 10, 'Nov': 11, 'Dec': 12
+    }
+    
+    month = month_map[month_abbr]
+    day = int(day_str)
+    
+    return datetime(year, month, day).date()
 
 def preprocess_bible_data(raw_bible_data):
     """
