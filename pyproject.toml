@@ -1,0 +1,20 @@
+[project]
+name = "bible-reading-plan-schema"
+version = "0.1.0"
+description = "Schema and validation tools for Bible reading plans"
+readme = "README.md"
+requires-python = ">=3.11"
+
+dependencies = [
+    "pyyaml>=6.0.0"
+]
+
+[build-system]
+requires = ["setuptools>=61.0.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project.scripts]
+validate-reading-plan = "scripts.validate_reading_plan:main"
+
+[tool.setuptools.packages.find]
+include = ["scripts"]
