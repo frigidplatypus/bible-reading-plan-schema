@@ -1,0 +1,17 @@
+plan:
+  id: "minimal-calendar-generic"
+  name: "Minimal Calendar-Generic Plan"
+  description: "A tiny example of a month-day calendar plan that can be used every year."
+  type: "sequential"
+  version: "1.0"
+  duration_days: 2 # Matches the number of unique dates
+  schedule_type: "calendar-generic"
+  readings:
+    - date: "Jan-01" # MMM-DD format for January 1st
+      sections:
+        - book: "Genesis"
+          chapters: [1]
+    - date: "Jan-02" # MMM-DD format for January 2nd
+      sections:
+        - book: "Genesis"
+          chapter_verse: "2" # Read all of Genesis chapter 2

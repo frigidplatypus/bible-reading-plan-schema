@@ -10,7 +10,7 @@ import sys
 # --- Constants ---
 BIBLE_DATA_DEFAULT_FILENAME = 'books-of-the-bible.yaml'
 REQUIRED_PLAN_FIELDS = ['id', 'name', 'description', 'type', 'version', 'duration_days', 'schedule_type', 'readings']
-ALLOWED_SCHEDULE_TYPES = ['numbered', 'calendar', 'flexible', 'day-of-week']
+ALLOWED_SCHEDULE_TYPES = ['numbered', 'calendar', 'calendar-generic', 'flexible', 'day-of-week']
 ALLOWED_WEEK_DAYS = ['sunday', 'monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'saturday']
 PLAN_ID_PATTERN = re.compile(r'^[a-z0-9-]+$')
 # Regex for chapter/verse parsing (more robust)
@@ -128,6 +128,45 @@ def validate_iso_date(date_str):
     except (ValueError, TypeError):
         return False
 
+def validate_mmdd_date(date_str):
+    """Validates MMM-DD format for calendar-generic plans (e.g., Jan-01, Feb-28)."""
+    try:
+        # Check format: three letters for month abbreviation, hyphen, then two digits for day
+        if not isinstance(date_str, str) or len(date_str) != 6:
+            return False
+            
+        # Check if the format is like "Jan-01"
+        month_abbr = date_str[:3]
+        if date_str[3] != '-':
+            return False
+            
+        day_str = date_str[4:]
+        if not day_str.isdigit() or len(day_str) != 2:
+            return False
+            
+        # Check if month abbreviation is valid
+        valid_months = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 
+                        'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec']
+        if month_abbr not in valid_months:
+            return False
+            
+        # Check if day is valid (between 01-31)
+        day = int(day_str)
+        if day < 1 or day > 31:
+            return False
+            
+        # Additional validation for months with fewer days
+        thirty_day_months = ['Apr', 'Jun', 'Sep', 'Nov']
+        if month_abbr in thirty_day_months and day > 30:
+            return False
+            
+        if month_abbr == 'Feb' and day > 29:
+            return False
+            
+        return True
+    except (ValueError, TypeError):
+        return False
+
 # --- Main Validation Logic ---
 
 def validate_plan(plan_file_path, bible_data_path):
@@ -234,6 +273,17 @@ def validate_plan(plan_file_path, bible_data_path):
                 errors.append(f"Error in {reading_context}: Missing 'date' field for 'calendar' schedule type.")
             elif not isinstance(date_str, str) or not validate_iso_date(date_str):
                 errors.append(f"Error in {reading_context}: 'date' field ('{date_str}') must be a string in YYYY-MM-DD format.")
+            else:
+                reading_context = f"reading for Date {date_str}"
+                has_identifier = True
+                processed_dates.add(date_str)
+
+        elif schedule_type == 'calendar-generic':
+            date_str = reading.get('date')
+            if date_str is None:
+                errors.append(f"Error in {reading_context}: Missing 'date' field for 'calendar-generic' schedule type.")
+            elif not isinstance(date_str, str) or not validate_mmdd_date(date_str):
+                errors.append(f"Error in {reading_context}: 'date' field ('{date_str}') must be a string in MM-DD format.")
             else:
                 reading_context = f"reading for Date {date_str}"
                 has_identifier = True

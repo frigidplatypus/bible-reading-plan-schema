@@ -38,7 +38,7 @@ plan:
 | `type` | String | Type of plan: `sequential`, `thematic`, `chronological`, etc. |
 | `version` | String | Version identifier for the plan (e.g., "1.0", "2023", "2023-2024") |
 | `duration_days` | Integer | Total number of days in the plan (use `-1` for flexible plans) |
-| `schedule_type` | String | How days are tracked: `numbered` (day 1, 2...), `calendar` (specific dates), `flexible` (checklist), or `day-of-week` (separate tracking per day of week) |
+| `schedule_type` | String | How days are tracked: `numbered` (day 1, 2...), `calendar` (specific dates with year), `calendar-generic` (month-day only), `flexible` (checklist), or `day-of-week` (separate tracking per day of week) |
 | `readings` | Array | List of reading day entries |
 
 ### Optional Plan Fields
@@ -148,6 +148,19 @@ readings:
   - date: "2025-01-01"  # ISO format (YYYY-MM-DD)
     sections: [...]
   - date: "2025-01-02"
+    sections: [...]
+```
+
+### Calendar-Generic Schedule
+
+For plans tied to month and day but not to a specific year (can be used every year):
+
+```yaml
+schedule_type: "calendar-generic"
+readings:
+  - date: "Jan-01"  # MMM-DD format for January 1st
+    sections: [...]
+  - date: "Jan-02"  # MMM-DD format for January 2nd
     sections: [...]
 ```
 
@@ -297,6 +310,7 @@ plan:
 5. Verse ranges must be valid for the specified chapter
 6. For `numbered` plans, days must start at 1 and increment continuously
 7. For `calendar` plans, dates must be in ISO format (YYYY-MM-DD)
+8. For `calendar-generic` plans, dates must be in MMM-DD format (e.g., "Jan-01" for January 1st)
 
 ## Best Practices
 
