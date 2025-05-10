@@ -3,6 +3,7 @@ plan:
   name: "Minimal Flexible Plan"
   description: "A tiny example of a flexible checklist plan."
   type: "thematic"
+  version: "1.0"  # Adding version field
   duration_days: -1 # Standard for flexible plans
   schedule_type: "flexible"
   readings:

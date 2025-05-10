@@ -3,6 +3,7 @@ plan:
   name: "Minimal Day-of-Week Plan"
   description: "A tiny example of a day-of-week based plan."
   type: "thematic"
+  version: "1.0"  # Adding version field
   duration_days: -1 # Duration often not applicable or tracked simply
   schedule_type: "day-of-week"
 

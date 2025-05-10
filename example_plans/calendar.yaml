@@ -3,6 +3,7 @@ plan:
   name: "Minimal Calendar Plan"
   description: "A tiny example of a calendar-dated plan."
   type: "sequential"
+  version: "2025"  # Adding version field to represent the year
   duration_days: 2 # Matches the number of unique dates
   schedule_type: "calendar"
   readings:

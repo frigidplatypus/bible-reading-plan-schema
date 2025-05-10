@@ -36,8 +36,9 @@ plan:
 | `name` | String | Display name of the reading plan |
 | `description` | String | Brief description of the reading plan |
 | `type` | String | Type of plan: `sequential`, `thematic`, `chronological`, etc. |
+| `version` | String | Version identifier for the plan (e.g., "1.0", "2023", "2023-2024") |
 | `duration_days` | Integer | Total number of days in the plan (use `-1` for flexible plans) |
-| `schedule_type` | String | How days are tracked: `numbered` (day 1, 2...), `calendar` (specific dates), or `flexible` (checklist) |
+| `schedule_type` | String | How days are tracked: `numbered` (day 1, 2...), `calendar` (specific dates), `flexible` (checklist), or `day-of-week` (separate tracking per day of week) |
 | `readings` | Array | List of reading day entries |
 
 ### Optional Plan Fields
@@ -163,6 +164,46 @@ readings:
     sections: [...]
 ```
 
+### By Day of Week Schedule
+
+For plans that have different reading lists by day of the week.  Sunday: Poetry, Sunday: Pentatuech, Thursday: Gospels, etc.
+
+```yaml
+schedule_type: day-of-week
+day_section:
+    sunday: "poetry"
+    monday: "pentateuch"
+    tuesday: "historical"
+    wednesday: "prophets"
+    thursday: "gospels"
+    friday: "epistles"
+    saturday: "personal_choice"
+readings:
+    - day_of_week: "sunday"
+      id: "sunday-poetry-1"
+      sections:
+        - book: "Psalms"
+          chapters: [1, 2, 3, 4, 5]
+
+    - day_of_week: "sunday"
+      id: "sunday-poetry-2"
+      sections:
+        - book: "Psalms"
+          chapters: [6, 7, 8, 9, 10]
+
+    - day_of_week: "monday"
+      id: "monday-pentateuch-1"
+      sections:
+        - book: "Genesis"
+          chapters: [1, 2, 3]
+
+    - day_of_week: "monday"
+      id: "monday-pentateuch-2"
+      sections:
+        - book: "Genesis"
+          chapters: [4, 5, 6]
+```
+
 ## Special Day Types
 
 Reading days can have special types:
@@ -251,7 +292,7 @@ plan:
 
 1. Plan `id` must be unique and contain only lowercase letters, numbers, and hyphens
 2. Each reading must have either `day`, `date`, or `id` based on the `schedule_type`
-3. Book names must be valid Bible book names
+3. Book names must be valid Bible book names or abbreviations
 4. Chapter numbers must be valid for the specified book
 5. Verse ranges must be valid for the specified chapter
 6. For `numbered` plans, days must start at 1 and increment continuously
@@ -262,9 +303,7 @@ plan:
 1. Keep plan IDs short but descriptive
 2. Provide detailed descriptions for plans
 3. Include appropriate tags to make plans discoverable
-4. For longer plans, consider including periodic rest or catch-up days
-5. Use supplementary content to enhance the reading experience
-6. For reading section orders, follow a logical progression (Old Testament to New Testament, chronological, etc.)
+4. Use supplementary content to enhance the reading experience
 
 ## File Naming Convention
 

@@ -3,6 +3,7 @@ plan:
   name: "Minimal Numbered Plan"
   description: "A tiny example of a numbered plan."
   type: "sequential"
+  version: "1.0"  # Adding version field
   duration_days: 2 # Must match the number of 'day' entries
   schedule_type: "numbered"
   readings:
