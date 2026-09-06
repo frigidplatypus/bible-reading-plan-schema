@@ -1,0 +1,275 @@
+plan:
+  id: "journey-through-the-bible"
+  name: "Journey through the Bible"
+  description: >-
+    A 47-week journey through the entire Bible, one section per week.
+    Sunday school reading schedule v1.0; weekly handouts take precedence
+    over this schedule when they differ.
+  type: "sequential"
+  version: "1.0"
+  duration_days: -1
+  schedule_type: "flexible"
+
+  metadata:
+    tags: ["journey-through-the-bible", "whole-bible", "weekly", "sunday-school"]
+
+  features:
+    allow_notes: true
+    track_partial_completion: true
+    catch_up_strategy: "flexible"
+
+  readings:
+    - id: "week-01"
+      sections:
+        - book: "Genesis"
+          chapters: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26]
+    - id: "week-02"
+      sections:
+        - book: "Genesis"
+          chapters: [27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50]
+    - id: "week-03"
+      sections:
+        - book: "Exodus"
+          chapters: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18]
+    - id: "week-04"
+      sections:
+        - book: "Exodus"
+          chapters: [19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40]
+    - id: "week-05"
+      sections:
+        - book: "Leviticus"
+          chapters: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+    - id: "week-06"
+      sections:
+        - book: "Leviticus"
+          chapters: [16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27]
+    - id: "week-07"
+      sections:
+        - book: "Numbers"
+          chapters: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17]
+    - id: "week-08"
+      sections:
+        - book: "Numbers"
+          chapters: [18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36]
+    - id: "week-09"
+      sections:
+        - book: "Deuteronomy"
+          chapters: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17]
+    - id: "week-10"
+      sections:
+        - book: "Deuteronomy"
+          chapters: [18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34]
+    - id: "week-11"
+      sections:
+        - book: "Joshua"
+          chapters: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24]
+    - id: "week-12"
+      sections:
+        - book: "Judges"
+          chapters: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21]
+        - book: "Ruth"
+          chapters: [1, 2, 3, 4]
+    - id: "week-13"
+      sections:
+        - book: "1 Samuel"
+          chapters: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31]
+    - id: "week-14"
+      sections:
+        - book: "2 Samuel"
+          chapters: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24]
+    - id: "week-15"
+      sections:
+        - book: "1 Kings"
+          chapters: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22]
+    - id: "week-16"
+      sections:
+        - book: "2 Kings"
+          chapters: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25]
+    - id: "week-17"
+      sections:
+        - book: "Psalms"
+          chapters: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41]
+    - id: "week-18"
+      sections:
+        - book: "Psalms"
+          chapters: [42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72]
+    - id: "week-19"
+      sections:
+        - book: "Psalms"
+          chapters: [73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106]
+    - id: "week-20"
+      sections:
+        - book: "Psalms"
+          chapters: [107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 118, 119]
+    - id: "week-21"
+      sections:
+        - book: "Psalms"
+          chapters: [120, 121, 122, 123, 124, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 144, 145, 146, 147, 148, 149, 150]
+    - id: "week-22"
+      sections:
+        - book: "Proverbs"
+          chapters: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31]
+    - id: "week-23"
+      sections:
+        - book: "Job"
+          chapters: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20]
+    - id: "week-24"
+      sections:
+        - book: "Job"
+          chapters: [21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42]
+    - id: "week-25"
+      sections:
+        - book: "Ecclesiastes"
+          chapters: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+        - book: "Song of Solomon"
+          chapters: [1, 2, 3, 4, 5, 6, 7, 8]
+    - id: "week-26"
+      sections:
+        - book: "Isaiah"
+          chapters: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23]
+    - id: "week-27"
+      sections:
+        - book: "Isaiah"
+          chapters: [24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39]
+    - id: "week-28"
+      sections:
+        - book: "Isaiah"
+          chapters: [40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66]
+    - id: "week-29"
+      sections:
+        - book: "Amos"
+          chapters: [1, 2, 3, 4, 5, 6, 7, 8, 9]
+        - book: "Jonah"
+          chapters: [1, 2, 3, 4]
+        - book: "Hosea"
+          chapters: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14]
+        - book: "Nahum"
+          chapters: [1, 2, 3]
+    - id: "week-30"
+      sections:
+        - book: "Micah"
+          chapters: [1, 2, 3, 4, 5, 6, 7]
+        - book: "Habakkuk"
+          chapters: [1, 2, 3]
+        - book: "Zephaniah"
+          chapters: [1, 2, 3]
+        - book: "Obadiah"
+          chapters: [1]
+    - id: "week-31"
+      sections:
+        - book: "Jeremiah"
+          chapters: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29]
+    - id: "week-32"
+      sections:
+        - book: "Jeremiah"
+          chapters: [30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52]
+        - book: "Lamentations"
+          chapters: [1, 2, 3, 4, 5]
+    - id: "week-33"
+      sections:
+        - book: "Ezekiel"
+          chapters: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30]
+    - id: "week-34"
+      sections:
+        - book: "Ezekiel"
+          chapters: [31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48]
+        - book: "Daniel"
+          chapters: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+    - id: "week-35"
+      sections:
+        - book: "1 Chronicles"
+          chapters: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29]
+    - id: "week-36"
+      sections:
+        - book: "2 Chronicles"
+          chapters: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36]
+    - id: "week-37"
+      sections:
+        - book: "Ezra"
+          chapters: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+        - book: "Esther"
+          chapters: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+        - book: "Nehemiah"
+          chapters: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]
+    - id: "week-38"
+      sections:
+        - book: "Haggai"
+          chapters: [1, 2]
+        - book: "Zechariah"
+          chapters: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14]
+        - book: "Malachi"
+          chapters: [1, 2, 3, 4]
+        - book: "Joel"
+          chapters: [1, 2, 3]
+    - id: "week-39"
+      sections:
+        - book: "Matthew"
+          chapters: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28]
+    - id: "week-40"
+      sections:
+        - book: "Luke"
+          chapters: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24]
+    - id: "week-41"
+      sections:
+        - book: "Acts"
+          chapters: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28]
+    - id: "week-42"
+      sections:
+        - book: "Galatians"
+          chapters: [1, 2, 3, 4, 5, 6]
+        - book: "1 Thessalonians"
+          chapters: [1, 2, 3, 4, 5]
+        - book: "2 Thessalonians"
+          chapters: [1, 2, 3]
+        - book: "1 Corinthians"
+          chapters: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]
+    - id: "week-43"
+      sections:
+        - book: "2 Corinthians"
+          chapters: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]
+        - book: "Romans"
+          chapters: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]
+    - id: "week-44"
+      sections:
+        - book: "Ephesians"
+          chapters: [1, 2, 3, 4, 5, 6]
+        - book: "Philippians"
+          chapters: [1, 2, 3, 4]
+        - book: "Colossians"
+          chapters: [1, 2, 3, 4]
+        - book: "Philemon"
+          chapters: [1]
+        - book: "1 Timothy"
+          chapters: [1, 2, 3, 4, 5, 6]
+        - book: "Titus"
+          chapters: [1, 2, 3]
+        - book: "2 Timothy"
+          chapters: [1, 2, 3, 4]
+    - id: "week-45"
+      sections:
+        - book: "James"
+          chapters: [1, 2, 3, 4, 5]
+        - book: "Jude"
+          chapters: [1]
+        - book: "Hebrews"
+          chapters: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13]
+        - book: "Mark"
+          chapters: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]
+    - id: "week-46"
+      sections:
+        - book: "John"
+          chapters: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21]
+        - book: "1 John"
+          chapters: [1, 2, 3, 4, 5]
+        - book: "2 John"
+          chapters: [1]
+        - book: "3 John"
+          chapters: [1]
+    - id: "week-47"
+      sections:
+        - book: "1 Peter"
+          chapters: [1, 2, 3, 4, 5]
+        - book: "2 Peter"
+          chapters: [1, 2, 3]
+        - book: "Revelation"
+          chapters: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22]
