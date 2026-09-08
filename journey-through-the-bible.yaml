@@ -108,10 +108,48 @@ plan:
       supplementary:
         questions:
           - "How do the events of these chapters prepare for, or point toward, the remaining events of redemptive history?"
-    - id: "week-03"
+    - id: "week-03-r013"
       sections:
         - book: "Exodus"
-          chapters: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18]
+          chapters: [1, 2, 3, 4]
+      supplementary:
+        questions:
+          - "What promises made to Abraham have been fulfilled by this point in Israel’s history? Which promises have not been fulfilled?"
+    - id: "week-03-r014"
+      sections:
+        - book: "Exodus"
+          chapters: [5, 6]
+      supplementary:
+        questions:
+          - "What sort of struggles or conflicts do Moses and Israel experience in the course of these chapters?"
+    - id: "week-03-r015"
+      sections:
+        - book: "Exodus"
+          chapters: [7, 8, 9, 10]
+      supplementary:
+        questions:
+          - "How is the sovereignty of God, over Pharaoh and the gods of Egypt, shown more and more as the plagues progress?"
+    - id: "week-03-r016"
+      sections:
+        - book: "Exodus"
+          chapters: [11, 12, 13]
+      supplementary:
+        questions:
+          - "Describe the ways that the last plague and the Passover foreshadow the work of Christ. (Remember last week’s lesson on typology.)"
+    - id: "week-03-r017"
+      sections:
+        - book: "Exodus"
+          chapters: [14, 15]
+      supplementary:
+        questions:
+          - "Describe the ways that the exodus and the crossing of the Red Sea foreshadow the work of Christ. (Remember last week’s lesson on typology.)"
+    - id: "week-03-r018"
+      sections:
+        - book: "Exodus"
+          chapters: [16, 17, 18]
+      supplementary:
+        questions:
+          - "How do the events of these chapters prepare Israel to serve the Lord in the wilderness?"
     - id: "week-04"
       sections:
         - book: "Exodus"
