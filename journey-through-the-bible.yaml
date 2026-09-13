@@ -150,10 +150,48 @@ plan:
       supplementary:
         questions:
           - "How do the events of these chapters prepare Israel to serve the Lord in the wilderness?"
-    - id: "week-04"
+    - id: "week-04-r019"
       sections:
         - book: "Exodus"
-          chapters: [19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40]
+          chapters: [19, 20]
+      supplementary:
+        questions:
+          - "Based on this portion of scripture, how would you define, describe, or summarize the “Old Covenant” between God and Israel?"
+    - id: "week-04-r020"
+      sections:
+        - book: "Exodus"
+          chapters: [21, 22, 23, 24]
+      supplementary:
+        questions:
+          - "Based on this portion of scripture, what is the role of Law in the “Old Covenant” between God and Israel?"
+    - id: "week-04-r021"
+      sections:
+        - book: "Exodus"
+          chapters: [25, 26, 27]
+      supplementary:
+        questions:
+          - "In what way does the tabernacle represent a partial restoration of Eden for the people of Israel in their relationship with the Lord?"
+    - id: "week-04-r022"
+      sections:
+        - book: "Exodus"
+          chapters: [28, 29, 30, 31]
+      supplementary:
+        questions:
+          - "This portion is full of intermediaries between God and Israel: Moses, the priests, and the craftsmen who will build the tent of worship. Consider these men and their role in light of the role of Christ as mediator."
+    - id: "week-04-r023"
+      sections:
+        - book: "Exodus"
+          chapters: [32, 33, 34, 35]
+      supplementary:
+        questions:
+          - "How would you explain God’s change of mind in Exodus 32:14 within the context of the unchanging truths of Exodus 34:6-7?"
+    - id: "week-04-r024"
+      sections:
+        - book: "Exodus"
+          chapters: [36, 37, 38, 39, 40]
+      supplementary:
+        questions:
+          - "In a time when paper and ink were rare and precious, why would Moses write this portion of scripture, when it is largely just a repeat of chapters 25-31?"
     - id: "week-05"
       sections:
         - book: "Leviticus"
