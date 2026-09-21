@@ -192,10 +192,48 @@ plan:
       supplementary:
         questions:
           - "In a time when paper and ink were rare and precious, why would Moses write this portion of scripture, when it is largely just a repeat of chapters 25-31?"
-    - id: "week-05"
+    - id: "week-05-r025"
       sections:
         - book: "Leviticus"
-          chapters: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+          chapters: [1, 2, 3]
+      supplementary:
+        questions:
+          - "Based on this portion of scripture, complete the offerings chart (Burnt, Grain, Peace, Sin, Guilt): what animal, plant, etc., may be used in this offering? Is this offering more voluntary or more mandatory? What does this offering do or signify, as compared to the other four offerings? How does this offering foreshadow the work of Christ as our atonement?"
+    - id: "week-05-r026"
+      sections:
+        - book: "Leviticus"
+          chapters: [4, 5]
+      supplementary:
+        questions:
+          - "Based on this portion of scripture, complete the offerings chart (Burnt, Grain, Peace, Sin, Guilt): what animal, plant, etc., may be used in this offering? Is this offering more voluntary or more mandatory? What does this offering do or signify, as compared to the other four offerings? How does this offering foreshadow the work of Christ as our atonement?"
+    - id: "week-05-r027"
+      sections:
+        - book: "Leviticus"
+          chapters: [6, 7]
+      supplementary:
+        questions:
+          - "Based on this portion of scripture, complete the offerings chart (Burnt, Grain, Peace, Sin, Guilt): what animal, plant, etc., may be used in this offering? Is this offering more voluntary or more mandatory? What does this offering do or signify, as compared to the other four offerings? How does this offering foreshadow the work of Christ as our atonement?"
+    - id: "week-05-r028"
+      sections:
+        - book: "Leviticus"
+          chapters: [8, 9, 10]
+      supplementary:
+        questions:
+          - "Based on the consecration of the priests and the death of Nadab and Abihu, what does it mean for the Lord to be holy and to treat the Lord as holy (Lev. 10:3)?"
+    - id: "week-05-r029"
+      sections:
+        - book: "Leviticus"
+          chapters: [11, 12]
+      supplementary:
+        questions:
+          - "Two very different forms of ritual uncleanness are described in these chapters. Can you think of anything in our culture like ritual uncleanness?"
+    - id: "week-05-r030"
+      sections:
+        - book: "Leviticus"
+          chapters: [13, 14, 15]
+      supplementary:
+        questions:
+          - "How do the laws for dealing with leprosy contrast with Christ’s treatment of lepers? See Matthew 8:1ff and Luke 17:11ff."
     - id: "week-06"
       sections:
         - book: "Leviticus"
