@@ -234,10 +234,48 @@ plan:
       supplementary:
         questions:
           - "How do the laws for dealing with leprosy contrast with Christ’s treatment of lepers? See Matthew 8:1ff and Luke 17:11ff."
-    - id: "week-06"
+    - id: "week-06-r031"
       sections:
         - book: "Leviticus"
-          chapters: [16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27]
+          chapters: [16, 17]
+      supplementary:
+        questions:
+          - "This passage might be the most detail we get about atonement in Old Testament law. How do these details foreshadow the atonement made by Christ for us?"
+    - id: "week-06-r032"
+      sections:
+        - book: "Leviticus"
+          chapters: [18, 19, 20]
+      supplementary:
+        questions:
+          - "Some Christians like to divide the various laws in the books of Moses into laws which are moral (giving moral principles), civil (administrating the nation) & ceremonial (ritual use). Do any laws in this portion seem to defy that kind of categorization?"
+    - id: "week-06-r033"
+      sections:
+        - book: "Leviticus"
+          chapters: [21, 22]
+      supplementary:
+        questions:
+          - "Can you see any ways these laws for priests might foreshadow the priesthood or Christ, or any ways in which Christ surpasses the ministry of these priests?"
+    - id: "week-06-r034"
+      sections:
+        - book: "Leviticus"
+          chapters: [23, 24]
+      supplementary:
+        questions:
+          - "Can you see any ways these holy days foreshadow the salvation granted by Christ, or any way in which the coming of Christ exceeds these holy days?"
+    - id: "week-06-r035"
+      sections:
+        - book: "Leviticus"
+          chapters: [25]
+      supplementary:
+        questions:
+          - "The Sabbath year and the Jubilee are favorite topics among Christians who study typology (how Christ is foreshadowed in the Old Testament). Why do you think that is?"
+    - id: "week-06-r036"
+      sections:
+        - book: "Leviticus"
+          chapters: [26, 27]
+      supplementary:
+        questions:
+          - "Chapter 26 offers another written summary of the Old Covenant. What does this passage emphasize about that covenant?"
     - id: "week-07"
       sections:
         - book: "Numbers"
