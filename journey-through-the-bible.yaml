@@ -276,10 +276,48 @@ plan:
       supplementary:
         questions:
           - "Chapter 26 offers another written summary of the Old Covenant. What does this passage emphasize about that covenant?"
-    - id: "week-07"
+    - id: "week-07-r037"
       sections:
         - book: "Numbers"
-          chapters: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17]
+          chapters: [1, 2]
+      supplementary:
+        questions:
+          - "The stated purpose of the census is to number the men who are able to go to war. Can you think of any other reasons for the Lord to include this information in Scripture?"
+    - id: "week-07-r038"
+      sections:
+        - book: "Numbers"
+          chapters: [3, 4, 5, 6]
+      supplementary:
+        questions:
+          - "The Nazarite vow (chapter 6) seems like a way for non-priests to serve the Lord. How do their requirements compare to priestly requirements, as described here or elsewhere?"
+    - id: "week-07-r039"
+      sections:
+        - book: "Numbers"
+          chapters: [7, 8, 9, 10]
+      supplementary:
+        questions:
+          - "Based on these chapters, how would you describe the current, spiritual state of Israel? Do they seem obedient or disobedient? Faithful or faithless? Reverent or blasphemous?"
+    - id: "week-07-r040"
+      sections:
+        - book: "Numbers"
+          chapters: [11, 12]
+      supplementary:
+        questions:
+          - "What reasons are given in this portion for why people would rebel against the Lord or against Moses?"
+    - id: "week-07-r041"
+      sections:
+        - book: "Numbers"
+          chapters: [13, 14]
+      supplementary:
+        questions:
+          - "If you have time, also read Deuteronomy 1. Based on that passage, how did the Lord demonstrate his power and willingness to give Israel victory in Canaan?"
+    - id: "week-07-r042"
+      sections:
+        - book: "Numbers"
+          chapters: [15, 16, 17]
+      supplementary:
+        questions:
+          - "Korah’s rebellion is the fifth rebellion of Israel narrated in the span of seven chapters. How is this rebellion (and the way it is answered) different than the others?"
     - id: "week-08"
       sections:
         - book: "Numbers"
