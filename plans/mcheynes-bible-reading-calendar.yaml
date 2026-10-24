@@ -1,0 +1,5273 @@
+plan:
+  id: mcheynes-bible-reading-calendar
+  name: Robert Murray M'Cheyne's Bible Reading Calendar
+  description: 'A one-year calendar reading the whole Bible: Old Testament once, New Testament and Psalms
+    twice. Four readings per day (two for family worship, two for secret reading). Based on the calendar
+    prepared by Robert Murray M''Cheyne (1813-1843), minister of St Peter''s Church, Dundee, Scotland.'
+  type: sequential
+  version: '1.0'
+  duration_days: 365
+  schedule_type: calendar-generic
+  metadata:
+    tags:
+    - mcheyne
+    - whole-bible
+    - calendar
+    - one-year
+    source: Robert Murray M'Cheyne's Bible Reading Calendar, mcheyne.info
+  features:
+    allow_notes: true
+    track_partial_completion: true
+    catch_up_strategy: flexible
+  readings:
+  - date: Jan-01
+    sections:
+    - book: Genesis
+      chapters:
+      - 1
+    - book: Matthew
+      chapters:
+      - 1
+    - book: Ezra
+      chapters:
+      - 1
+    - book: Acts
+      chapters:
+      - 1
+  - date: Jan-02
+    sections:
+    - book: Genesis
+      chapters:
+      - 2
+    - book: Matthew
+      chapters:
+      - 2
+    - book: Ezra
+      chapters:
+      - 2
+    - book: Acts
+      chapters:
+      - 2
+  - date: Jan-03
+    sections:
+    - book: Genesis
+      chapters:
+      - 3
+    - book: Matthew
+      chapters:
+      - 3
+    - book: Ezra
+      chapters:
+      - 3
+    - book: Acts
+      chapters:
+      - 3
+  - date: Jan-04
+    sections:
+    - book: Genesis
+      chapters:
+      - 4
+    - book: Matthew
+      chapters:
+      - 4
+    - book: Ezra
+      chapters:
+      - 4
+    - book: Acts
+      chapters:
+      - 4
+  - date: Jan-05
+    sections:
+    - book: Genesis
+      chapters:
+      - 5
+    - book: Matthew
+      chapters:
+      - 5
+    - book: Ezra
+      chapters:
+      - 5
+    - book: Acts
+      chapters:
+      - 5
+  - date: Jan-06
+    sections:
+    - book: Genesis
+      chapters:
+      - 6
+    - book: Matthew
+      chapters:
+      - 6
+    - book: Ezra
+      chapters:
+      - 6
+    - book: Acts
+      chapters:
+      - 6
+  - date: Jan-07
+    sections:
+    - book: Genesis
+      chapters:
+      - 7
+    - book: Matthew
+      chapters:
+      - 7
+    - book: Ezra
+      chapters:
+      - 7
+    - book: Acts
+      chapters:
+      - 7
+  - date: Jan-08
+    sections:
+    - book: Genesis
+      chapters:
+      - 8
+    - book: Matthew
+      chapters:
+      - 8
+    - book: Ezra
+      chapters:
+      - 8
+    - book: Acts
+      chapters:
+      - 8
+  - date: Jan-09
+    sections:
+    - book: Genesis
+      chapters:
+      - 9
+      - 10
+    - book: Matthew
+      chapters:
+      - 9
+    - book: Ezra
+      chapters:
+      - 9
+    - book: Acts
+      chapters:
+      - 9
+  - date: Jan-10
+    sections:
+    - book: Genesis
+      chapters:
+      - 11
+    - book: Matthew
+      chapters:
+      - 10
+    - book: Ezra
+      chapters:
+      - 10
+    - book: Acts
+      chapters:
+      - 10
+  - date: Jan-11
+    sections:
+    - book: Genesis
+      chapters:
+      - 12
+    - book: Matthew
+      chapters:
+      - 11
+    - book: Nehemiah
+      chapters:
+      - 1
+    - book: Acts
+      chapters:
+      - 11
+  - date: Jan-12
+    sections:
+    - book: Genesis
+      chapters:
+      - 13
+    - book: Matthew
+      chapters:
+      - 12
+    - book: Nehemiah
+      chapters:
+      - 2
+    - book: Acts
+      chapters:
+      - 12
+  - date: Jan-13
+    sections:
+    - book: Genesis
+      chapters:
+      - 14
+    - book: Matthew
+      chapters:
+      - 13
+    - book: Nehemiah
+      chapters:
+      - 3
+    - book: Acts
+      chapters:
+      - 13
+  - date: Jan-14
+    sections:
+    - book: Genesis
+      chapters:
+      - 15
+    - book: Matthew
+      chapters:
+      - 14
+    - book: Nehemiah
+      chapters:
+      - 4
+    - book: Acts
+      chapters:
+      - 14
+  - date: Jan-15
+    sections:
+    - book: Genesis
+      chapters:
+      - 16
+    - book: Matthew
+      chapters:
+      - 15
+    - book: Nehemiah
+      chapters:
+      - 5
+    - book: Acts
+      chapters:
+      - 15
+  - date: Jan-16
+    sections:
+    - book: Genesis
+      chapters:
+      - 17
+    - book: Matthew
+      chapters:
+      - 16
+    - book: Nehemiah
+      chapters:
+      - 6
+    - book: Acts
+      chapters:
+      - 16
+  - date: Jan-17
+    sections:
+    - book: Genesis
+      chapters:
+      - 18
+    - book: Matthew
+      chapters:
+      - 17
+    - book: Nehemiah
+      chapters:
+      - 7
+    - book: Acts
+      chapters:
+      - 17
+  - date: Jan-18
+    sections:
+    - book: Genesis
+      chapters:
+      - 19
+    - book: Matthew
+      chapters:
+      - 18
+    - book: Nehemiah
+      chapters:
+      - 8
+    - book: Acts
+      chapters:
+      - 18
+  - date: Jan-19
+    sections:
+    - book: Genesis
+      chapters:
+      - 20
+    - book: Matthew
+      chapters:
+      - 19
+    - book: Nehemiah
+      chapters:
+      - 9
+    - book: Acts
+      chapters:
+      - 19
+  - date: Jan-20
+    sections:
+    - book: Genesis
+      chapters:
+      - 21
+    - book: Matthew
+      chapters:
+      - 20
+    - book: Nehemiah
+      chapters:
+      - 10
+    - book: Acts
+      chapters:
+      - 20
+  - date: Jan-21
+    sections:
+    - book: Genesis
+      chapters:
+      - 22
+    - book: Matthew
+      chapters:
+      - 21
+    - book: Nehemiah
+      chapters:
+      - 11
+    - book: Acts
+      chapters:
+      - 21
+  - date: Jan-22
+    sections:
+    - book: Genesis
+      chapters:
+      - 23
+    - book: Matthew
+      chapters:
+      - 22
+    - book: Nehemiah
+      chapters:
+      - 12
+    - book: Acts
+      chapters:
+      - 22
+  - date: Jan-23
+    sections:
+    - book: Genesis
+      chapters:
+      - 24
+    - book: Matthew
+      chapters:
+      - 23
+    - book: Nehemiah
+      chapters:
+      - 13
+    - book: Acts
+      chapters:
+      - 23
+  - date: Jan-24
+    sections:
+    - book: Genesis
+      chapters:
+      - 25
+    - book: Matthew
+      chapters:
+      - 24
+    - book: Esther
+      chapters:
+      - 1
+    - book: Acts
+      chapters:
+      - 24
+  - date: Jan-25
+    sections:
+    - book: Genesis
+      chapters:
+      - 26
+    - book: Matthew
+      chapters:
+      - 25
+    - book: Esther
+      chapters:
+      - 2
+    - book: Acts
+      chapters:
+      - 25
+  - date: Jan-26
+    sections:
+    - book: Genesis
+      chapters:
+      - 27
+    - book: Matthew
+      chapters:
+      - 26
+    - book: Esther
+      chapters:
+      - 3
+    - book: Acts
+      chapters:
+      - 26
+  - date: Jan-27
+    sections:
+    - book: Genesis
+      chapters:
+      - 28
+    - book: Matthew
+      chapters:
+      - 27
+    - book: Esther
+      chapters:
+      - 4
+    - book: Acts
+      chapters:
+      - 27
+  - date: Jan-28
+    sections:
+    - book: Genesis
+      chapters:
+      - 29
+    - book: Matthew
+      chapters:
+      - 28
+    - book: Esther
+      chapters:
+      - 5
+    - book: Acts
+      chapters:
+      - 28
+  - date: Jan-29
+    sections:
+    - book: Genesis
+      chapters:
+      - 30
+    - book: Mark
+      chapters:
+      - 1
+    - book: Esther
+      chapters:
+      - 6
+    - book: Romans
+      chapters:
+      - 1
+  - date: Jan-30
+    sections:
+    - book: Genesis
+      chapters:
+      - 31
+    - book: Mark
+      chapters:
+      - 2
+    - book: Esther
+      chapters:
+      - 7
+    - book: Romans
+      chapters:
+      - 2
+  - date: Jan-31
+    sections:
+    - book: Genesis
+      chapters:
+      - 32
+    - book: Mark
+      chapters:
+      - 3
+    - book: Esther
+      chapters:
+      - 8
+    - book: Romans
+      chapters:
+      - 3
+  - date: Feb-01
+    sections:
+    - book: Genesis
+      chapters:
+      - 33
+    - book: Mark
+      chapters:
+      - 4
+    - book: Esther
+      chapters:
+      - 9
+      - 10
+    - book: Romans
+      chapters:
+      - 4
+  - date: Feb-02
+    sections:
+    - book: Genesis
+      chapters:
+      - 34
+    - book: Mark
+      chapters:
+      - 5
+    - book: Job
+      chapters:
+      - 1
+    - book: Romans
+      chapters:
+      - 5
+  - date: Feb-03
+    sections:
+    - book: Genesis
+      chapters:
+      - 35
+      - 36
+    - book: Mark
+      chapters:
+      - 6
+    - book: Job
+      chapters:
+      - 2
+    - book: Romans
+      chapters:
+      - 6
+  - date: Feb-04
+    sections:
+    - book: Genesis
+      chapters:
+      - 37
+    - book: Mark
+      chapters:
+      - 7
+    - book: Job
+      chapters:
+      - 3
+    - book: Romans
+      chapters:
+      - 7
+  - date: Feb-05
+    sections:
+    - book: Genesis
+      chapters:
+      - 38
+    - book: Mark
+      chapters:
+      - 8
+    - book: Job
+      chapters:
+      - 4
+    - book: Romans
+      chapters:
+      - 8
+  - date: Feb-06
+    sections:
+    - book: Genesis
+      chapters:
+      - 39
+    - book: Mark
+      chapters:
+      - 9
+    - book: Job
+      chapters:
+      - 5
+    - book: Romans
+      chapters:
+      - 9
+  - date: Feb-07
+    sections:
+    - book: Genesis
+      chapters:
+      - 40
+    - book: Mark
+      chapters:
+      - 10
+    - book: Job
+      chapters:
+      - 6
+    - book: Romans
+      chapters:
+      - 10
+  - date: Feb-08
+    sections:
+    - book: Genesis
+      chapters:
+      - 41
+    - book: Mark
+      chapters:
+      - 11
+    - book: Job
+      chapters:
+      - 7
+    - book: Romans
+      chapters:
+      - 11
+  - date: Feb-09
+    sections:
+    - book: Genesis
+      chapters:
+      - 42
+    - book: Mark
+      chapters:
+      - 12
+    - book: Job
+      chapters:
+      - 8
+    - book: Romans
+      chapters:
+      - 12
+  - date: Feb-10
+    sections:
+    - book: Genesis
+      chapters:
+      - 43
+    - book: Mark
+      chapters:
+      - 13
+    - book: Job
+      chapters:
+      - 9
+    - book: Romans
+      chapters:
+      - 13
+  - date: Feb-11
+    sections:
+    - book: Genesis
+      chapters:
+      - 44
+    - book: Mark
+      chapters:
+      - 14
+    - book: Job
+      chapters:
+      - 10
+    - book: Romans
+      chapters:
+      - 14
+  - date: Feb-12
+    sections:
+    - book: Genesis
+      chapters:
+      - 45
+    - book: Mark
+      chapters:
+      - 15
+    - book: Job
+      chapters:
+      - 11
+    - book: Romans
+      chapters:
+      - 15
+  - date: Feb-13
+    sections:
+    - book: Genesis
+      chapters:
+      - 46
+    - book: Mark
+      chapters:
+      - 16
+    - book: Job
+      chapters:
+      - 12
+    - book: Romans
+      chapters:
+      - 16
+  - date: Feb-14
+    sections:
+    - book: Genesis
+      chapters:
+      - 47
+    - book: Luke
+      chapter_verse: 1:1-38
+    - book: Job
+      chapters:
+      - 13
+    - book: 1 Corinthians
+      chapters:
+      - 1
+  - date: Feb-15
+    sections:
+    - book: Genesis
+      chapters:
+      - 48
+    - book: Luke
+      chapter_verse: 1:39-80
+    - book: Job
+      chapters:
+      - 14
+    - book: 1 Corinthians
+      chapters:
+      - 2
+  - date: Feb-16
+    sections:
+    - book: Genesis
+      chapters:
+      - 49
+    - book: Luke
+      chapters:
+      - 2
+    - book: Job
+      chapters:
+      - 15
+    - book: 1 Corinthians
+      chapters:
+      - 3
+  - date: Feb-17
+    sections:
+    - book: Genesis
+      chapters:
+      - 50
+    - book: Luke
+      chapters:
+      - 3
+    - book: Job
+      chapters:
+      - 16
+      - 17
+    - book: 1 Corinthians
+      chapters:
+      - 4
+  - date: Feb-18
+    sections:
+    - book: Exodus
+      chapters:
+      - 1
+    - book: Luke
+      chapters:
+      - 4
+    - book: Job
+      chapters:
+      - 18
+    - book: 1 Corinthians
+      chapters:
+      - 5
+  - date: Feb-19
+    sections:
+    - book: Exodus
+      chapters:
+      - 2
+    - book: Luke
+      chapters:
+      - 5
+    - book: Job
+      chapters:
+      - 19
+    - book: 1 Corinthians
+      chapters:
+      - 6
+  - date: Feb-20
+    sections:
+    - book: Exodus
+      chapters:
+      - 3
+    - book: Luke
+      chapters:
+      - 6
+    - book: Job
+      chapters:
+      - 20
+    - book: 1 Corinthians
+      chapters:
+      - 7
+  - date: Feb-21
+    sections:
+    - book: Exodus
+      chapters:
+      - 4
+    - book: Luke
+      chapters:
+      - 7
+    - book: Job
+      chapters:
+      - 21
+    - book: 1 Corinthians
+      chapters:
+      - 8
+  - date: Feb-22
+    sections:
+    - book: Exodus
+      chapters:
+      - 5
+    - book: Luke
+      chapters:
+      - 8
+    - book: Job
+      chapters:
+      - 22
+    - book: 1 Corinthians
+      chapters:
+      - 9
+  - date: Feb-23
+    sections:
+    - book: Exodus
+      chapters:
+      - 6
+    - book: Luke
+      chapters:
+      - 9
+    - book: Job
+      chapters:
+      - 23
+    - book: 1 Corinthians
+      chapters:
+      - 10
+  - date: Feb-24
+    sections:
+    - book: Exodus
+      chapters:
+      - 7
+    - book: Luke
+      chapters:
+      - 10
+    - book: Job
+      chapters:
+      - 24
+    - book: 1 Corinthians
+      chapters:
+      - 11
+  - date: Feb-25
+    sections:
+    - book: Exodus
+      chapters:
+      - 8
+    - book: Luke
+      chapters:
+      - 11
+    - book: Job
+      chapters:
+      - 25
+      - 26
+    - book: 1 Corinthians
+      chapters:
+      - 12
+  - date: Feb-26
+    sections:
+    - book: Exodus
+      chapters:
+      - 9
+    - book: Luke
+      chapters:
+      - 12
+    - book: Job
+      chapters:
+      - 27
+    - book: 1 Corinthians
+      chapters:
+      - 13
+  - date: Feb-27
+    sections:
+    - book: Exodus
+      chapters:
+      - 10
+    - book: Luke
+      chapters:
+      - 13
+    - book: Job
+      chapters:
+      - 28
+    - book: 1 Corinthians
+      chapters:
+      - 14
+  - date: Feb-28
+    sections:
+    - book: Exodus
+      chapters:
+      - 11
+    - book: Exodus
+      chapter_verse: 12:1-21
+    - book: Luke
+      chapters:
+      - 14
+    - book: Job
+      chapters:
+      - 29
+    - book: 1 Corinthians
+      chapters:
+      - 15
+  - date: Mar-01
+    sections:
+    - book: Exodus
+      chapter_verse: 12:22-51
+    - book: Luke
+      chapters:
+      - 15
+    - book: Job
+      chapters:
+      - 30
+    - book: 1 Corinthians
+      chapters:
+      - 16
+  - date: Mar-02
+    sections:
+    - book: Exodus
+      chapters:
+      - 13
+    - book: Luke
+      chapters:
+      - 16
+    - book: Job
+      chapters:
+      - 31
+    - book: 2 Corinthians
+      chapters:
+      - 1
+  - date: Mar-03
+    sections:
+    - book: Exodus
+      chapters:
+      - 14
+    - book: Luke
+      chapters:
+      - 17
+    - book: Job
+      chapters:
+      - 32
+    - book: 2 Corinthians
+      chapters:
+      - 2
+  - date: Mar-04
+    sections:
+    - book: Exodus
+      chapters:
+      - 15
+    - book: Luke
+      chapters:
+      - 18
+    - book: Job
+      chapters:
+      - 33
+    - book: 2 Corinthians
+      chapters:
+      - 3
+  - date: Mar-05
+    sections:
+    - book: Exodus
+      chapters:
+      - 16
+    - book: Luke
+      chapters:
+      - 19
+    - book: Job
+      chapters:
+      - 34
+    - book: 2 Corinthians
+      chapters:
+      - 4
+  - date: Mar-06
+    sections:
+    - book: Exodus
+      chapters:
+      - 17
+    - book: Luke
+      chapters:
+      - 20
+    - book: Job
+      chapters:
+      - 35
+    - book: 2 Corinthians
+      chapters:
+      - 5
+  - date: Mar-07
+    sections:
+    - book: Exodus
+      chapters:
+      - 18
+    - book: Luke
+      chapters:
+      - 21
+    - book: Job
+      chapters:
+      - 36
+    - book: 2 Corinthians
+      chapters:
+      - 6
+  - date: Mar-08
+    sections:
+    - book: Exodus
+      chapters:
+      - 19
+    - book: Luke
+      chapters:
+      - 22
+    - book: Job
+      chapters:
+      - 37
+    - book: 2 Corinthians
+      chapters:
+      - 7
+  - date: Mar-09
+    sections:
+    - book: Exodus
+      chapters:
+      - 20
+    - book: Luke
+      chapters:
+      - 23
+    - book: Job
+      chapters:
+      - 38
+    - book: 2 Corinthians
+      chapters:
+      - 8
+  - date: Mar-10
+    sections:
+    - book: Exodus
+      chapters:
+      - 21
+    - book: Luke
+      chapters:
+      - 24
+    - book: Job
+      chapters:
+      - 39
+    - book: 2 Corinthians
+      chapters:
+      - 9
+  - date: Mar-11
+    sections:
+    - book: Exodus
+      chapters:
+      - 22
+    - book: John
+      chapters:
+      - 1
+    - book: Job
+      chapters:
+      - 40
+    - book: 2 Corinthians
+      chapters:
+      - 10
+  - date: Mar-12
+    sections:
+    - book: Exodus
+      chapters:
+      - 23
+    - book: John
+      chapters:
+      - 2
+    - book: Job
+      chapters:
+      - 41
+    - book: 2 Corinthians
+      chapters:
+      - 11
+  - date: Mar-13
+    sections:
+    - book: Exodus
+      chapters:
+      - 24
+    - book: John
+      chapters:
+      - 3
+    - book: Job
+      chapters:
+      - 42
+    - book: 2 Corinthians
+      chapters:
+      - 12
+  - date: Mar-14
+    sections:
+    - book: Exodus
+      chapters:
+      - 25
+    - book: John
+      chapters:
+      - 4
+    - book: Proverbs
+      chapters:
+      - 1
+    - book: 2 Corinthians
+      chapters:
+      - 13
+  - date: Mar-15
+    sections:
+    - book: Exodus
+      chapters:
+      - 26
+    - book: John
+      chapters:
+      - 5
+    - book: Proverbs
+      chapters:
+      - 2
+    - book: Galatians
+      chapters:
+      - 1
+  - date: Mar-16
+    sections:
+    - book: Exodus
+      chapters:
+      - 27
+    - book: John
+      chapters:
+      - 6
+    - book: Proverbs
+      chapters:
+      - 3
+    - book: Galatians
+      chapters:
+      - 2
+  - date: Mar-17
+    sections:
+    - book: Exodus
+      chapters:
+      - 28
+    - book: John
+      chapters:
+      - 7
+    - book: Proverbs
+      chapters:
+      - 4
+    - book: Galatians
+      chapters:
+      - 3
+  - date: Mar-18
+    sections:
+    - book: Exodus
+      chapters:
+      - 29
+    - book: John
+      chapters:
+      - 8
+    - book: Proverbs
+      chapters:
+      - 5
+    - book: Galatians
+      chapters:
+      - 4
+  - date: Mar-19
+    sections:
+    - book: Exodus
+      chapters:
+      - 30
+    - book: John
+      chapters:
+      - 9
+    - book: Proverbs
+      chapters:
+      - 6
+    - book: Galatians
+      chapters:
+      - 5
+  - date: Mar-20
+    sections:
+    - book: Exodus
+      chapters:
+      - 31
+    - book: John
+      chapters:
+      - 10
+    - book: Proverbs
+      chapters:
+      - 7
+    - book: Galatians
+      chapters:
+      - 6
+  - date: Mar-21
+    sections:
+    - book: Exodus
+      chapters:
+      - 32
+    - book: John
+      chapters:
+      - 11
+    - book: Proverbs
+      chapters:
+      - 8
+    - book: Ephesians
+      chapters:
+      - 1
+  - date: Mar-22
+    sections:
+    - book: Exodus
+      chapters:
+      - 33
+    - book: John
+      chapters:
+      - 12
+    - book: Proverbs
+      chapters:
+      - 9
+    - book: Ephesians
+      chapters:
+      - 2
+  - date: Mar-23
+    sections:
+    - book: Exodus
+      chapters:
+      - 34
+    - book: John
+      chapters:
+      - 13
+    - book: Proverbs
+      chapters:
+      - 10
+    - book: Ephesians
+      chapters:
+      - 3
+  - date: Mar-24
+    sections:
+    - book: Exodus
+      chapters:
+      - 35
+    - book: John
+      chapters:
+      - 14
+    - book: Proverbs
+      chapters:
+      - 11
+    - book: Ephesians
+      chapters:
+      - 4
+  - date: Mar-25
+    sections:
+    - book: Exodus
+      chapters:
+      - 36
+    - book: John
+      chapters:
+      - 15
+    - book: Proverbs
+      chapters:
+      - 12
+    - book: Ephesians
+      chapters:
+      - 5
+  - date: Mar-26
+    sections:
+    - book: Exodus
+      chapters:
+      - 37
+    - book: John
+      chapters:
+      - 16
+    - book: Proverbs
+      chapters:
+      - 13
+    - book: Ephesians
+      chapters:
+      - 6
+  - date: Mar-27
+    sections:
+    - book: Exodus
+      chapters:
+      - 38
+    - book: John
+      chapters:
+      - 17
+    - book: Proverbs
+      chapters:
+      - 14
+    - book: Philippians
+      chapters:
+      - 1
+  - date: Mar-28
+    sections:
+    - book: Exodus
+      chapters:
+      - 39
+    - book: John
+      chapters:
+      - 18
+    - book: Proverbs
+      chapters:
+      - 15
+    - book: Philippians
+      chapters:
+      - 2
+  - date: Mar-29
+    sections:
+    - book: Exodus
+      chapters:
+      - 40
+    - book: John
+      chapters:
+      - 19
+    - book: Proverbs
+      chapters:
+      - 16
+    - book: Philippians
+      chapters:
+      - 3
+  - date: Mar-30
+    sections:
+    - book: Leviticus
+      chapters:
+      - 1
+    - book: John
+      chapters:
+      - 20
+    - book: Proverbs
+      chapters:
+      - 17
+    - book: Philippians
+      chapters:
+      - 4
+  - date: Mar-31
+    sections:
+    - book: Leviticus
+      chapters:
+      - 2
+      - 3
+    - book: John
+      chapters:
+      - 21
+    - book: Proverbs
+      chapters:
+      - 18
+    - book: Colossians
+      chapters:
+      - 1
+  - date: Apr-01
+    sections:
+    - book: Leviticus
+      chapters:
+      - 4
+    - book: Psalms
+      chapters:
+      - 1
+      - 2
+    - book: Proverbs
+      chapters:
+      - 19
+    - book: Colossians
+      chapters:
+      - 2
+  - date: Apr-02
+    sections:
+    - book: Leviticus
+      chapters:
+      - 5
+    - book: Psalms
+      chapters:
+      - 3
+      - 4
+    - book: Proverbs
+      chapters:
+      - 20
+    - book: Colossians
+      chapters:
+      - 3
+  - date: Apr-03
+    sections:
+    - book: Leviticus
+      chapters:
+      - 6
+    - book: Psalms
+      chapters:
+      - 5
+      - 6
+    - book: Proverbs
+      chapters:
+      - 21
+    - book: Colossians
+      chapters:
+      - 4
+  - date: Apr-04
+    sections:
+    - book: Leviticus
+      chapters:
+      - 7
+    - book: Psalms
+      chapters:
+      - 7
+      - 8
+    - book: Proverbs
+      chapters:
+      - 22
+    - book: 1 Thessalonians
+      chapters:
+      - 1
+  - date: Apr-05
+    sections:
+    - book: Leviticus
+      chapters:
+      - 8
+    - book: Psalms
+      chapters:
+      - 9
+    - book: Proverbs
+      chapters:
+      - 23
+    - book: 1 Thessalonians
+      chapters:
+      - 2
+  - date: Apr-06
+    sections:
+    - book: Leviticus
+      chapters:
+      - 9
+    - book: Psalms
+      chapters:
+      - 10
+    - book: Proverbs
+      chapters:
+      - 24
+    - book: 1 Thessalonians
+      chapters:
+      - 3
+  - date: Apr-07
+    sections:
+    - book: Leviticus
+      chapters:
+      - 10
+    - book: Psalms
+      chapters:
+      - 11
+      - 12
+    - book: Proverbs
+      chapters:
+      - 25
+    - book: 1 Thessalonians
+      chapters:
+      - 4
+  - date: Apr-08
+    sections:
+    - book: Leviticus
+      chapters:
+      - 11
+      - 12
+    - book: Psalms
+      chapters:
+      - 13
+      - 14
+    - book: Proverbs
+      chapters:
+      - 26
+    - book: 1 Thessalonians
+      chapters:
+      - 5
+  - date: Apr-09
+    sections:
+    - book: Leviticus
+      chapters:
+      - 13
+    - book: Psalms
+      chapters:
+      - 15
+      - 16
+    - book: Proverbs
+      chapters:
+      - 27
+    - book: 2 Thessalonians
+      chapters:
+      - 1
+  - date: Apr-10
+    sections:
+    - book: Leviticus
+      chapters:
+      - 14
+    - book: Psalms
+      chapters:
+      - 17
+    - book: Proverbs
+      chapters:
+      - 28
+    - book: 2 Thessalonians
+      chapters:
+      - 2
+  - date: Apr-11
+    sections:
+    - book: Leviticus
+      chapters:
+      - 15
+    - book: Psalms
+      chapters:
+      - 18
+    - book: Proverbs
+      chapters:
+      - 29
+    - book: 2 Thessalonians
+      chapters:
+      - 3
+  - date: Apr-12
+    sections:
+    - book: Leviticus
+      chapters:
+      - 16
+    - book: Psalms
+      chapters:
+      - 19
+    - book: Proverbs
+      chapters:
+      - 30
+    - book: 1 Timothy
+      chapters:
+      - 1
+  - date: Apr-13
+    sections:
+    - book: Leviticus
+      chapters:
+      - 17
+    - book: Psalms
+      chapters:
+      - 20
+      - 21
+    - book: Proverbs
+      chapters:
+      - 31
+    - book: 1 Timothy
+      chapters:
+      - 2
+  - date: Apr-14
+    sections:
+    - book: Leviticus
+      chapters:
+      - 18
+    - book: Psalms
+      chapters:
+      - 22
+    - book: Ecclesiastes
+      chapters:
+      - 1
+    - book: 1 Timothy
+      chapters:
+      - 3
+  - date: Apr-15
+    sections:
+    - book: Leviticus
+      chapters:
+      - 19
+    - book: Psalms
+      chapters:
+      - 23
+      - 24
+    - book: Ecclesiastes
+      chapters:
+      - 2
+    - book: 1 Timothy
+      chapters:
+      - 4
+  - date: Apr-16
+    sections:
+    - book: Leviticus
+      chapters:
+      - 20
+    - book: Psalms
+      chapters:
+      - 25
+    - book: Ecclesiastes
+      chapters:
+      - 3
+    - book: 1 Timothy
+      chapters:
+      - 5
+  - date: Apr-17
+    sections:
+    - book: Leviticus
+      chapters:
+      - 21
+    - book: Psalms
+      chapters:
+      - 26
+      - 27
+    - book: Ecclesiastes
+      chapters:
+      - 4
+    - book: 1 Timothy
+      chapters:
+      - 6
+  - date: Apr-18
+    sections:
+    - book: Leviticus
+      chapters:
+      - 22
+    - book: Psalms
+      chapters:
+      - 28
+      - 29
+    - book: Ecclesiastes
+      chapters:
+      - 5
+    - book: 2 Timothy
+      chapters:
+      - 1
+  - date: Apr-19
+    sections:
+    - book: Leviticus
+      chapters:
+      - 23
+    - book: Psalms
+      chapters:
+      - 30
+    - book: Ecclesiastes
+      chapters:
+      - 6
+    - book: 2 Timothy
+      chapters:
+      - 2
+  - date: Apr-20
+    sections:
+    - book: Leviticus
+      chapters:
+      - 24
+    - book: Psalms
+      chapters:
+      - 31
+    - book: Ecclesiastes
+      chapters:
+      - 7
+    - book: 2 Timothy
+      chapters:
+      - 3
+  - date: Apr-21
+    sections:
+    - book: Leviticus
+      chapters:
+      - 25
+    - book: Psalms
+      chapters:
+      - 32
+    - book: Ecclesiastes
+      chapters:
+      - 8
+    - book: 2 Timothy
+      chapters:
+      - 4
+  - date: Apr-22
+    sections:
+    - book: Leviticus
+      chapters:
+      - 26
+    - book: Psalms
+      chapters:
+      - 33
+    - book: Ecclesiastes
+      chapters:
+      - 9
+    - book: Titus
+      chapters:
+      - 1
+  - date: Apr-23
+    sections:
+    - book: Leviticus
+      chapters:
+      - 27
+    - book: Psalms
+      chapters:
+      - 34
+    - book: Ecclesiastes
+      chapters:
+      - 10
+    - book: Titus
+      chapters:
+      - 2
+  - date: Apr-24
+    sections:
+    - book: Numbers
+      chapters:
+      - 1
+    - book: Psalms
+      chapters:
+      - 35
+    - book: Ecclesiastes
+      chapters:
+      - 11
+    - book: Titus
+      chapters:
+      - 3
+  - date: Apr-25
+    sections:
+    - book: Numbers
+      chapters:
+      - 2
+    - book: Psalms
+      chapters:
+      - 36
+    - book: Ecclesiastes
+      chapters:
+      - 12
+    - book: Philemon
+      chapters:
+      - 1
+  - date: Apr-26
+    sections:
+    - book: Numbers
+      chapters:
+      - 3
+    - book: Psalms
+      chapters:
+      - 37
+    - book: Song of Solomon
+      chapters:
+      - 1
+    - book: Hebrews
+      chapters:
+      - 1
+  - date: Apr-27
+    sections:
+    - book: Numbers
+      chapters:
+      - 4
+    - book: Psalms
+      chapters:
+      - 38
+    - book: Song of Solomon
+      chapters:
+      - 2
+    - book: Hebrews
+      chapters:
+      - 2
+  - date: Apr-28
+    sections:
+    - book: Numbers
+      chapters:
+      - 5
+    - book: Psalms
+      chapters:
+      - 39
+    - book: Song of Solomon
+      chapters:
+      - 3
+    - book: Hebrews
+      chapters:
+      - 3
+  - date: Apr-29
+    sections:
+    - book: Numbers
+      chapters:
+      - 6
+    - book: Psalms
+      chapters:
+      - 40
+      - 41
+    - book: Song of Solomon
+      chapters:
+      - 4
+    - book: Hebrews
+      chapters:
+      - 4
+  - date: Apr-30
+    sections:
+    - book: Numbers
+      chapters:
+      - 7
+    - book: Psalms
+      chapters:
+      - 42
+      - 43
+    - book: Song of Solomon
+      chapters:
+      - 5
+    - book: Hebrews
+      chapters:
+      - 5
+  - date: May-01
+    sections:
+    - book: Numbers
+      chapters:
+      - 8
+    - book: Psalms
+      chapters:
+      - 44
+    - book: Song of Solomon
+      chapters:
+      - 6
+    - book: Hebrews
+      chapters:
+      - 6
+  - date: May-02
+    sections:
+    - book: Numbers
+      chapters:
+      - 9
+    - book: Psalms
+      chapters:
+      - 45
+    - book: Song of Solomon
+      chapters:
+      - 7
+    - book: Hebrews
+      chapters:
+      - 7
+  - date: May-03
+    sections:
+    - book: Numbers
+      chapters:
+      - 10
+    - book: Psalms
+      chapters:
+      - 46
+      - 47
+    - book: Song of Solomon
+      chapters:
+      - 8
+    - book: Hebrews
+      chapters:
+      - 8
+  - date: May-04
+    sections:
+    - book: Numbers
+      chapters:
+      - 11
+    - book: Psalms
+      chapters:
+      - 48
+    - book: Isaiah
+      chapters:
+      - 1
+    - book: Hebrews
+      chapters:
+      - 9
+  - date: May-05
+    sections:
+    - book: Numbers
+      chapters:
+      - 12
+      - 13
+    - book: Psalms
+      chapters:
+      - 49
+    - book: Isaiah
+      chapters:
+      - 2
+    - book: Hebrews
+      chapters:
+      - 10
+  - date: May-06
+    sections:
+    - book: Numbers
+      chapters:
+      - 14
+    - book: Psalms
+      chapters:
+      - 50
+    - book: Isaiah
+      chapters:
+      - 3
+      - 4
+    - book: Hebrews
+      chapters:
+      - 11
+  - date: May-07
+    sections:
+    - book: Numbers
+      chapters:
+      - 15
+    - book: Psalms
+      chapters:
+      - 51
+    - book: Isaiah
+      chapters:
+      - 5
+    - book: Hebrews
+      chapters:
+      - 12
+  - date: May-08
+    sections:
+    - book: Numbers
+      chapters:
+      - 16
+    - book: Psalms
+      chapters:
+      - 52
+      - 53
+      - 54
+    - book: Isaiah
+      chapters:
+      - 6
+    - book: Hebrews
+      chapters:
+      - 13
+  - date: May-09
+    sections:
+    - book: Numbers
+      chapters:
+      - 17
+      - 18
+    - book: Psalms
+      chapters:
+      - 55
+    - book: Isaiah
+      chapters:
+      - 7
+    - book: James
+      chapters:
+      - 1
+  - date: May-10
+    sections:
+    - book: Numbers
+      chapters:
+      - 19
+    - book: Psalms
+      chapters:
+      - 56
+      - 57
+    - book: Isaiah
+      chapters:
+      - 8
+    - book: Isaiah
+      chapter_verse: 9:1-7
+    - book: James
+      chapters:
+      - 2
+  - date: May-11
+    sections:
+    - book: Numbers
+      chapters:
+      - 20
+    - book: Psalms
+      chapters:
+      - 58
+      - 59
+    - book: Isaiah
+      chapter_verse: 9:7-21
+    - book: Isaiah
+      chapter_verse: 10:1-4
+    - book: James
+      chapters:
+      - 3
+  - date: May-12
+    sections:
+    - book: Numbers
+      chapters:
+      - 21
+    - book: Psalms
+      chapters:
+      - 60
+      - 61
+    - book: Isaiah
+      chapter_verse: 10:5-34
+    - book: James
+      chapters:
+      - 4
+  - date: May-13
+    sections:
+    - book: Numbers
+      chapters:
+      - 22
+    - book: Psalms
+      chapters:
+      - 62
+      - 63
+    - book: Isaiah
+      chapters:
+      - 11
+      - 12
+    - book: James
+      chapters:
+      - 5
+  - date: May-14
+    sections:
+    - book: Numbers
+      chapters:
+      - 23
+    - book: Psalms
+      chapters:
+      - 64
+      - 65
+    - book: Isaiah
+      chapters:
+      - 13
+    - book: 1 Peter
+      chapters:
+      - 1
+  - date: May-15
+    sections:
+    - book: Numbers
+      chapters:
+      - 24
+    - book: Psalms
+      chapters:
+      - 66
+      - 67
+    - book: Isaiah
+      chapters:
+      - 14
+    - book: 1 Peter
+      chapters:
+      - 2
+  - date: May-16
+    sections:
+    - book: Numbers
+      chapters:
+      - 25
+    - book: Psalms
+      chapters:
+      - 68
+    - book: Isaiah
+      chapters:
+      - 15
+    - book: 1 Peter
+      chapters:
+      - 3
+  - date: May-17
+    sections:
+    - book: Numbers
+      chapters:
+      - 26
+    - book: Psalms
+      chapters:
+      - 69
+    - book: Isaiah
+      chapters:
+      - 16
+    - book: 1 Peter
+      chapters:
+      - 4
+  - date: May-18
+    sections:
+    - book: Numbers
+      chapters:
+      - 27
+    - book: Psalms
+      chapters:
+      - 70
+      - 71
+    - book: Isaiah
+      chapters:
+      - 17
+      - 18
+    - book: 1 Peter
+      chapters:
+      - 5
+  - date: May-19
+    sections:
+    - book: Numbers
+      chapters:
+      - 28
+    - book: Psalms
+      chapters:
+      - 72
+    - book: Isaiah
+      chapters:
+      - 19
+      - 20
+    - book: 2 Peter
+      chapters:
+      - 1
+  - date: May-20
+    sections:
+    - book: Numbers
+      chapters:
+      - 29
+    - book: Psalms
+      chapters:
+      - 73
+    - book: Isaiah
+      chapters:
+      - 21
+    - book: 2 Peter
+      chapters:
+      - 2
+  - date: May-21
+    sections:
+    - book: Numbers
+      chapters:
+      - 30
+    - book: Psalms
+      chapters:
+      - 74
+    - book: Isaiah
+      chapters:
+      - 22
+    - book: 2 Peter
+      chapters:
+      - 3
+  - date: May-22
+    sections:
+    - book: Numbers
+      chapters:
+      - 31
+    - book: Psalms
+      chapters:
+      - 75
+      - 76
+    - book: Isaiah
+      chapters:
+      - 23
+    - book: 1 John
+      chapters:
+      - 1
+  - date: May-23
+    sections:
+    - book: Numbers
+      chapters:
+      - 32
+    - book: Psalms
+      chapters:
+      - 77
+    - book: Isaiah
+      chapters:
+      - 24
+    - book: 1 John
+      chapters:
+      - 2
+  - date: May-24
+    sections:
+    - book: Numbers
+      chapters:
+      - 33
+    - book: Psalms
+      chapter_verse: 78:1-37
+    - book: Isaiah
+      chapters:
+      - 25
+    - book: 1 John
+      chapters:
+      - 3
+  - date: May-25
+    sections:
+    - book: Numbers
+      chapters:
+      - 34
+    - book: Psalms
+      chapter_verse: 78:38-72
+    - book: Isaiah
+      chapters:
+      - 26
+    - book: 1 John
+      chapters:
+      - 4
+  - date: May-26
+    sections:
+    - book: Numbers
+      chapters:
+      - 35
+    - book: Psalms
+      chapters:
+      - 79
+    - book: Isaiah
+      chapters:
+      - 27
+    - book: 1 John
+      chapters:
+      - 5
+  - date: May-27
+    sections:
+    - book: Numbers
+      chapters:
+      - 36
+    - book: Psalms
+      chapters:
+      - 80
+    - book: Isaiah
+      chapters:
+      - 28
+    - book: 2 John
+      chapters:
+      - 1
+  - date: May-28
+    sections:
+    - book: Deuteronomy
+      chapters:
+      - 1
+    - book: Psalms
+      chapters:
+      - 81
+      - 82
+    - book: Isaiah
+      chapters:
+      - 29
+    - book: 3 John
+      chapters:
+      - 1
+  - date: May-29
+    sections:
+    - book: Deuteronomy
+      chapters:
+      - 2
+    - book: Psalms
+      chapters:
+      - 83
+      - 84
+    - book: Isaiah
+      chapters:
+      - 30
+    - book: Jude
+      chapters:
+      - 1
+  - date: May-30
+    sections:
+    - book: Deuteronomy
+      chapters:
+      - 3
+    - book: Psalms
+      chapters:
+      - 85
+    - book: Isaiah
+      chapters:
+      - 31
+    - book: Revelation
+      chapters:
+      - 1
+  - date: May-31
+    sections:
+    - book: Deuteronomy
+      chapters:
+      - 4
+    - book: Psalms
+      chapters:
+      - 86
+      - 87
+    - book: Isaiah
+      chapters:
+      - 32
+    - book: Revelation
+      chapters:
+      - 2
+  - date: Jun-01
+    sections:
+    - book: Deuteronomy
+      chapters:
+      - 5
+    - book: Psalms
+      chapters:
+      - 88
+    - book: Isaiah
+      chapters:
+      - 33
+    - book: Revelation
+      chapters:
+      - 3
+  - date: Jun-02
+    sections:
+    - book: Deuteronomy
+      chapters:
+      - 6
+    - book: Psalms
+      chapters:
+      - 89
+    - book: Isaiah
+      chapters:
+      - 34
+    - book: Revelation
+      chapters:
+      - 4
+  - date: Jun-03
+    sections:
+    - book: Deuteronomy
+      chapters:
+      - 7
+    - book: Psalms
+      chapters:
+      - 90
+    - book: Isaiah
+      chapters:
+      - 35
+    - book: Revelation
+      chapters:
+      - 5
+  - date: Jun-04
+    sections:
+    - book: Deuteronomy
+      chapters:
+      - 8
+    - book: Psalms
+      chapters:
+      - 91
+    - book: Isaiah
+      chapters:
+      - 36
+    - book: Revelation
+      chapters:
+      - 6
+  - date: Jun-05
+    sections:
+    - book: Deuteronomy
+      chapters:
+      - 9
+    - book: Psalms
+      chapters:
+      - 92
+      - 93
+    - book: Isaiah
+      chapters:
+      - 37
+    - book: Revelation
+      chapters:
+      - 7
+  - date: Jun-06
+    sections:
+    - book: Deuteronomy
+      chapters:
+      - 10
+    - book: Psalms
+      chapters:
+      - 94
+    - book: Isaiah
+      chapters:
+      - 38
+    - book: Revelation
+      chapters:
+      - 8
+  - date: Jun-07
+    sections:
+    - book: Deuteronomy
+      chapters:
+      - 11
+    - book: Psalms
+      chapters:
+      - 95
+      - 96
+    - book: Isaiah
+      chapters:
+      - 39
+    - book: Revelation
+      chapters:
+      - 9
+  - date: Jun-08
+    sections:
+    - book: Deuteronomy
+      chapters:
+      - 12
+    - book: Psalms
+      chapters:
+      - 97
+      - 98
+    - book: Isaiah
+      chapters:
+      - 40
+    - book: Revelation
+      chapters:
+      - 10
+  - date: Jun-09
+    sections:
+    - book: Deuteronomy
+      chapters:
+      - 13
+      - 14
+    - book: Psalms
+      chapters:
+      - 99
+      - 100
+      - 101
+    - book: Isaiah
+      chapters:
+      - 41
+    - book: Revelation
+      chapters:
+      - 11
+  - date: Jun-10
+    sections:
+    - book: Deuteronomy
+      chapters:
+      - 15
+    - book: Psalms
+      chapters:
+      - 102
+    - book: Isaiah
+      chapters:
+      - 42
+    - book: Revelation
+      chapters:
+      - 12
+  - date: Jun-11
+    sections:
+    - book: Deuteronomy
+      chapters:
+      - 16
+    - book: Psalms
+      chapters:
+      - 103
+    - book: Isaiah
+      chapters:
+      - 43
+    - book: Revelation
+      chapters:
+      - 13
+  - date: Jun-12
+    sections:
+    - book: Deuteronomy
+      chapters:
+      - 17
+    - book: Psalms
+      chapters:
+      - 104
+    - book: Isaiah
+      chapters:
+      - 44
+    - book: Revelation
+      chapters:
+      - 14
+  - date: Jun-13
+    sections:
+    - book: Deuteronomy
+      chapters:
+      - 18
+    - book: Psalms
+      chapters:
+      - 105
+    - book: Isaiah
+      chapters:
+      - 45
+    - book: Revelation
+      chapters:
+      - 15
+  - date: Jun-14
+    sections:
+    - book: Deuteronomy
+      chapters:
+      - 19
+    - book: Psalms
+      chapters:
+      - 106
+    - book: Isaiah
+      chapters:
+      - 46
+    - book: Revelation
+      chapters:
+      - 16
+  - date: Jun-15
+    sections:
+    - book: Deuteronomy
+      chapters:
+      - 20
+    - book: Psalms
+      chapters:
+      - 107
+    - book: Isaiah
+      chapters:
+      - 47
+    - book: Revelation
+      chapters:
+      - 17
+  - date: Jun-16
+    sections:
+    - book: Deuteronomy
+      chapters:
+      - 21
+    - book: Psalms
+      chapters:
+      - 108
+      - 109
+    - book: Isaiah
+      chapters:
+      - 48
+    - book: Revelation
+      chapters:
+      - 18
+  - date: Jun-17
+    sections:
+    - book: Deuteronomy
+      chapters:
+      - 22
+    - book: Psalms
+      chapters:
+      - 110
+      - 111
+    - book: Isaiah
+      chapters:
+      - 49
+    - book: Revelation
+      chapters:
+      - 19
+  - date: Jun-18
+    sections:
+    - book: Deuteronomy
+      chapters:
+      - 23
+    - book: Psalms
+      chapters:
+      - 112
+      - 113
+    - book: Isaiah
+      chapters:
+      - 50
+    - book: Revelation
+      chapters:
+      - 20
+  - date: Jun-19
+    sections:
+    - book: Deuteronomy
+      chapters:
+      - 24
+    - book: Psalms
+      chapters:
+      - 114
+      - 115
+    - book: Isaiah
+      chapters:
+      - 51
+    - book: Revelation
+      chapters:
+      - 21
+  - date: Jun-20
+    sections:
+    - book: Deuteronomy
+      chapters:
+      - 25
+    - book: Psalms
+      chapters:
+      - 116
+    - book: Isaiah
+      chapters:
+      - 52
+    - book: Revelation
+      chapters:
+      - 22
+  - date: Jun-21
+    sections:
+    - book: Deuteronomy
+      chapters:
+      - 26
+    - book: Psalms
+      chapters:
+      - 117
+      - 118
+    - book: Isaiah
+      chapters:
+      - 53
+    - book: Matthew
+      chapters:
+      - 1
+  - date: Jun-22
+    sections:
+    - book: Deuteronomy
+      chapters:
+      - 27
+    - book: Deuteronomy
+      chapter_verse: 28:1-19
+    - book: Psalms
+      chapter_verse: 119:1-24
+    - book: Isaiah
+      chapters:
+      - 54
+    - book: Matthew
+      chapters:
+      - 2
+  - date: Jun-23
+    sections:
+    - book: Deuteronomy
+      chapter_verse: 28:20-68
+    - book: Psalms
+      chapter_verse: 119:25-48
+    - book: Isaiah
+      chapters:
+      - 55
+    - book: Matthew
+      chapters:
+      - 3
+  - date: Jun-24
+    sections:
+    - book: Deuteronomy
+      chapters:
+      - 29
+    - book: Psalms
+      chapter_verse: 119:49-72
+    - book: Isaiah
+      chapters:
+      - 56
+    - book: Matthew
+      chapters:
+      - 4
+  - date: Jun-25
+    sections:
+    - book: Deuteronomy
+      chapters:
+      - 30
+    - book: Psalms
+      chapter_verse: 119:73-96
+    - book: Isaiah
+      chapters:
+      - 57
+    - book: Matthew
+      chapters:
+      - 5
+  - date: Jun-26
+    sections:
+    - book: Deuteronomy
+      chapters:
+      - 31
+    - book: Psalms
+      chapter_verse: 119:97-120
+    - book: Isaiah
+      chapters:
+      - 58
+    - book: Matthew
+      chapters:
+      - 6
+  - date: Jun-27
+    sections:
+    - book: Deuteronomy
+      chapters:
+      - 32
+    - book: Psalms
+      chapter_verse: 119:121-144
+    - book: Isaiah
+      chapters:
+      - 59
+    - book: Matthew
+      chapters:
+      - 7
+  - date: Jun-28
+    sections:
+    - book: Deuteronomy
+      chapters:
+      - 33
+      - 34
+    - book: Psalms
+      chapter_verse: 119:145-176
+    - book: Isaiah
+      chapters:
+      - 60
+    - book: Matthew
+      chapters:
+      - 8
+  - date: Jun-29
+    sections:
+    - book: Joshua
+      chapters:
+      - 1
+    - book: Psalms
+      chapters:
+      - 120
+      - 121
+      - 122
+    - book: Isaiah
+      chapters:
+      - 61
+    - book: Matthew
+      chapters:
+      - 9
+  - date: Jun-30
+    sections:
+    - book: Joshua
+      chapters:
+      - 2
+    - book: Psalms
+      chapters:
+      - 123
+      - 124
+      - 125
+    - book: Isaiah
+      chapters:
+      - 62
+    - book: Matthew
+      chapters:
+      - 10
+  - date: Jul-01
+    sections:
+    - book: Joshua
+      chapters:
+      - 3
+    - book: Psalms
+      chapters:
+      - 126
+      - 127
+      - 128
+    - book: Isaiah
+      chapters:
+      - 63
+    - book: Matthew
+      chapters:
+      - 11
+  - date: Jul-02
+    sections:
+    - book: Joshua
+      chapters:
+      - 4
+    - book: Psalms
+      chapters:
+      - 129
+      - 130
+      - 131
+    - book: Isaiah
+      chapters:
+      - 64
+    - book: Matthew
+      chapters:
+      - 12
+  - date: Jul-03
+    sections:
+    - book: Joshua
+      chapters:
+      - 5
+    - book: Joshua
+      chapter_verse: 6:1-5
+    - book: Psalms
+      chapters:
+      - 132
+      - 133
+      - 134
+    - book: Isaiah
+      chapters:
+      - 65
+    - book: Matthew
+      chapters:
+      - 13
+  - date: Jul-04
+    sections:
+    - book: Joshua
+      chapter_verse: 6:6-27
+    - book: Psalms
+      chapters:
+      - 135
+      - 136
+    - book: Isaiah
+      chapters:
+      - 66
+    - book: Matthew
+      chapters:
+      - 14
+  - date: Jul-05
+    sections:
+    - book: Joshua
+      chapters:
+      - 7
+    - book: Psalms
+      chapters:
+      - 137
+      - 138
+    - book: Jeremiah
+      chapters:
+      - 1
+    - book: Matthew
+      chapters:
+      - 15
+  - date: Jul-06
+    sections:
+    - book: Joshua
+      chapters:
+      - 8
+    - book: Psalms
+      chapters:
+      - 139
+    - book: Jeremiah
+      chapters:
+      - 2
+    - book: Matthew
+      chapters:
+      - 16
+  - date: Jul-07
+    sections:
+    - book: Joshua
+      chapters:
+      - 9
+    - book: Psalms
+      chapters:
+      - 140
+      - 141
+    - book: Jeremiah
+      chapters:
+      - 3
+    - book: Matthew
+      chapters:
+      - 17
+  - date: Jul-08
+    sections:
+    - book: Joshua
+      chapters:
+      - 10
+    - book: Psalms
+      chapters:
+      - 142
+      - 143
+    - book: Jeremiah
+      chapters:
+      - 4
+    - book: Matthew
+      chapters:
+      - 18
+  - date: Jul-09
+    sections:
+    - book: Joshua
+      chapters:
+      - 11
+    - book: Psalms
+      chapters:
+      - 144
+    - book: Jeremiah
+      chapters:
+      - 5
+    - book: Matthew
+      chapters:
+      - 19
+  - date: Jul-10
+    sections:
+    - book: Joshua
+      chapters:
+      - 12
+      - 13
+    - book: Psalms
+      chapters:
+      - 145
+    - book: Jeremiah
+      chapters:
+      - 6
+    - book: Matthew
+      chapters:
+      - 20
+  - date: Jul-11
+    sections:
+    - book: Joshua
+      chapters:
+      - 14
+      - 15
+    - book: Psalms
+      chapters:
+      - 146
+      - 147
+    - book: Jeremiah
+      chapters:
+      - 7
+    - book: Matthew
+      chapters:
+      - 21
+  - date: Jul-12
+    sections:
+    - book: Joshua
+      chapters:
+      - 16
+      - 17
+    - book: Psalms
+      chapters:
+      - 148
+    - book: Jeremiah
+      chapters:
+      - 8
+    - book: Matthew
+      chapters:
+      - 22
+  - date: Jul-13
+    sections:
+    - book: Joshua
+      chapters:
+      - 18
+      - 19
+    - book: Psalms
+      chapters:
+      - 149
+      - 150
+    - book: Jeremiah
+      chapters:
+      - 9
+    - book: Matthew
+      chapters:
+      - 23
+  - date: Jul-14
+    sections:
+    - book: Joshua
+      chapters:
+      - 20
+      - 21
+    - book: Acts
+      chapters:
+      - 1
+    - book: Jeremiah
+      chapters:
+      - 10
+    - book: Matthew
+      chapters:
+      - 24
+  - date: Jul-15
+    sections:
+    - book: Joshua
+      chapters:
+      - 22
+    - book: Acts
+      chapters:
+      - 2
+    - book: Jeremiah
+      chapters:
+      - 11
+    - book: Matthew
+      chapters:
+      - 25
+  - date: Jul-16
+    sections:
+    - book: Joshua
+      chapters:
+      - 23
+    - book: Acts
+      chapters:
+      - 3
+    - book: Jeremiah
+      chapters:
+      - 12
+    - book: Matthew
+      chapters:
+      - 26
+  - date: Jul-17
+    sections:
+    - book: Joshua
+      chapters:
+      - 24
+    - book: Acts
+      chapters:
+      - 4
+    - book: Jeremiah
+      chapters:
+      - 13
+    - book: Matthew
+      chapters:
+      - 27
+  - date: Jul-18
+    sections:
+    - book: Judges
+      chapters:
+      - 1
+    - book: Acts
+      chapters:
+      - 5
+    - book: Jeremiah
+      chapters:
+      - 14
+    - book: Matthew
+      chapters:
+      - 28
+  - date: Jul-19
+    sections:
+    - book: Judges
+      chapters:
+      - 2
+    - book: Acts
+      chapters:
+      - 6
+    - book: Jeremiah
+      chapters:
+      - 15
+    - book: Mark
+      chapters:
+      - 1
+  - date: Jul-20
+    sections:
+    - book: Judges
+      chapters:
+      - 3
+    - book: Acts
+      chapters:
+      - 7
+    - book: Jeremiah
+      chapters:
+      - 16
+    - book: Mark
+      chapters:
+      - 2
+  - date: Jul-21
+    sections:
+    - book: Judges
+      chapters:
+      - 4
+    - book: Acts
+      chapters:
+      - 8
+    - book: Jeremiah
+      chapters:
+      - 17
+    - book: Mark
+      chapters:
+      - 3
+  - date: Jul-22
+    sections:
+    - book: Judges
+      chapters:
+      - 5
+    - book: Acts
+      chapters:
+      - 9
+    - book: Jeremiah
+      chapters:
+      - 18
+    - book: Mark
+      chapters:
+      - 4
+  - date: Jul-23
+    sections:
+    - book: Judges
+      chapters:
+      - 6
+    - book: Acts
+      chapters:
+      - 10
+    - book: Jeremiah
+      chapters:
+      - 19
+    - book: Mark
+      chapters:
+      - 5
+  - date: Jul-24
+    sections:
+    - book: Judges
+      chapters:
+      - 7
+    - book: Acts
+      chapters:
+      - 11
+    - book: Jeremiah
+      chapters:
+      - 20
+    - book: Mark
+      chapters:
+      - 6
+  - date: Jul-25
+    sections:
+    - book: Judges
+      chapters:
+      - 8
+    - book: Acts
+      chapters:
+      - 12
+    - book: Jeremiah
+      chapters:
+      - 21
+    - book: Mark
+      chapters:
+      - 7
+  - date: Jul-26
+    sections:
+    - book: Judges
+      chapters:
+      - 9
+    - book: Acts
+      chapters:
+      - 13
+    - book: Jeremiah
+      chapters:
+      - 22
+    - book: Mark
+      chapters:
+      - 8
+  - date: Jul-27
+    sections:
+    - book: Judges
+      chapters:
+      - 10
+    - book: Judges
+      chapter_verse: 11:1-11
+    - book: Acts
+      chapters:
+      - 14
+    - book: Jeremiah
+      chapters:
+      - 23
+    - book: Mark
+      chapters:
+      - 9
+  - date: Jul-28
+    sections:
+    - book: Judges
+      chapter_verse: 11:12-40
+    - book: Acts
+      chapters:
+      - 15
+    - book: Jeremiah
+      chapters:
+      - 24
+    - book: Mark
+      chapters:
+      - 10
+  - date: Jul-29
+    sections:
+    - book: Judges
+      chapters:
+      - 12
+    - book: Acts
+      chapters:
+      - 16
+    - book: Jeremiah
+      chapters:
+      - 25
+    - book: Mark
+      chapters:
+      - 11
+  - date: Jul-30
+    sections:
+    - book: Judges
+      chapters:
+      - 13
+    - book: Acts
+      chapters:
+      - 17
+    - book: Jeremiah
+      chapters:
+      - 26
+    - book: Mark
+      chapters:
+      - 12
+  - date: Jul-31
+    sections:
+    - book: Judges
+      chapters:
+      - 14
+    - book: Acts
+      chapters:
+      - 18
+    - book: Jeremiah
+      chapters:
+      - 27
+    - book: Mark
+      chapters:
+      - 13
+  - date: Aug-01
+    sections:
+    - book: Judges
+      chapters:
+      - 15
+    - book: Acts
+      chapters:
+      - 19
+    - book: Jeremiah
+      chapters:
+      - 28
+    - book: Mark
+      chapters:
+      - 14
+  - date: Aug-02
+    sections:
+    - book: Judges
+      chapters:
+      - 16
+    - book: Acts
+      chapters:
+      - 20
+    - book: Jeremiah
+      chapters:
+      - 29
+    - book: Mark
+      chapters:
+      - 15
+  - date: Aug-03
+    sections:
+    - book: Judges
+      chapters:
+      - 17
+    - book: Acts
+      chapters:
+      - 21
+    - book: Jeremiah
+      chapters:
+      - 30
+      - 31
+    - book: Mark
+      chapters:
+      - 16
+  - date: Aug-04
+    sections:
+    - book: Judges
+      chapters:
+      - 18
+    - book: Acts
+      chapters:
+      - 22
+    - book: Jeremiah
+      chapters:
+      - 32
+    - book: Psalms
+      chapters:
+      - 1
+      - 2
+  - date: Aug-05
+    sections:
+    - book: Judges
+      chapters:
+      - 19
+    - book: Acts
+      chapters:
+      - 23
+    - book: Jeremiah
+      chapters:
+      - 33
+    - book: Psalms
+      chapters:
+      - 3
+      - 4
+  - date: Aug-06
+    sections:
+    - book: Judges
+      chapters:
+      - 20
+    - book: Acts
+      chapters:
+      - 24
+    - book: Jeremiah
+      chapters:
+      - 34
+    - book: Psalms
+      chapters:
+      - 5
+      - 6
+  - date: Aug-07
+    sections:
+    - book: Judges
+      chapters:
+      - 21
+    - book: Acts
+      chapters:
+      - 25
+    - book: Jeremiah
+      chapters:
+      - 35
+    - book: Psalms
+      chapters:
+      - 7
+      - 8
+  - date: Aug-08
+    sections:
+    - book: Ruth
+      chapters:
+      - 1
+    - book: Acts
+      chapters:
+      - 26
+    - book: Jeremiah
+      chapters:
+      - 36
+      - 45
+    - book: Psalms
+      chapters:
+      - 9
+  - date: Aug-09
+    sections:
+    - book: Ruth
+      chapters:
+      - 2
+    - book: Acts
+      chapters:
+      - 27
+    - book: Jeremiah
+      chapters:
+      - 37
+    - book: Psalms
+      chapters:
+      - 10
+  - date: Aug-10
+    sections:
+    - book: Ruth
+      chapters:
+      - 3
+      - 4
+    - book: Acts
+      chapters:
+      - 28
+    - book: Jeremiah
+      chapters:
+      - 38
+    - book: Psalms
+      chapters:
+      - 11
+      - 12
+  - date: Aug-11
+    sections:
+    - book: 1 Samuel
+      chapters:
+      - 1
+    - book: Romans
+      chapters:
+      - 1
+    - book: Jeremiah
+      chapters:
+      - 39
+    - book: Psalms
+      chapters:
+      - 13
+      - 14
+  - date: Aug-12
+    sections:
+    - book: 1 Samuel
+      chapters:
+      - 2
+    - book: Romans
+      chapters:
+      - 2
+    - book: Jeremiah
+      chapters:
+      - 40
+    - book: Psalms
+      chapters:
+      - 15
+      - 16
+  - date: Aug-13
+    sections:
+    - book: 1 Samuel
+      chapters:
+      - 3
+    - book: Romans
+      chapters:
+      - 3
+    - book: Jeremiah
+      chapters:
+      - 41
+    - book: Psalms
+      chapters:
+      - 17
+  - date: Aug-14
+    sections:
+    - book: 1 Samuel
+      chapters:
+      - 4
+    - book: Romans
+      chapters:
+      - 4
+    - book: Jeremiah
+      chapters:
+      - 42
+    - book: Psalms
+      chapters:
+      - 18
+  - date: Aug-15
+    sections:
+    - book: 1 Samuel
+      chapters:
+      - 5
+      - 6
+    - book: Romans
+      chapters:
+      - 5
+    - book: Jeremiah
+      chapters:
+      - 43
+    - book: Psalms
+      chapters:
+      - 19
+  - date: Aug-16
+    sections:
+    - book: 1 Samuel
+      chapters:
+      - 7
+      - 8
+    - book: Romans
+      chapters:
+      - 6
+    - book: Jeremiah
+      chapters:
+      - 44
+    - book: Psalms
+      chapters:
+      - 20
+      - 21
+  - date: Aug-17
+    sections:
+    - book: 1 Samuel
+      chapters:
+      - 9
+    - book: Romans
+      chapters:
+      - 7
+    - book: Jeremiah
+      chapters:
+      - 46
+    - book: Psalms
+      chapters:
+      - 22
+  - date: Aug-18
+    sections:
+    - book: 1 Samuel
+      chapters:
+      - 10
+    - book: Romans
+      chapters:
+      - 8
+    - book: Jeremiah
+      chapters:
+      - 47
+    - book: Psalms
+      chapters:
+      - 23
+      - 24
+  - date: Aug-19
+    sections:
+    - book: 1 Samuel
+      chapters:
+      - 11
+    - book: Romans
+      chapters:
+      - 9
+    - book: Jeremiah
+      chapters:
+      - 48
+    - book: Psalms
+      chapters:
+      - 25
+  - date: Aug-20
+    sections:
+    - book: 1 Samuel
+      chapters:
+      - 12
+    - book: Romans
+      chapters:
+      - 10
+    - book: Jeremiah
+      chapters:
+      - 49
+    - book: Psalms
+      chapters:
+      - 26
+      - 27
+  - date: Aug-21
+    sections:
+    - book: 1 Samuel
+      chapters:
+      - 13
+    - book: Romans
+      chapters:
+      - 11
+    - book: Jeremiah
+      chapters:
+      - 50
+    - book: Psalms
+      chapters:
+      - 28
+      - 29
+  - date: Aug-22
+    sections:
+    - book: 1 Samuel
+      chapters:
+      - 14
+    - book: Romans
+      chapters:
+      - 12
+    - book: Jeremiah
+      chapters:
+      - 51
+    - book: Psalms
+      chapters:
+      - 30
+  - date: Aug-23
+    sections:
+    - book: 1 Samuel
+      chapters:
+      - 15
+    - book: Romans
+      chapters:
+      - 13
+    - book: Jeremiah
+      chapters:
+      - 52
+    - book: Psalms
+      chapters:
+      - 31
+  - date: Aug-24
+    sections:
+    - book: 1 Samuel
+      chapters:
+      - 16
+    - book: Romans
+      chapters:
+      - 14
+    - book: Lamentations
+      chapters:
+      - 1
+    - book: Psalms
+      chapters:
+      - 32
+  - date: Aug-25
+    sections:
+    - book: 1 Samuel
+      chapters:
+      - 17
+    - book: Romans
+      chapters:
+      - 15
+    - book: Lamentations
+      chapters:
+      - 2
+    - book: Psalms
+      chapters:
+      - 33
+  - date: Aug-26
+    sections:
+    - book: 1 Samuel
+      chapters:
+      - 18
+    - book: Romans
+      chapters:
+      - 16
+    - book: Lamentations
+      chapters:
+      - 3
+    - book: Psalms
+      chapters:
+      - 34
+  - date: Aug-27
+    sections:
+    - book: 1 Samuel
+      chapters:
+      - 19
+    - book: 1 Corinthians
+      chapters:
+      - 1
+    - book: Lamentations
+      chapters:
+      - 4
+    - book: Psalms
+      chapters:
+      - 35
+  - date: Aug-28
+    sections:
+    - book: 1 Samuel
+      chapters:
+      - 20
+    - book: 1 Corinthians
+      chapters:
+      - 2
+    - book: Lamentations
+      chapters:
+      - 5
+    - book: Psalms
+      chapters:
+      - 36
+  - date: Aug-29
+    sections:
+    - book: 1 Samuel
+      chapters:
+      - 21
+      - 22
+    - book: 1 Corinthians
+      chapters:
+      - 3
+    - book: Ezekiel
+      chapters:
+      - 1
+    - book: Psalms
+      chapters:
+      - 37
+  - date: Aug-30
+    sections:
+    - book: 1 Samuel
+      chapters:
+      - 23
+    - book: 1 Corinthians
+      chapters:
+      - 4
+    - book: Ezekiel
+      chapters:
+      - 2
+    - book: Psalms
+      chapters:
+      - 38
+  - date: Aug-31
+    sections:
+    - book: 1 Samuel
+      chapters:
+      - 24
+    - book: 1 Corinthians
+      chapters:
+      - 5
+    - book: Ezekiel
+      chapters:
+      - 3
+    - book: Psalms
+      chapters:
+      - 39
+  - date: Sep-01
+    sections:
+    - book: 1 Samuel
+      chapters:
+      - 25
+    - book: 1 Corinthians
+      chapters:
+      - 6
+    - book: Ezekiel
+      chapters:
+      - 4
+    - book: Psalms
+      chapters:
+      - 40
+      - 41
+  - date: Sep-02
+    sections:
+    - book: 1 Samuel
+      chapters:
+      - 26
+    - book: 1 Corinthians
+      chapters:
+      - 7
+    - book: Ezekiel
+      chapters:
+      - 5
+    - book: Psalms
+      chapters:
+      - 42
+      - 43
+  - date: Sep-03
+    sections:
+    - book: 1 Samuel
+      chapters:
+      - 27
+    - book: 1 Corinthians
+      chapters:
+      - 8
+    - book: Ezekiel
+      chapters:
+      - 6
+    - book: Psalms
+      chapters:
+      - 44
+  - date: Sep-04
+    sections:
+    - book: 1 Samuel
+      chapters:
+      - 28
+    - book: 1 Corinthians
+      chapters:
+      - 9
+    - book: Ezekiel
+      chapters:
+      - 7
+    - book: Psalms
+      chapters:
+      - 45
+  - date: Sep-05
+    sections:
+    - book: 1 Samuel
+      chapters:
+      - 29
+      - 30
+    - book: 1 Corinthians
+      chapters:
+      - 10
+    - book: Ezekiel
+      chapters:
+      - 8
+    - book: Psalms
+      chapters:
+      - 46
+      - 47
+  - date: Sep-06
+    sections:
+    - book: 1 Samuel
+      chapters:
+      - 31
+    - book: 1 Corinthians
+      chapters:
+      - 11
+    - book: Ezekiel
+      chapters:
+      - 9
+    - book: Psalms
+      chapters:
+      - 48
+  - date: Sep-07
+    sections:
+    - book: 2 Samuel
+      chapters:
+      - 1
+    - book: 1 Corinthians
+      chapters:
+      - 12
+    - book: Ezekiel
+      chapters:
+      - 10
+    - book: Psalms
+      chapters:
+      - 49
+  - date: Sep-08
+    sections:
+    - book: 2 Samuel
+      chapters:
+      - 2
+    - book: 1 Corinthians
+      chapters:
+      - 13
+    - book: Ezekiel
+      chapters:
+      - 11
+    - book: Psalms
+      chapters:
+      - 50
+  - date: Sep-09
+    sections:
+    - book: 2 Samuel
+      chapters:
+      - 3
+    - book: 1 Corinthians
+      chapters:
+      - 14
+    - book: Ezekiel
+      chapters:
+      - 12
+    - book: Psalms
+      chapters:
+      - 51
+  - date: Sep-10
+    sections:
+    - book: 2 Samuel
+      chapters:
+      - 4
+      - 5
+    - book: 1 Corinthians
+      chapters:
+      - 15
+    - book: Ezekiel
+      chapters:
+      - 13
+    - book: Psalms
+      chapters:
+      - 52
+      - 53
+      - 54
+  - date: Sep-11
+    sections:
+    - book: 2 Samuel
+      chapters:
+      - 6
+    - book: 1 Corinthians
+      chapters:
+      - 16
+    - book: Ezekiel
+      chapters:
+      - 14
+    - book: Psalms
+      chapters:
+      - 55
+  - date: Sep-12
+    sections:
+    - book: 2 Samuel
+      chapters:
+      - 7
+    - book: 2 Corinthians
+      chapters:
+      - 1
+    - book: Ezekiel
+      chapters:
+      - 15
+    - book: Psalms
+      chapters:
+      - 56
+      - 57
+  - date: Sep-13
+    sections:
+    - book: 2 Samuel
+      chapters:
+      - 8
+      - 9
+    - book: 2 Corinthians
+      chapters:
+      - 2
+    - book: Ezekiel
+      chapters:
+      - 16
+    - book: Psalms
+      chapters:
+      - 58
+      - 59
+  - date: Sep-14
+    sections:
+    - book: 2 Samuel
+      chapters:
+      - 10
+    - book: 2 Corinthians
+      chapters:
+      - 3
+    - book: Ezekiel
+      chapters:
+      - 17
+    - book: Psalms
+      chapters:
+      - 60
+      - 61
+  - date: Sep-15
+    sections:
+    - book: 2 Samuel
+      chapters:
+      - 11
+    - book: 2 Corinthians
+      chapters:
+      - 4
+    - book: Ezekiel
+      chapters:
+      - 18
+    - book: Psalms
+      chapters:
+      - 62
+      - 63
+  - date: Sep-16
+    sections:
+    - book: 2 Samuel
+      chapters:
+      - 12
+    - book: 2 Corinthians
+      chapters:
+      - 5
+    - book: Ezekiel
+      chapters:
+      - 19
+    - book: Psalms
+      chapters:
+      - 64
+      - 65
+  - date: Sep-17
+    sections:
+    - book: 2 Samuel
+      chapters:
+      - 13
+    - book: 2 Corinthians
+      chapters:
+      - 6
+    - book: Ezekiel
+      chapters:
+      - 20
+    - book: Psalms
+      chapters:
+      - 66
+      - 67
+  - date: Sep-18
+    sections:
+    - book: 2 Samuel
+      chapters:
+      - 14
+    - book: 2 Corinthians
+      chapters:
+      - 7
+    - book: Ezekiel
+      chapters:
+      - 21
+    - book: Psalms
+      chapters:
+      - 68
+  - date: Sep-19
+    sections:
+    - book: 2 Samuel
+      chapters:
+      - 15
+    - book: 2 Corinthians
+      chapters:
+      - 8
+    - book: Ezekiel
+      chapters:
+      - 22
+    - book: Psalms
+      chapters:
+      - 69
+  - date: Sep-20
+    sections:
+    - book: 2 Samuel
+      chapters:
+      - 16
+    - book: 2 Corinthians
+      chapters:
+      - 9
+    - book: Ezekiel
+      chapters:
+      - 23
+    - book: Psalms
+      chapters:
+      - 70
+      - 71
+  - date: Sep-21
+    sections:
+    - book: 2 Samuel
+      chapters:
+      - 17
+    - book: 2 Corinthians
+      chapters:
+      - 10
+    - book: Ezekiel
+      chapters:
+      - 24
+    - book: Psalms
+      chapters:
+      - 72
+  - date: Sep-22
+    sections:
+    - book: 2 Samuel
+      chapters:
+      - 18
+    - book: 2 Corinthians
+      chapters:
+      - 11
+    - book: Ezekiel
+      chapters:
+      - 25
+    - book: Psalms
+      chapters:
+      - 73
+  - date: Sep-23
+    sections:
+    - book: 2 Samuel
+      chapters:
+      - 19
+    - book: 2 Corinthians
+      chapters:
+      - 12
+    - book: Ezekiel
+      chapters:
+      - 26
+    - book: Psalms
+      chapters:
+      - 74
+  - date: Sep-24
+    sections:
+    - book: 2 Samuel
+      chapters:
+      - 20
+    - book: 2 Corinthians
+      chapters:
+      - 13
+    - book: Ezekiel
+      chapters:
+      - 27
+    - book: Psalms
+      chapters:
+      - 75
+      - 76
+  - date: Sep-25
+    sections:
+    - book: 2 Samuel
+      chapters:
+      - 21
+    - book: Galatians
+      chapters:
+      - 1
+    - book: Ezekiel
+      chapters:
+      - 28
+    - book: Psalms
+      chapters:
+      - 77
+  - date: Sep-26
+    sections:
+    - book: 2 Samuel
+      chapters:
+      - 22
+    - book: Galatians
+      chapters:
+      - 2
+    - book: Ezekiel
+      chapters:
+      - 29
+    - book: Psalms
+      chapter_verse: 78:1-37
+  - date: Sep-27
+    sections:
+    - book: 2 Samuel
+      chapters:
+      - 23
+    - book: Galatians
+      chapters:
+      - 3
+    - book: Ezekiel
+      chapters:
+      - 30
+    - book: Psalms
+      chapter_verse: 78:38-72
+  - date: Sep-28
+    sections:
+    - book: 2 Samuel
+      chapters:
+      - 24
+    - book: Galatians
+      chapters:
+      - 4
+    - book: Ezekiel
+      chapters:
+      - 31
+    - book: Psalms
+      chapters:
+      - 79
+  - date: Sep-29
+    sections:
+    - book: 1 Kings
+      chapters:
+      - 1
+    - book: Galatians
+      chapters:
+      - 5
+    - book: Ezekiel
+      chapters:
+      - 32
+    - book: Psalms
+      chapters:
+      - 80
+  - date: Sep-30
+    sections:
+    - book: 1 Kings
+      chapters:
+      - 2
+    - book: Galatians
+      chapters:
+      - 6
+    - book: Ezekiel
+      chapters:
+      - 33
+    - book: Psalms
+      chapters:
+      - 81
+      - 82
+  - date: Oct-01
+    sections:
+    - book: 1 Kings
+      chapters:
+      - 3
+    - book: Ephesians
+      chapters:
+      - 1
+    - book: Ezekiel
+      chapters:
+      - 34
+    - book: Psalms
+      chapters:
+      - 83
+      - 84
+  - date: Oct-02
+    sections:
+    - book: 1 Kings
+      chapters:
+      - 4
+      - 5
+    - book: Ephesians
+      chapters:
+      - 2
+    - book: Ezekiel
+      chapters:
+      - 35
+    - book: Psalms
+      chapters:
+      - 85
+  - date: Oct-03
+    sections:
+    - book: 1 Kings
+      chapters:
+      - 6
+    - book: Ephesians
+      chapters:
+      - 3
+    - book: Ezekiel
+      chapters:
+      - 36
+    - book: Psalms
+      chapters:
+      - 86
+  - date: Oct-04
+    sections:
+    - book: 1 Kings
+      chapters:
+      - 7
+    - book: Ephesians
+      chapters:
+      - 4
+    - book: Ezekiel
+      chapters:
+      - 37
+    - book: Psalms
+      chapters:
+      - 87
+      - 88
+  - date: Oct-05
+    sections:
+    - book: 1 Kings
+      chapters:
+      - 8
+    - book: Ephesians
+      chapters:
+      - 5
+    - book: Ezekiel
+      chapters:
+      - 38
+    - book: Psalms
+      chapters:
+      - 89
+  - date: Oct-06
+    sections:
+    - book: 1 Kings
+      chapters:
+      - 9
+    - book: Ephesians
+      chapters:
+      - 6
+    - book: Ezekiel
+      chapters:
+      - 39
+    - book: Psalms
+      chapters:
+      - 90
+  - date: Oct-07
+    sections:
+    - book: 1 Kings
+      chapters:
+      - 10
+    - book: Philippians
+      chapters:
+      - 1
+    - book: Ezekiel
+      chapters:
+      - 40
+    - book: Psalms
+      chapters:
+      - 91
+  - date: Oct-08
+    sections:
+    - book: 1 Kings
+      chapters:
+      - 11
+    - book: Philippians
+      chapters:
+      - 2
+    - book: Ezekiel
+      chapters:
+      - 41
+    - book: Psalms
+      chapters:
+      - 92
+      - 93
+  - date: Oct-09
+    sections:
+    - book: 1 Kings
+      chapters:
+      - 12
+    - book: Philippians
+      chapters:
+      - 3
+    - book: Ezekiel
+      chapters:
+      - 42
+    - book: Psalms
+      chapters:
+      - 94
+  - date: Oct-10
+    sections:
+    - book: 1 Kings
+      chapters:
+      - 13
+    - book: Philippians
+      chapters:
+      - 4
+    - book: Ezekiel
+      chapters:
+      - 43
+    - book: Psalms
+      chapters:
+      - 95
+      - 96
+  - date: Oct-11
+    sections:
+    - book: 1 Kings
+      chapters:
+      - 14
+    - book: Colossians
+      chapters:
+      - 1
+    - book: Ezekiel
+      chapters:
+      - 44
+    - book: Psalms
+      chapters:
+      - 97
+      - 98
+  - date: Oct-12
+    sections:
+    - book: 1 Kings
+      chapters:
+      - 15
+    - book: Colossians
+      chapters:
+      - 2
+    - book: Ezekiel
+      chapters:
+      - 45
+    - book: Psalms
+      chapters:
+      - 99
+      - 100
+      - 101
+  - date: Oct-13
+    sections:
+    - book: 1 Kings
+      chapters:
+      - 16
+    - book: Colossians
+      chapters:
+      - 3
+    - book: Ezekiel
+      chapters:
+      - 46
+    - book: Psalms
+      chapters:
+      - 102
+  - date: Oct-14
+    sections:
+    - book: 1 Kings
+      chapters:
+      - 17
+    - book: Colossians
+      chapters:
+      - 4
+    - book: Ezekiel
+      chapters:
+      - 47
+    - book: Psalms
+      chapters:
+      - 103
+  - date: Oct-15
+    sections:
+    - book: 1 Kings
+      chapters:
+      - 18
+    - book: 1 Thessalonians
+      chapters:
+      - 1
+    - book: Ezekiel
+      chapters:
+      - 48
+    - book: Psalms
+      chapters:
+      - 104
+  - date: Oct-16
+    sections:
+    - book: 1 Kings
+      chapters:
+      - 19
+    - book: 1 Thessalonians
+      chapters:
+      - 2
+    - book: Daniel
+      chapters:
+      - 1
+    - book: Psalms
+      chapters:
+      - 105
+  - date: Oct-17
+    sections:
+    - book: 1 Kings
+      chapters:
+      - 20
+    - book: 1 Thessalonians
+      chapters:
+      - 3
+    - book: Daniel
+      chapters:
+      - 2
+    - book: Psalms
+      chapters:
+      - 106
+  - date: Oct-18
+    sections:
+    - book: 1 Kings
+      chapters:
+      - 21
+    - book: 1 Thessalonians
+      chapters:
+      - 4
+    - book: Daniel
+      chapters:
+      - 3
+    - book: Psalms
+      chapters:
+      - 107
+  - date: Oct-19
+    sections:
+    - book: 1 Kings
+      chapters:
+      - 22
+    - book: 1 Thessalonians
+      chapters:
+      - 5
+    - book: Daniel
+      chapters:
+      - 4
+    - book: Psalms
+      chapters:
+      - 108
+      - 109
+  - date: Oct-20
+    sections:
+    - book: 2 Kings
+      chapters:
+      - 1
+    - book: 2 Thessalonians
+      chapters:
+      - 1
+    - book: Daniel
+      chapters:
+      - 5
+    - book: Psalms
+      chapters:
+      - 110
+      - 111
+  - date: Oct-21
+    sections:
+    - book: 2 Kings
+      chapters:
+      - 2
+    - book: 2 Thessalonians
+      chapters:
+      - 2
+    - book: Daniel
+      chapters:
+      - 6
+    - book: Psalms
+      chapters:
+      - 112
+      - 113
+  - date: Oct-22
+    sections:
+    - book: 2 Kings
+      chapters:
+      - 3
+    - book: 2 Thessalonians
+      chapters:
+      - 3
+    - book: Daniel
+      chapters:
+      - 7
+    - book: Psalms
+      chapters:
+      - 114
+      - 115
+  - date: Oct-23
+    sections:
+    - book: 2 Kings
+      chapters:
+      - 4
+    - book: 1 Timothy
+      chapters:
+      - 1
+    - book: Daniel
+      chapters:
+      - 8
+    - book: Psalms
+      chapters:
+      - 116
+  - date: Oct-24
+    sections:
+    - book: 2 Kings
+      chapters:
+      - 5
+    - book: 1 Timothy
+      chapters:
+      - 2
+    - book: Daniel
+      chapters:
+      - 9
+    - book: Psalms
+      chapters:
+      - 117
+      - 118
+  - date: Oct-25
+    sections:
+    - book: 2 Kings
+      chapters:
+      - 6
+    - book: 1 Timothy
+      chapters:
+      - 3
+    - book: Daniel
+      chapters:
+      - 10
+    - book: Psalms
+      chapter_verse: 119:1-24
+  - date: Oct-26
+    sections:
+    - book: 2 Kings
+      chapters:
+      - 7
+    - book: 1 Timothy
+      chapters:
+      - 4
+    - book: Daniel
+      chapters:
+      - 11
+    - book: Psalms
+      chapter_verse: 119:25-48
+  - date: Oct-27
+    sections:
+    - book: 2 Kings
+      chapters:
+      - 8
+    - book: 1 Timothy
+      chapters:
+      - 5
+    - book: Daniel
+      chapters:
+      - 12
+    - book: Psalms
+      chapter_verse: 119:49-72
+  - date: Oct-28
+    sections:
+    - book: 2 Kings
+      chapters:
+      - 9
+    - book: 1 Timothy
+      chapters:
+      - 6
+    - book: Hosea
+      chapters:
+      - 1
+    - book: Psalms
+      chapter_verse: 119:73-96
+  - date: Oct-29
+    sections:
+    - book: 2 Kings
+      chapters:
+      - 10
+    - book: 2 Timothy
+      chapters:
+      - 1
+    - book: Hosea
+      chapters:
+      - 2
+    - book: Psalms
+      chapter_verse: 119:97-120
+  - date: Oct-30
+    sections:
+    - book: 2 Kings
+      chapters:
+      - 11
+      - 12
+    - book: 2 Timothy
+      chapters:
+      - 2
+    - book: Hosea
+      chapters:
+      - 3
+      - 4
+    - book: Psalms
+      chapter_verse: 119:121-144
+  - date: Oct-31
+    sections:
+    - book: 2 Kings
+      chapters:
+      - 13
+    - book: 2 Timothy
+      chapters:
+      - 3
+    - book: Hosea
+      chapters:
+      - 5
+      - 6
+    - book: Psalms
+      chapter_verse: 119:145-176
+  - date: Nov-01
+    sections:
+    - book: 2 Kings
+      chapters:
+      - 14
+    - book: 2 Timothy
+      chapters:
+      - 4
+    - book: Hosea
+      chapters:
+      - 7
+    - book: Psalms
+      chapters:
+      - 120
+      - 121
+      - 122
+  - date: Nov-02
+    sections:
+    - book: 2 Kings
+      chapters:
+      - 15
+    - book: Titus
+      chapters:
+      - 1
+    - book: Hosea
+      chapters:
+      - 8
+    - book: Psalms
+      chapters:
+      - 123
+      - 124
+      - 125
+  - date: Nov-03
+    sections:
+    - book: 2 Kings
+      chapters:
+      - 16
+    - book: Titus
+      chapters:
+      - 2
+    - book: Hosea
+      chapters:
+      - 9
+    - book: Psalms
+      chapters:
+      - 126
+      - 127
+      - 128
+  - date: Nov-04
+    sections:
+    - book: 2 Kings
+      chapters:
+      - 17
+    - book: Titus
+      chapters:
+      - 3
+    - book: Hosea
+      chapters:
+      - 10
+    - book: Psalms
+      chapters:
+      - 129
+      - 130
+      - 131
+  - date: Nov-05
+    sections:
+    - book: 2 Kings
+      chapters:
+      - 18
+    - book: Philemon
+      chapters:
+      - 1
+    - book: Hosea
+      chapters:
+      - 11
+    - book: Psalms
+      chapters:
+      - 132
+      - 133
+      - 134
+  - date: Nov-06
+    sections:
+    - book: 2 Kings
+      chapters:
+      - 19
+    - book: Hebrews
+      chapters:
+      - 1
+    - book: Hosea
+      chapters:
+      - 12
+    - book: Psalms
+      chapters:
+      - 135
+      - 136
+  - date: Nov-07
+    sections:
+    - book: 2 Kings
+      chapters:
+      - 20
+    - book: Hebrews
+      chapters:
+      - 2
+    - book: Hosea
+      chapters:
+      - 13
+    - book: Psalms
+      chapters:
+      - 137
+      - 138
+  - date: Nov-08
+    sections:
+    - book: 2 Kings
+      chapters:
+      - 21
+    - book: Hebrews
+      chapters:
+      - 3
+    - book: Hosea
+      chapters:
+      - 14
+    - book: Psalms
+      chapters:
+      - 139
+  - date: Nov-09
+    sections:
+    - book: 2 Kings
+      chapters:
+      - 22
+    - book: Hebrews
+      chapters:
+      - 4
+    - book: Joel
+      chapters:
+      - 1
+    - book: Psalms
+      chapters:
+      - 140
+      - 141
+  - date: Nov-10
+    sections:
+    - book: 2 Kings
+      chapters:
+      - 23
+    - book: Hebrews
+      chapters:
+      - 5
+    - book: Joel
+      chapters:
+      - 2
+    - book: Psalms
+      chapters:
+      - 142
+  - date: Nov-11
+    sections:
+    - book: 2 Kings
+      chapters:
+      - 24
+    - book: Hebrews
+      chapters:
+      - 6
+    - book: Joel
+      chapters:
+      - 3
+    - book: Psalms
+      chapters:
+      - 143
+  - date: Nov-12
+    sections:
+    - book: 2 Kings
+      chapters:
+      - 25
+    - book: Hebrews
+      chapters:
+      - 7
+    - book: Amos
+      chapters:
+      - 1
+    - book: Psalms
+      chapters:
+      - 144
+  - date: Nov-13
+    sections:
+    - book: 1 Chronicles
+      chapters:
+      - 1
+      - 2
+    - book: Hebrews
+      chapters:
+      - 8
+    - book: Amos
+      chapters:
+      - 2
+    - book: Psalms
+      chapters:
+      - 145
+  - date: Nov-14
+    sections:
+    - book: 1 Chronicles
+      chapters:
+      - 3
+      - 4
+    - book: Hebrews
+      chapters:
+      - 9
+    - book: Amos
+      chapters:
+      - 3
+    - book: Psalms
+      chapters:
+      - 146
+      - 147
+  - date: Nov-15
+    sections:
+    - book: 1 Chronicles
+      chapters:
+      - 5
+      - 6
+    - book: Hebrews
+      chapters:
+      - 10
+    - book: Amos
+      chapters:
+      - 4
+    - book: Psalms
+      chapters:
+      - 148
+      - 149
+      - 150
+  - date: Nov-16
+    sections:
+    - book: 1 Chronicles
+      chapters:
+      - 7
+      - 8
+    - book: Hebrews
+      chapters:
+      - 11
+    - book: Amos
+      chapters:
+      - 5
+    - book: Luke
+      chapter_verse: 1:1-38
+  - date: Nov-17
+    sections:
+    - book: 1 Chronicles
+      chapters:
+      - 9
+      - 10
+    - book: Hebrews
+      chapters:
+      - 12
+    - book: Amos
+      chapters:
+      - 6
+    - book: Luke
+      chapter_verse: 1:39-80
+  - date: Nov-18
+    sections:
+    - book: 1 Chronicles
+      chapters:
+      - 11
+      - 12
+    - book: Hebrews
+      chapters:
+      - 13
+    - book: Amos
+      chapters:
+      - 7
+    - book: Luke
+      chapters:
+      - 2
+  - date: Nov-19
+    sections:
+    - book: 1 Chronicles
+      chapters:
+      - 13
+      - 14
+    - book: James
+      chapters:
+      - 1
+    - book: Amos
+      chapters:
+      - 8
+    - book: Luke
+      chapters:
+      - 3
+  - date: Nov-20
+    sections:
+    - book: 1 Chronicles
+      chapters:
+      - 15
+    - book: James
+      chapters:
+      - 2
+    - book: Amos
+      chapters:
+      - 9
+    - book: Luke
+      chapters:
+      - 4
+  - date: Nov-21
+    sections:
+    - book: 1 Chronicles
+      chapters:
+      - 16
+    - book: James
+      chapters:
+      - 3
+    - book: Obadiah
+      chapters:
+      - 1
+    - book: Luke
+      chapters:
+      - 5
+  - date: Nov-22
+    sections:
+    - book: 1 Chronicles
+      chapters:
+      - 17
+    - book: James
+      chapters:
+      - 4
+    - book: Jonah
+      chapters:
+      - 1
+    - book: Luke
+      chapters:
+      - 6
+  - date: Nov-23
+    sections:
+    - book: 1 Chronicles
+      chapters:
+      - 18
+    - book: James
+      chapters:
+      - 5
+    - book: Jonah
+      chapters:
+      - 2
+    - book: Luke
+      chapters:
+      - 7
+  - date: Nov-24
+    sections:
+    - book: 1 Chronicles
+      chapters:
+      - 19
+      - 20
+    - book: 1 Peter
+      chapters:
+      - 1
+    - book: Jonah
+      chapters:
+      - 3
+    - book: Luke
+      chapters:
+      - 8
+  - date: Nov-25
+    sections:
+    - book: 1 Chronicles
+      chapters:
+      - 21
+    - book: 1 Peter
+      chapters:
+      - 2
+    - book: Jonah
+      chapters:
+      - 4
+    - book: Luke
+      chapters:
+      - 9
+  - date: Nov-26
+    sections:
+    - book: 1 Chronicles
+      chapters:
+      - 22
+    - book: 1 Peter
+      chapters:
+      - 3
+    - book: Micah
+      chapters:
+      - 1
+    - book: Luke
+      chapters:
+      - 10
+  - date: Nov-27
+    sections:
+    - book: 1 Chronicles
+      chapters:
+      - 23
+    - book: 1 Peter
+      chapters:
+      - 4
+    - book: Micah
+      chapters:
+      - 2
+    - book: Luke
+      chapters:
+      - 11
+  - date: Nov-28
+    sections:
+    - book: 1 Chronicles
+      chapters:
+      - 24
+      - 25
+    - book: 1 Peter
+      chapters:
+      - 5
+    - book: Micah
+      chapters:
+      - 3
+    - book: Luke
+      chapters:
+      - 12
+  - date: Nov-29
+    sections:
+    - book: 1 Chronicles
+      chapters:
+      - 26
+      - 27
+    - book: 2 Peter
+      chapters:
+      - 1
+    - book: Micah
+      chapters:
+      - 4
+    - book: Luke
+      chapters:
+      - 13
+  - date: Nov-30
+    sections:
+    - book: 1 Chronicles
+      chapters:
+      - 28
+    - book: 2 Peter
+      chapters:
+      - 2
+    - book: Micah
+      chapters:
+      - 5
+    - book: Luke
+      chapters:
+      - 14
+  - date: Dec-01
+    sections:
+    - book: 1 Chronicles
+      chapters:
+      - 29
+    - book: 2 Peter
+      chapters:
+      - 3
+    - book: Micah
+      chapters:
+      - 6
+    - book: Luke
+      chapters:
+      - 15
+  - date: Dec-02
+    sections:
+    - book: 2 Chronicles
+      chapters:
+      - 1
+    - book: 1 John
+      chapters:
+      - 1
+    - book: Micah
+      chapters:
+      - 7
+    - book: Luke
+      chapters:
+      - 16
+  - date: Dec-03
+    sections:
+    - book: 2 Chronicles
+      chapters:
+      - 2
+    - book: 1 John
+      chapters:
+      - 2
+    - book: Nahum
+      chapters:
+      - 1
+    - book: Luke
+      chapters:
+      - 17
+  - date: Dec-04
+    sections:
+    - book: 2 Chronicles
+      chapters:
+      - 3
+      - 4
+    - book: 1 John
+      chapters:
+      - 3
+    - book: Nahum
+      chapters:
+      - 2
+    - book: Luke
+      chapters:
+      - 18
+  - date: Dec-05
+    sections:
+    - book: 2 Chronicles
+      chapters:
+      - 5
+    - book: 2 Chronicles
+      chapter_verse: 6:1-11
+    - book: 1 John
+      chapters:
+      - 4
+    - book: Nahum
+      chapters:
+      - 3
+    - book: Luke
+      chapters:
+      - 19
+  - date: Dec-06
+    sections:
+    - book: 2 Chronicles
+      chapter_verse: 6:12-42
+    - book: 1 John
+      chapters:
+      - 5
+    - book: Habakkuk
+      chapters:
+      - 1
+    - book: Luke
+      chapters:
+      - 20
+  - date: Dec-07
+    sections:
+    - book: 2 Chronicles
+      chapters:
+      - 7
+    - book: 2 John
+      chapters:
+      - 1
+    - book: Habakkuk
+      chapters:
+      - 2
+    - book: Luke
+      chapters:
+      - 21
+  - date: Dec-08
+    sections:
+    - book: 2 Chronicles
+      chapters:
+      - 8
+    - book: 3 John
+      chapters:
+      - 1
+    - book: Habakkuk
+      chapters:
+      - 3
+    - book: Luke
+      chapters:
+      - 22
+  - date: Dec-09
+    sections:
+    - book: 2 Chronicles
+      chapters:
+      - 9
+    - book: Jude
+      chapters:
+      - 1
+    - book: Zephaniah
+      chapters:
+      - 1
+    - book: Luke
+      chapters:
+      - 23
+  - date: Dec-10
+    sections:
+    - book: 2 Chronicles
+      chapters:
+      - 10
+    - book: Revelation
+      chapters:
+      - 1
+    - book: Zephaniah
+      chapters:
+      - 2
+    - book: Luke
+      chapters:
+      - 24
+  - date: Dec-11
+    sections:
+    - book: 2 Chronicles
+      chapters:
+      - 11
+      - 12
+    - book: Revelation
+      chapters:
+      - 2
+    - book: Zephaniah
+      chapters:
+      - 3
+    - book: John
+      chapters:
+      - 1
+  - date: Dec-12
+    sections:
+    - book: 2 Chronicles
+      chapters:
+      - 13
+    - book: Revelation
+      chapters:
+      - 3
+    - book: Haggai
+      chapters:
+      - 1
+    - book: John
+      chapters:
+      - 2
+  - date: Dec-13
+    sections:
+    - book: 2 Chronicles
+      chapters:
+      - 14
+      - 15
+    - book: Revelation
+      chapters:
+      - 4
+    - book: Haggai
+      chapters:
+      - 2
+    - book: John
+      chapters:
+      - 3
+  - date: Dec-14
+    sections:
+    - book: 2 Chronicles
+      chapters:
+      - 16
+    - book: Revelation
+      chapters:
+      - 5
+    - book: Zechariah
+      chapters:
+      - 1
+    - book: John
+      chapters:
+      - 4
+  - date: Dec-15
+    sections:
+    - book: 2 Chronicles
+      chapters:
+      - 17
+    - book: Revelation
+      chapters:
+      - 6
+    - book: Zechariah
+      chapters:
+      - 2
+    - book: John
+      chapters:
+      - 5
+  - date: Dec-16
+    sections:
+    - book: 2 Chronicles
+      chapters:
+      - 18
+    - book: Revelation
+      chapters:
+      - 7
+    - book: Zechariah
+      chapters:
+      - 3
+    - book: John
+      chapters:
+      - 6
+  - date: Dec-17
+    sections:
+    - book: 2 Chronicles
+      chapters:
+      - 19
+      - 20
+    - book: Revelation
+      chapters:
+      - 8
+    - book: Zechariah
+      chapters:
+      - 4
+    - book: John
+      chapters:
+      - 7
+  - date: Dec-18
+    sections:
+    - book: 2 Chronicles
+      chapters:
+      - 21
+    - book: Revelation
+      chapters:
+      - 9
+    - book: Zechariah
+      chapters:
+      - 5
+    - book: John
+      chapters:
+      - 8
+  - date: Dec-19
+    sections:
+    - book: 2 Chronicles
+      chapters:
+      - 22
+      - 23
+    - book: Revelation
+      chapters:
+      - 10
+    - book: Zechariah
+      chapters:
+      - 6
+    - book: John
+      chapters:
+      - 9
+  - date: Dec-20
+    sections:
+    - book: 2 Chronicles
+      chapters:
+      - 24
+    - book: Revelation
+      chapters:
+      - 11
+    - book: Zechariah
+      chapters:
+      - 7
+    - book: John
+      chapters:
+      - 10
+  - date: Dec-21
+    sections:
+    - book: 2 Chronicles
+      chapters:
+      - 25
+    - book: Revelation
+      chapters:
+      - 12
+    - book: Zechariah
+      chapters:
+      - 8
+    - book: John
+      chapters:
+      - 11
+  - date: Dec-22
+    sections:
+    - book: 2 Chronicles
+      chapters:
+      - 26
+    - book: Revelation
+      chapters:
+      - 13
+    - book: Zechariah
+      chapters:
+      - 9
+    - book: John
+      chapters:
+      - 12
+  - date: Dec-23
+    sections:
+    - book: 2 Chronicles
+      chapters:
+      - 27
+      - 28
+    - book: Revelation
+      chapters:
+      - 14
+    - book: Zechariah
+      chapters:
+      - 10
+    - book: John
+      chapters:
+      - 13
+  - date: Dec-24
+    sections:
+    - book: 2 Chronicles
+      chapters:
+      - 29
+    - book: Revelation
+      chapters:
+      - 15
+    - book: Zechariah
+      chapters:
+      - 11
+    - book: John
+      chapters:
+      - 14
+  - date: Dec-25
+    sections:
+    - book: 2 Chronicles
+      chapters:
+      - 30
+    - book: Revelation
+      chapters:
+      - 16
+    - book: Zechariah
+      chapters:
+      - 12
+    - book: Zechariah
+      chapter_verse: '13:1'
+    - book: John
+      chapters:
+      - 15
+  - date: Dec-26
+    sections:
+    - book: 2 Chronicles
+      chapters:
+      - 31
+    - book: Revelation
+      chapters:
+      - 17
+    - book: Zechariah
+      chapter_verse: 13:2-9
+    - book: John
+      chapters:
+      - 16
+  - date: Dec-27
+    sections:
+    - book: 2 Chronicles
+      chapters:
+      - 32
+    - book: Revelation
+      chapters:
+      - 18
+    - book: Zechariah
+      chapters:
+      - 14
+    - book: John
+      chapters:
+      - 17
+  - date: Dec-28
+    sections:
+    - book: 2 Chronicles
+      chapters:
+      - 33
+    - book: Revelation
+      chapters:
+      - 19
+    - book: Malachi
+      chapters:
+      - 1
+    - book: John
+      chapters:
+      - 18
+  - date: Dec-29
+    sections:
+    - book: 2 Chronicles
+      chapters:
+      - 34
+    - book: Revelation
+      chapters:
+      - 20
+    - book: Malachi
+      chapters:
+      - 2
+    - book: John
+      chapters:
+      - 19
+  - date: Dec-30
+    sections:
+    - book: 2 Chronicles
+      chapters:
+      - 35
+    - book: Revelation
+      chapters:
+      - 21
+    - book: Malachi
+      chapters:
+      - 3
+    - book: John
+      chapters:
+      - 20
+  - date: Dec-31
+    sections:
+    - book: 2 Chronicles
+      chapters:
+      - 36
+    - book: Revelation
+      chapters:
+      - 22
+    - book: Malachi
+      chapters:
+      - 4
+    - book: John
+      chapters:
+      - 21

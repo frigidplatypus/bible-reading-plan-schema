@@ -30,6 +30,12 @@ plan:
   # Additional fields...
 ```
 
+### File Formats
+
+Plans may be written in either **YAML** (`.yaml`) or **JSON** (`.json`). The two are
+interchangeable: JSON is a strict subset of YAML, so the same plan expressed in either
+format validates identically. The validator detects the format from the file extension.
+
 ### Required Plan Fields
 
 | Field | Type | Description |
@@ -323,10 +329,23 @@ plan:
 
 ## File Naming Convention
 
-Bible reading plan files should be named using the plan's ID followed by the `.yaml` extension:
+Bible reading plan files should be named using the plan's ID followed by the `.yaml` or `.json` extension:
 
 ```
 {plan-id}.yaml
+{plan-id}.json
 ```
 
-Example: `nt-90.yaml`, `chronological-365.yaml`
+Example: `nt-90.yaml`, `chronological-365.json`
+
+## Repository Layout
+
+```
+books-of-the-bible.yaml   # Bible book/chapter data used by the validator
+plans/                    # Real, published reading plans
+example_plans/            # Minimal examples, one per schedule type
+scripts/                  # Validation and helper scripts
+```
+
+Real plans live in `plans/`; the minimal examples in `example_plans/` exist only to
+demonstrate each schedule type and are not intended for use.

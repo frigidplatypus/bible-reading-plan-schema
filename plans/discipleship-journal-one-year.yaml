@@ -1,0 +1,3968 @@
+plan:
+  id: discipleship-journal-one-year
+  name: The Discipleship Journal Bible Reading Plan
+  description: 'A one-year Bible reading plan from The Discipleship Journal (The Navigators). Each month has 25 readings,
+    with four books read in parallel: a New Testament book, a second New Testament book (or wisdom book), and two Old Testament
+    books. Days 26-31 are free for catch-up or study. Start at any point during the year.'
+  type: sequential
+  version: '1.0'
+  duration_days: 300
+  schedule_type: calendar-generic
+  metadata:
+    tags:
+    - one-year
+    - whole-bible
+    - discipleship
+    - navigators
+    source: "The Discipleship Journal Bible Reading Plan, \xA91983 The Navigators. Used by permission of NavPress."
+  features:
+    allow_notes: true
+    track_partial_completion: true
+    catch_up_strategy: flexible
+  readings:
+  - date: Jan-01
+    sections:
+    - book: Matthew
+      chapter_verse: 1:1-17
+    - book: Acts
+      chapter_verse: 1:1-11
+    - book: Psalms
+      chapters:
+      - 1
+    - book: Genesis
+      chapters:
+      - 1
+      - 2
+  - date: Jan-02
+    sections:
+    - book: Matthew
+      chapter_verse: 1:18-25
+    - book: Acts
+      chapter_verse: 1:12-26
+    - book: Psalms
+      chapters:
+      - 2
+    - book: Genesis
+      chapters:
+      - 3
+      - 4
+  - date: Jan-03
+    sections:
+    - book: Matthew
+      chapter_verse: 2:1-12
+    - book: Acts
+      chapter_verse: 2:1-21
+    - book: Psalms
+      chapters:
+      - 3
+    - book: Genesis
+      chapters:
+      - 5
+      - 6
+      - 7
+      - 8
+  - date: Jan-04
+    sections:
+    - book: Matthew
+      chapter_verse: 2:13-23
+    - book: Acts
+      chapter_verse: 2:22-47
+    - book: Psalms
+      chapters:
+      - 4
+    - book: Genesis
+      chapters:
+      - 9
+      - 10
+      - 11
+  - date: Jan-05
+    sections:
+    - book: Matthew
+      chapter_verse: 3:1-12
+    - book: Acts
+      chapters:
+      - 3
+    - book: Psalms
+      chapters:
+      - 5
+    - book: Genesis
+      chapters:
+      - 12
+      - 13
+      - 14
+  - date: Jan-06
+    sections:
+    - book: Matthew
+      chapter_verse: 3:13-17
+    - book: Acts
+      chapter_verse: 4:1-22
+    - book: Psalms
+      chapters:
+      - 6
+    - book: Genesis
+      chapters:
+      - 15
+      - 16
+      - 17
+  - date: Jan-07
+    sections:
+    - book: Matthew
+      chapter_verse: 4:1-11
+    - book: Acts
+      chapter_verse: 4:23-37
+    - book: Psalms
+      chapters:
+      - 7
+    - book: Genesis
+      chapters:
+      - 18
+      - 19
+      - 20
+  - date: Jan-08
+    sections:
+    - book: Matthew
+      chapter_verse: 4:12-17
+    - book: Acts
+      chapter_verse: 5:1-16
+    - book: Psalms
+      chapters:
+      - 8
+    - book: Genesis
+      chapters:
+      - 21
+      - 22
+      - 23
+  - date: Jan-09
+    sections:
+    - book: Matthew
+      chapter_verse: 4:18-25
+    - book: Acts
+      chapter_verse: 5:17-42
+    - book: Psalms
+      chapters:
+      - 9
+    - book: Genesis
+      chapters:
+      - 24
+  - date: Jan-10
+    sections:
+    - book: Matthew
+      chapter_verse: 5:1-12
+    - book: Acts
+      chapters:
+      - 6
+    - book: Psalms
+      chapters:
+      - 10
+    - book: Genesis
+      chapters:
+      - 25
+      - 26
+  - date: Jan-11
+    sections:
+    - book: Matthew
+      chapter_verse: 5:13-20
+    - book: Acts
+      chapter_verse: 7:1-38
+    - book: Psalms
+      chapters:
+      - 11
+    - book: Genesis
+      chapters:
+      - 27
+      - 28
+  - date: Jan-12
+    sections:
+    - book: Matthew
+      chapter_verse: 5:21-32
+    - book: Acts
+      chapter_verse: 7:39-60
+    - book: Psalms
+      chapters:
+      - 12
+    - book: Genesis
+      chapters:
+      - 29
+      - 30
+  - date: Jan-13
+    sections:
+    - book: Matthew
+      chapter_verse: 5:33-48
+    - book: Acts
+      chapter_verse: 8:1-25
+    - book: Psalms
+      chapters:
+      - 13
+    - book: Genesis
+      chapters:
+      - 31
+  - date: Jan-14
+    sections:
+    - book: Matthew
+      chapter_verse: 6:1-15
+    - book: Acts
+      chapter_verse: 8:26-40
+    - book: Psalms
+      chapters:
+      - 14
+    - book: Genesis
+      chapters:
+      - 32
+      - 33
+  - date: Jan-15
+    sections:
+    - book: Matthew
+      chapter_verse: 6:16-24
+    - book: Acts
+      chapter_verse: 9:1-19
+    - book: Psalms
+      chapters:
+      - 15
+    - book: Genesis
+      chapters:
+      - 34
+      - 35
+  - date: Jan-16
+    sections:
+    - book: Matthew
+      chapter_verse: 6:25-34
+    - book: Acts
+      chapter_verse: 9:20-43
+    - book: Psalms
+      chapters:
+      - 16
+    - book: Genesis
+      chapters:
+      - 36
+  - date: Jan-17
+    sections:
+    - book: Matthew
+      chapter_verse: 7:1-14
+    - book: Acts
+      chapter_verse: 10:1-23
+    - book: Psalms
+      chapters:
+      - 17
+    - book: Genesis
+      chapters:
+      - 37
+      - 38
+  - date: Jan-18
+    sections:
+    - book: Matthew
+      chapter_verse: 7:15-29
+    - book: Acts
+      chapter_verse: 10:24-48
+    - book: Psalms
+      chapter_verse: 18:1-24
+    - book: Genesis
+      chapters:
+      - 39
+      - 40
+  - date: Jan-19
+    sections:
+    - book: Matthew
+      chapter_verse: 8:1-13
+    - book: Acts
+      chapter_verse: 11:1-18
+    - book: Psalms
+      chapter_verse: 18:25-50
+    - book: Genesis
+      chapters:
+      - 41
+  - date: Jan-20
+    sections:
+    - book: Matthew
+      chapter_verse: 8:14-22
+    - book: Acts
+      chapter_verse: 11:19-30
+    - book: Psalms
+      chapters:
+      - 19
+    - book: Genesis
+      chapters:
+      - 42
+      - 43
+  - date: Jan-21
+    sections:
+    - book: Matthew
+      chapter_verse: 8:23-34
+    - book: Acts
+      chapters:
+      - 12
+    - book: Psalms
+      chapters:
+      - 20
+    - book: Genesis
+      chapters:
+      - 44
+      - 45
+  - date: Jan-22
+    sections:
+    - book: Matthew
+      chapter_verse: 9:1-13
+    - book: Acts
+      chapter_verse: 13:1-25
+    - book: Psalms
+      chapters:
+      - 21
+    - book: Genesis
+      chapters:
+      - 46
+      - 47
+  - date: Jan-23
+    sections:
+    - book: Matthew
+      chapter_verse: 9:14-26
+    - book: Acts
+      chapter_verse: 13:26-52
+    - book: Psalms
+      chapter_verse: 22:1-11
+    - book: Genesis
+      chapters:
+      - 48
+  - date: Jan-24
+    sections:
+    - book: Matthew
+      chapter_verse: 9:27-38
+    - book: Acts
+      chapters:
+      - 14
+    - book: Psalms
+      chapter_verse: 22:12-31
+    - book: Genesis
+      chapters:
+      - 49
+  - date: Jan-25
+    sections:
+    - book: Matthew
+      chapter_verse: 10:1-20
+    - book: Acts
+      chapter_verse: 15:1-21
+    - book: Psalms
+      chapters:
+      - 23
+    - book: Genesis
+      chapters:
+      - 50
+  - date: Feb-01
+    sections:
+    - book: Matthew
+      chapter_verse: 10:21-42
+    - book: Acts
+      chapter_verse: 15:22-41
+    - book: Psalms
+      chapters:
+      - 24
+    - book: Exodus
+      chapters:
+      - 1
+      - 2
+      - 3
+  - date: Feb-02
+    sections:
+    - book: Matthew
+      chapter_verse: 11:1-19
+    - book: Acts
+      chapter_verse: 16:1-15
+    - book: Psalms
+      chapters:
+      - 25
+    - book: Exodus
+      chapters:
+      - 4
+      - 5
+      - 6
+  - date: Feb-03
+    sections:
+    - book: Matthew
+      chapter_verse: 11:20-30
+    - book: Acts
+      chapter_verse: 16:16-40
+    - book: Psalms
+      chapters:
+      - 26
+    - book: Exodus
+      chapters:
+      - 7
+      - 8
+      - 9
+  - date: Feb-04
+    sections:
+    - book: Matthew
+      chapter_verse: 12:1-21
+    - book: Acts
+      chapter_verse: 17:1-15
+    - book: Psalms
+      chapters:
+      - 27
+    - book: Exodus
+      chapters:
+      - 10
+      - 11
+      - 12
+  - date: Feb-05
+    sections:
+    - book: Matthew
+      chapter_verse: 12:22-37
+    - book: Acts
+      chapter_verse: 17:16-34
+    - book: Psalms
+      chapters:
+      - 28
+    - book: Exodus
+      chapters:
+      - 13
+      - 14
+      - 15
+  - date: Feb-06
+    sections:
+    - book: Matthew
+      chapter_verse: 12:38-50
+    - book: Acts
+      chapter_verse: 18:1-17
+    - book: Psalms
+      chapters:
+      - 29
+    - book: Exodus
+      chapters:
+      - 16
+      - 17
+      - 18
+  - date: Feb-07
+    sections:
+    - book: Matthew
+      chapter_verse: 13:1-23
+    - book: Acts
+      chapter_verse: 18:18-28
+    - book: Psalms
+      chapters:
+      - 30
+    - book: Exodus
+      chapters:
+      - 19
+      - 20
+  - date: Feb-08
+    sections:
+    - book: Matthew
+      chapter_verse: 13:24-43
+    - book: Acts
+      chapter_verse: 19:1-22
+    - book: Psalms
+      chapters:
+      - 31
+    - book: Exodus
+      chapters:
+      - 21
+      - 22
+      - 23
+  - date: Feb-09
+    sections:
+    - book: Matthew
+      chapter_verse: 13:44-58
+    - book: Acts
+      chapter_verse: 19:23-41
+    - book: Psalms
+      chapters:
+      - 32
+    - book: Exodus
+      chapters:
+      - 24
+      - 25
+      - 26
+  - date: Feb-10
+    sections:
+    - book: Matthew
+      chapter_verse: 14:1-21
+    - book: Acts
+      chapter_verse: 20:1-12
+    - book: Psalms
+      chapters:
+      - 33
+    - book: Exodus
+      chapters:
+      - 27
+      - 28
+      - 29
+  - date: Feb-11
+    sections:
+    - book: Matthew
+      chapter_verse: 14:22-36
+    - book: Acts
+      chapter_verse: 20:13-38
+    - book: Psalms
+      chapters:
+      - 34
+    - book: Exodus
+      chapters:
+      - 30
+      - 31
+  - date: Feb-12
+    sections:
+    - book: Matthew
+      chapter_verse: 15:1-20
+    - book: Acts
+      chapter_verse: 21:1-26
+    - book: Psalms
+      chapters:
+      - 35
+    - book: Exodus
+      chapters:
+      - 32
+      - 33
+  - date: Feb-13
+    sections:
+    - book: Matthew
+      chapter_verse: 15:21-39
+    - book: Acts
+      chapter_verse: 21:27-40
+    - book: Psalms
+      chapters:
+      - 36
+    - book: Exodus
+      chapters:
+      - 34
+  - date: Feb-14
+    sections:
+    - book: Matthew
+      chapter_verse: 16:1-12
+    - book: Acts
+      chapters:
+      - 22
+    - book: Psalms
+      chapter_verse: 37:1-22
+    - book: Exodus
+      chapters:
+      - 35
+      - 36
+      - 37
+  - date: Feb-15
+    sections:
+    - book: Matthew
+      chapter_verse: 16:13-28
+    - book: Acts
+      chapter_verse: 23:1-11
+    - book: Psalms
+      chapter_verse: 37:23-40
+    - book: Exodus
+      chapters:
+      - 38
+      - 39
+      - 40
+  - date: Feb-16
+    sections:
+    - book: Matthew
+      chapter_verse: 17:1-13
+    - book: Acts
+      chapter_verse: 23:12-35
+    - book: Psalms
+      chapters:
+      - 38
+    - book: Leviticus
+      chapters:
+      - 1
+      - 2
+      - 3
+      - 4
+  - date: Feb-17
+    sections:
+    - book: Matthew
+      chapter_verse: 17:14-27
+    - book: Acts
+      chapters:
+      - 24
+    - book: Psalms
+      chapters:
+      - 39
+    - book: Leviticus
+      chapters:
+      - 5
+      - 6
+      - 7
+  - date: Feb-18
+    sections:
+    - book: Matthew
+      chapter_verse: 18:1-14
+    - book: Acts
+      chapter_verse: 25:1-12
+    - book: Psalms
+      chapters:
+      - 40
+    - book: Leviticus
+      chapters:
+      - 8
+      - 9
+      - 10
+  - date: Feb-19
+    sections:
+    - book: Matthew
+      chapter_verse: 18:15-35
+    - book: Acts
+      chapter_verse: 25:13-27
+    - book: Psalms
+      chapters:
+      - 41
+    - book: Leviticus
+      chapters:
+      - 11
+      - 12
+      - 13
+  - date: Feb-20
+    sections:
+    - book: Matthew
+      chapter_verse: 19:1-15
+    - book: Acts
+      chapter_verse: 26:1-18
+    - book: Psalms
+      chapters:
+      - 42
+    - book: Leviticus
+      chapters:
+      - 14
+      - 15
+  - date: Feb-21
+    sections:
+    - book: Matthew
+      chapter_verse: 19:16-30
+    - book: Acts
+      chapter_verse: 26:19-32
+    - book: Psalms
+      chapters:
+      - 43
+    - book: Leviticus
+      chapters:
+      - 16
+      - 17
+  - date: Feb-22
+    sections:
+    - book: Matthew
+      chapter_verse: 20:1-16
+    - book: Acts
+      chapter_verse: 27:1-26
+    - book: Psalms
+      chapters:
+      - 44
+    - book: Leviticus
+      chapters:
+      - 18
+      - 19
+      - 20
+  - date: Feb-23
+    sections:
+    - book: Matthew
+      chapter_verse: 20:17-34
+    - book: Acts
+      chapter_verse: 27:27-44
+    - book: Psalms
+      chapters:
+      - 45
+    - book: Leviticus
+      chapters:
+      - 21
+      - 22
+      - 23
+  - date: Feb-24
+    sections:
+    - book: Matthew
+      chapter_verse: 21:1-11
+    - book: Acts
+      chapter_verse: 28:1-16
+    - book: Psalms
+      chapters:
+      - 46
+    - book: Leviticus
+      chapters:
+      - 24
+      - 25
+  - date: Feb-25
+    sections:
+    - book: Matthew
+      chapter_verse: 21:12-22
+    - book: Acts
+      chapter_verse: 28:17-31
+    - book: Psalms
+      chapters:
+      - 47
+    - book: Leviticus
+      chapters:
+      - 26
+      - 27
+  - date: Mar-01
+    sections:
+    - book: Matthew
+      chapter_verse: 21:23-32
+    - book: Romans
+      chapter_verse: 1:1-17
+    - book: Psalms
+      chapters:
+      - 48
+    - book: Numbers
+      chapters:
+      - 1
+      - 2
+  - date: Mar-02
+    sections:
+    - book: Matthew
+      chapter_verse: 21:33-46
+    - book: Romans
+      chapter_verse: 1:18-32
+    - book: Psalms
+      chapters:
+      - 49
+    - book: Numbers
+      chapters:
+      - 3
+      - 4
+  - date: Mar-03
+    sections:
+    - book: Matthew
+      chapter_verse: 22:1-14
+    - book: Romans
+      chapters:
+      - 2
+    - book: Psalms
+      chapters:
+      - 50
+    - book: Numbers
+      chapters:
+      - 5
+      - 6
+  - date: Mar-04
+    sections:
+    - book: Matthew
+      chapter_verse: 22:15-33
+    - book: Romans
+      chapters:
+      - 3
+    - book: Psalms
+      chapters:
+      - 51
+    - book: Numbers
+      chapters:
+      - 7
+      - 8
+  - date: Mar-05
+    sections:
+    - book: Matthew
+      chapter_verse: 22:34-46
+    - book: Romans
+      chapters:
+      - 4
+    - book: Psalms
+      chapters:
+      - 52
+    - book: Numbers
+      chapters:
+      - 9
+      - 10
+      - 11
+  - date: Mar-06
+    sections:
+    - book: Matthew
+      chapter_verse: 23:1-12
+    - book: Romans
+      chapter_verse: 5:1-11
+    - book: Psalms
+      chapters:
+      - 53
+    - book: Numbers
+      chapters:
+      - 12
+      - 13
+      - 14
+  - date: Mar-07
+    sections:
+    - book: Matthew
+      chapter_verse: 23:13-24
+    - book: Romans
+      chapter_verse: 5:12-21
+    - book: Psalms
+      chapters:
+      - 54
+    - book: Numbers
+      chapters:
+      - 15
+      - 16
+      - 17
+  - date: Mar-08
+    sections:
+    - book: Matthew
+      chapter_verse: 23:25-39
+    - book: Romans
+      chapter_verse: 6:1-14
+    - book: Psalms
+      chapters:
+      - 55
+    - book: Numbers
+      chapters:
+      - 18
+      - 19
+      - 20
+  - date: Mar-09
+    sections:
+    - book: Matthew
+      chapter_verse: 24:1-14
+    - book: Romans
+      chapter_verse: 6:15-23
+    - book: Psalms
+      chapters:
+      - 56
+    - book: Numbers
+      chapters:
+      - 21
+      - 22
+  - date: Mar-10
+    sections:
+    - book: Matthew
+      chapter_verse: 24:15-35
+    - book: Romans
+      chapter_verse: 7:1-12
+    - book: Psalms
+      chapters:
+      - 57
+    - book: Numbers
+      chapters:
+      - 23
+      - 24
+      - 25
+  - date: Mar-11
+    sections:
+    - book: Matthew
+      chapter_verse: 24:36-51
+    - book: Romans
+      chapter_verse: 7:13-25
+    - book: Psalms
+      chapters:
+      - 58
+    - book: Numbers
+      chapters:
+      - 26
+      - 27
+  - date: Mar-12
+    sections:
+    - book: Matthew
+      chapter_verse: 25:1-13
+    - book: Romans
+      chapter_verse: 8:1-17
+    - book: Psalms
+      chapters:
+      - 59
+    - book: Numbers
+      chapters:
+      - 28
+      - 29
+      - 30
+  - date: Mar-13
+    sections:
+    - book: Matthew
+      chapter_verse: 25:14-30
+    - book: Romans
+      chapter_verse: 8:18-39
+    - book: Psalms
+      chapters:
+      - 60
+    - book: Numbers
+      chapters:
+      - 31
+      - 32
+  - date: Mar-14
+    sections:
+    - book: Matthew
+      chapter_verse: 25:31-46
+    - book: Romans
+      chapter_verse: 9:1-18
+    - book: Psalms
+      chapters:
+      - 61
+    - book: Numbers
+      chapters:
+      - 33
+      - 34
+      - 35
+      - 36
+  - date: Mar-15
+    sections:
+    - book: Matthew
+      chapter_verse: 26:1-16
+    - book: Romans
+      chapter_verse: 9:19-33
+    - book: Psalms
+      chapters:
+      - 62
+    - book: Deuteronomy
+      chapters:
+      - 1
+      - 2
+      - 3
+  - date: Mar-16
+    sections:
+    - book: Matthew
+      chapter_verse: 26:17-35
+    - book: Romans
+      chapters:
+      - 10
+    - book: Psalms
+      chapters:
+      - 63
+    - book: Deuteronomy
+      chapters:
+      - 4
+      - 5
+  - date: Mar-17
+    sections:
+    - book: Matthew
+      chapter_verse: 26:36-56
+    - book: Romans
+      chapter_verse: 11:1-24
+    - book: Psalms
+      chapters:
+      - 64
+    - book: Deuteronomy
+      chapters:
+      - 6
+      - 7
+      - 8
+  - date: Mar-18
+    sections:
+    - book: Matthew
+      chapter_verse: 26:57-75
+    - book: Romans
+      chapter_verse: 11:25-36
+    - book: Psalms
+      chapters:
+      - 65
+    - book: Deuteronomy
+      chapters:
+      - 9
+      - 10
+      - 11
+      - 12
+  - date: Mar-19
+    sections:
+    - book: Matthew
+      chapter_verse: 27:1-10
+    - book: Romans
+      chapter_verse: 12:1-8
+    - book: Psalms
+      chapters:
+      - 66
+    - book: Deuteronomy
+      chapters:
+      - 13
+      - 14
+      - 15
+      - 16
+      - 17
+  - date: Mar-20
+    sections:
+    - book: Matthew
+      chapter_verse: 27:11-26
+    - book: Romans
+      chapter_verse: 12:9-21
+    - book: Psalms
+      chapters:
+      - 67
+    - book: Deuteronomy
+      chapters:
+      - 18
+      - 19
+      - 20
+      - 21
+  - date: Mar-21
+    sections:
+    - book: Matthew
+      chapter_verse: 27:27-44
+    - book: Romans
+      chapters:
+      - 13
+    - book: Psalms
+      chapters:
+      - 68
+    - book: Deuteronomy
+      chapters:
+      - 22
+      - 23
+      - 24
+      - 25
+      - 26
+  - date: Mar-22
+    sections:
+    - book: Matthew
+      chapter_verse: 27:45-56
+    - book: Romans
+      chapters:
+      - 14
+    - book: Psalms
+      chapter_verse: 69:1-18
+    - book: Deuteronomy
+      chapters:
+      - 27
+      - 28
+  - date: Mar-23
+    sections:
+    - book: Matthew
+      chapter_verse: 27:57-66
+    - book: Romans
+      chapter_verse: 15:1-13
+    - book: Psalms
+      chapter_verse: 69:19-36
+    - book: Deuteronomy
+      chapters:
+      - 29
+      - 30
+      - 31
+  - date: Mar-24
+    sections:
+    - book: Matthew
+      chapter_verse: 28:1-10
+    - book: Romans
+      chapter_verse: 15:14-33
+    - book: Psalms
+      chapters:
+      - 70
+    - book: Deuteronomy
+      chapters:
+      - 32
+  - date: Mar-25
+    sections:
+    - book: Matthew
+      chapter_verse: 28:11-20
+    - book: Romans
+      chapters:
+      - 16
+    - book: Psalms
+      chapters:
+      - 71
+    - book: Deuteronomy
+      chapters:
+      - 33
+      - 34
+  - date: Apr-01
+    sections:
+    - book: Mark
+      chapter_verse: 1:1-8
+    - book: 1 Corinthians
+      chapter_verse: 1:1-17
+    - book: Psalms
+      chapters:
+      - 72
+    - book: Joshua
+      chapters:
+      - 1
+      - 2
+  - date: Apr-02
+    sections:
+    - book: Mark
+      chapter_verse: 1:9-20
+    - book: 1 Corinthians
+      chapter_verse: 1:18-31
+    - book: Psalms
+      chapters:
+      - 73
+    - book: Joshua
+      chapters:
+      - 3
+      - 4
+      - 5
+  - date: Apr-03
+    sections:
+    - book: Mark
+      chapter_verse: 1:21-34
+    - book: 1 Corinthians
+      chapters:
+      - 2
+    - book: Psalms
+      chapters:
+      - 74
+    - book: Joshua
+      chapters:
+      - 6
+      - 7
+  - date: Apr-04
+    sections:
+    - book: Mark
+      chapter_verse: 1:35-45
+    - book: 1 Corinthians
+      chapters:
+      - 3
+    - book: Psalms
+      chapters:
+      - 75
+    - book: Joshua
+      chapters:
+      - 8
+      - 9
+  - date: Apr-05
+    sections:
+    - book: Mark
+      chapter_verse: 2:1-12
+    - book: 1 Corinthians
+      chapters:
+      - 4
+    - book: Psalms
+      chapters:
+      - 76
+    - book: Joshua
+      chapters:
+      - 10
+      - 11
+      - 12
+  - date: Apr-06
+    sections:
+    - book: Mark
+      chapter_verse: 2:13-17
+    - book: 1 Corinthians
+      chapters:
+      - 5
+    - book: Psalms
+      chapters:
+      - 77
+    - book: Joshua
+      chapters:
+      - 13
+      - 14
+  - date: Apr-07
+    sections:
+    - book: Mark
+      chapter_verse: 2:18-28
+    - book: 1 Corinthians
+      chapter_verse: 6:1-11
+    - book: Psalms
+      chapter_verse: 78:1-39
+    - book: Joshua
+      chapters:
+      - 15
+      - 16
+      - 17
+  - date: Apr-08
+    sections:
+    - book: Mark
+      chapter_verse: 3:1-19
+    - book: 1 Corinthians
+      chapter_verse: 6:12-20
+    - book: Psalms
+      chapter_verse: 78:40-72
+    - book: Joshua
+      chapters:
+      - 18
+      - 19
+  - date: Apr-09
+    sections:
+    - book: Mark
+      chapter_verse: 3:20-35
+    - book: 1 Corinthians
+      chapter_verse: 7:1-16
+    - book: Psalms
+      chapters:
+      - 79
+    - book: Joshua
+      chapters:
+      - 20
+      - 21
+  - date: Apr-10
+    sections:
+    - book: Mark
+      chapter_verse: 4:1-20
+    - book: 1 Corinthians
+      chapter_verse: 7:17-40
+    - book: Psalms
+      chapters:
+      - 80
+    - book: Joshua
+      chapters:
+      - 22
+      - 23
+  - date: Apr-11
+    sections:
+    - book: Mark
+      chapter_verse: 4:21-41
+    - book: 1 Corinthians
+      chapters:
+      - 8
+    - book: Psalms
+      chapters:
+      - 81
+    - book: Joshua
+      chapters:
+      - 24
+  - date: Apr-12
+    sections:
+    - book: Mark
+      chapter_verse: 5:1-20
+    - book: 1 Corinthians
+      chapter_verse: 9:1-12
+    - book: Psalms
+      chapters:
+      - 82
+    - book: Judges
+      chapters:
+      - 1
+      - 2
+      - 3
+  - date: Apr-13
+    sections:
+    - book: Mark
+      chapter_verse: 5:21-43
+    - book: 1 Corinthians
+      chapter_verse: 9:13-27
+    - book: Psalms
+      chapters:
+      - 83
+    - book: Judges
+      chapters:
+      - 4
+      - 5
+  - date: Apr-14
+    sections:
+    - book: Mark
+      chapter_verse: 6:1-13
+    - book: 1 Corinthians
+      chapter_verse: 10:1-13
+    - book: Psalms
+      chapters:
+      - 84
+    - book: Judges
+      chapters:
+      - 6
+      - 7
+  - date: Apr-15
+    sections:
+    - book: Mark
+      chapter_verse: 6:14-29
+    - book: 1 Corinthians
+      chapter_verse: 10:14-33
+    - book: Psalms
+      chapters:
+      - 85
+    - book: Judges
+      chapters:
+      - 8
+  - date: Apr-16
+    sections:
+    - book: Mark
+      chapter_verse: 6:30-44
+    - book: 1 Corinthians
+      chapter_verse: 11:1-16
+    - book: Psalms
+      chapters:
+      - 86
+    - book: Judges
+      chapters:
+      - 9
+  - date: Apr-17
+    sections:
+    - book: Mark
+      chapter_verse: 6:45-56
+    - book: 1 Corinthians
+      chapter_verse: 11:17-34
+    - book: Psalms
+      chapters:
+      - 87
+    - book: Judges
+      chapters:
+      - 10
+      - 11
+      - 12
+  - date: Apr-18
+    sections:
+    - book: Mark
+      chapter_verse: 7:1-23
+    - book: 1 Corinthians
+      chapter_verse: 12:1-13
+    - book: Psalms
+      chapters:
+      - 88
+    - book: Judges
+      chapters:
+      - 13
+      - 14
+      - 15
+  - date: Apr-19
+    sections:
+    - book: Mark
+      chapter_verse: 7:24-37
+    - book: 1 Corinthians
+      chapter_verse: 12:14-31
+    - book: Psalms
+      chapter_verse: 89:1-18
+    - book: Judges
+      chapters:
+      - 16
+  - date: Apr-20
+    sections:
+    - book: Mark
+      chapter_verse: 8:1-13
+    - book: 1 Corinthians
+      chapters:
+      - 13
+    - book: Psalms
+      chapter_verse: 89:19-52
+    - book: Judges
+      chapters:
+      - 17
+      - 18
+  - date: Apr-21
+    sections:
+    - book: Mark
+      chapter_verse: 8:14-21
+    - book: 1 Corinthians
+      chapter_verse: 14:1-25
+    - book: Psalms
+      chapters:
+      - 90
+    - book: Judges
+      chapters:
+      - 19
+  - date: Apr-22
+    sections:
+    - book: Mark
+      chapter_verse: 8:22-30
+    - book: 1 Corinthians
+      chapter_verse: 14:26-40
+    - book: Psalms
+      chapters:
+      - 91
+    - book: Judges
+      chapters:
+      - 20
+      - 21
+  - date: Apr-23
+    sections:
+    - book: Mark
+      chapter_verse: 8:31-38
+    - book: 1 Corinthians
+      chapter_verse: 15:1-28
+    - book: Psalms
+      chapters:
+      - 92
+    - book: Ruth
+      chapters:
+      - 1
+  - date: Apr-24
+    sections:
+    - book: Mark
+      chapter_verse: 9:1-13
+    - book: 1 Corinthians
+      chapter_verse: 15:29-58
+    - book: Psalms
+      chapters:
+      - 93
+    - book: Ruth
+      chapters:
+      - 2
+      - 3
+  - date: Apr-25
+    sections:
+    - book: Mark
+      chapter_verse: 9:14-32
+    - book: 1 Corinthians
+      chapters:
+      - 16
+    - book: Psalms
+      chapters:
+      - 94
+    - book: Ruth
+      chapters:
+      - 4
+  - date: May-01
+    sections:
+    - book: Mark
+      chapter_verse: 9:33-50
+    - book: 2 Corinthians
+      chapter_verse: 1:1-11
+    - book: Psalms
+      chapters:
+      - 95
+    - book: 1 Samuel
+      chapters:
+      - 1
+      - 2
+  - date: May-02
+    sections:
+    - book: Mark
+      chapter_verse: 10:1-16
+    - book: 2 Corinthians
+      chapter_verse: 1:12-24
+    - book: Psalms
+      chapters:
+      - 96
+    - book: 1 Samuel
+      chapters:
+      - 3
+      - 4
+      - 5
+  - date: May-03
+    sections:
+    - book: Mark
+      chapter_verse: 10:17-34
+    - book: 2 Corinthians
+      chapters:
+      - 2
+    - book: Psalms
+      chapters:
+      - 97
+    - book: 1 Samuel
+      chapters:
+      - 6
+      - 7
+      - 8
+  - date: May-04
+    sections:
+    - book: Mark
+      chapter_verse: 10:35-52
+    - book: 2 Corinthians
+      chapters:
+      - 3
+    - book: Psalms
+      chapters:
+      - 98
+    - book: 1 Samuel
+      chapters:
+      - 9
+      - 10
+  - date: May-05
+    sections:
+    - book: Mark
+      chapter_verse: 11:1-11
+    - book: 2 Corinthians
+      chapters:
+      - 4
+    - book: Psalms
+      chapters:
+      - 99
+    - book: 1 Samuel
+      chapters:
+      - 11
+      - 12
+      - 13
+  - date: May-06
+    sections:
+    - book: Mark
+      chapter_verse: 11:12-26
+    - book: 2 Corinthians
+      chapters:
+      - 5
+    - book: Psalms
+      chapters:
+      - 100
+    - book: 1 Samuel
+      chapters:
+      - 14
+  - date: May-07
+    sections:
+    - book: Mark
+      chapter_verse: 11:27-33
+    - book: 2 Corinthians
+      chapters:
+      - 6
+    - book: Psalms
+      chapters:
+      - 101
+    - book: 1 Samuel
+      chapters:
+      - 15
+      - 16
+  - date: May-08
+    sections:
+    - book: Mark
+      chapter_verse: 12:1-12
+    - book: 2 Corinthians
+      chapters:
+      - 7
+    - book: Psalms
+      chapters:
+      - 102
+    - book: 1 Samuel
+      chapters:
+      - 17
+      - 18
+  - date: May-09
+    sections:
+    - book: Mark
+      chapter_verse: 12:13-27
+    - book: 2 Corinthians
+      chapters:
+      - 8
+    - book: Psalms
+      chapters:
+      - 103
+    - book: 1 Samuel
+      chapters:
+      - 19
+      - 20
+  - date: May-10
+    sections:
+    - book: Mark
+      chapter_verse: 12:28-34
+    - book: 2 Corinthians
+      chapters:
+      - 9
+    - book: Psalms
+      chapters:
+      - 104
+    - book: 1 Samuel
+      chapters:
+      - 21
+      - 22
+      - 23
+  - date: May-11
+    sections:
+    - book: Mark
+      chapter_verse: 12:35-44
+    - book: 2 Corinthians
+      chapters:
+      - 10
+    - book: Psalms
+      chapters:
+      - 105
+    - book: 1 Samuel
+      chapters:
+      - 24
+      - 25
+  - date: May-12
+    sections:
+    - book: Mark
+      chapter_verse: 13:1-13
+    - book: 2 Corinthians
+      chapter_verse: 11:1-15
+    - book: Psalms
+      chapter_verse: 106:1-23
+    - book: 1 Samuel
+      chapters:
+      - 26
+      - 27
+      - 28
+  - date: May-13
+    sections:
+    - book: Mark
+      chapter_verse: 13:14-31
+    - book: 2 Corinthians
+      chapter_verse: 11:16-33
+    - book: Psalms
+      chapter_verse: 106:24-48
+    - book: 1 Samuel
+      chapters:
+      - 29
+      - 30
+      - 31
+  - date: May-14
+    sections:
+    - book: Mark
+      chapter_verse: 13:32-37
+    - book: 2 Corinthians
+      chapter_verse: 12:1-10
+    - book: Psalms
+      chapters:
+      - 107
+    - book: 2 Samuel
+      chapters:
+      - 1
+      - 2
+  - date: May-15
+    sections:
+    - book: Mark
+      chapter_verse: 14:1-11
+    - book: 2 Corinthians
+      chapter_verse: 12:11-21
+    - book: Psalms
+      chapters:
+      - 108
+    - book: 2 Samuel
+      chapters:
+      - 3
+      - 4
+  - date: May-16
+    sections:
+    - book: Mark
+      chapter_verse: 14:12-31
+    - book: 2 Corinthians
+      chapters:
+      - 13
+    - book: Psalms
+      chapters:
+      - 109
+    - book: 2 Samuel
+      chapters:
+      - 5
+      - 6
+      - 7
+  - date: May-17
+    sections:
+    - book: Mark
+      chapter_verse: 14:32-42
+    - book: Galatians
+      chapters:
+      - 1
+    - book: Psalms
+      chapters:
+      - 110
+    - book: 2 Samuel
+      chapters:
+      - 8
+      - 9
+      - 10
+  - date: May-18
+    sections:
+    - book: Mark
+      chapter_verse: 14:43-52
+    - book: Galatians
+      chapters:
+      - 2
+    - book: Psalms
+      chapters:
+      - 111
+    - book: 2 Samuel
+      chapters:
+      - 11
+      - 12
+  - date: May-19
+    sections:
+    - book: Mark
+      chapter_verse: 14:53-65
+    - book: Galatians
+      chapter_verse: 3:1-14
+    - book: Psalms
+      chapters:
+      - 112
+    - book: 2 Samuel
+      chapters:
+      - 13
+  - date: May-20
+    sections:
+    - book: Mark
+      chapter_verse: 14:66-72
+    - book: Galatians
+      chapter_verse: 3:15-29
+    - book: Psalms
+      chapters:
+      - 113
+    - book: 2 Samuel
+      chapters:
+      - 14
+      - 15
+  - date: May-21
+    sections:
+    - book: Mark
+      chapter_verse: 15:1-15
+    - book: Galatians
+      chapter_verse: 4:1-20
+    - book: Psalms
+      chapters:
+      - 114
+    - book: 2 Samuel
+      chapters:
+      - 16
+      - 17
+  - date: May-22
+    sections:
+    - book: Mark
+      chapter_verse: 15:16-32
+    - book: Galatians
+      chapter_verse: 4:21-31
+    - book: Psalms
+      chapters:
+      - 115
+    - book: 2 Samuel
+      chapters:
+      - 18
+      - 19
+  - date: May-23
+    sections:
+    - book: Mark
+      chapter_verse: 15:33-41
+    - book: Galatians
+      chapter_verse: 5:1-12
+    - book: Psalms
+      chapters:
+      - 116
+    - book: 2 Samuel
+      chapters:
+      - 20
+      - 21
+  - date: May-24
+    sections:
+    - book: Mark
+      chapter_verse: 15:42-47
+    - book: Galatians
+      chapter_verse: 5:13-26
+    - book: Psalms
+      chapters:
+      - 117
+    - book: 2 Samuel
+      chapters:
+      - 22
+  - date: May-25
+    sections:
+    - book: Mark
+      chapters:
+      - 16
+    - book: Galatians
+      chapters:
+      - 6
+    - book: Psalms
+      chapters:
+      - 118
+    - book: 2 Samuel
+      chapters:
+      - 23
+      - 24
+  - date: Jun-01
+    sections:
+    - book: Luke
+      chapter_verse: 1:1-25
+    - book: Ephesians
+      chapter_verse: 1:1-14
+    - book: Psalms
+      chapter_verse: 119:1-8
+    - book: 1 Kings
+      chapters:
+      - 1
+  - date: Jun-02
+    sections:
+    - book: Luke
+      chapter_verse: 1:26-38
+    - book: Ephesians
+      chapter_verse: 1:15-23
+    - book: Psalms
+      chapter_verse: 119:9-16
+    - book: 1 Kings
+      chapters:
+      - 2
+      - 3
+  - date: Jun-03
+    sections:
+    - book: Luke
+      chapter_verse: 1:39-56
+    - book: Ephesians
+      chapter_verse: 2:1-10
+    - book: Psalms
+      chapter_verse: 119:17-24
+    - book: 1 Kings
+      chapters:
+      - 4
+      - 5
+  - date: Jun-04
+    sections:
+    - book: Luke
+      chapter_verse: 1:57-66
+    - book: Ephesians
+      chapter_verse: 2:11-22
+    - book: Psalms
+      chapter_verse: 119:25-32
+    - book: 1 Kings
+      chapters:
+      - 6
+      - 7
+  - date: Jun-05
+    sections:
+    - book: Luke
+      chapter_verse: 1:67-80
+    - book: Ephesians
+      chapter_verse: 3:1-13
+    - book: Psalms
+      chapter_verse: 119:33-40
+    - book: 1 Kings
+      chapters:
+      - 8
+  - date: Jun-06
+    sections:
+    - book: Luke
+      chapter_verse: 2:1-20
+    - book: Ephesians
+      chapter_verse: 3:14-21
+    - book: Psalms
+      chapter_verse: 119:41-48
+    - book: 1 Kings
+      chapters:
+      - 9
+      - 10
+  - date: Jun-07
+    sections:
+    - book: Luke
+      chapter_verse: 2:21-40
+    - book: Ephesians
+      chapter_verse: 4:1-16
+    - book: Psalms
+      chapter_verse: 119:49-56
+    - book: 1 Kings
+      chapters:
+      - 11
+  - date: Jun-08
+    sections:
+    - book: Luke
+      chapter_verse: 2:41-52
+    - book: Ephesians
+      chapter_verse: 4:17-24
+    - book: Psalms
+      chapter_verse: 119:57-64
+    - book: 1 Kings
+      chapters:
+      - 12
+  - date: Jun-09
+    sections:
+    - book: Luke
+      chapter_verse: 3:1-20
+    - book: Ephesians
+      chapter_verse: 4:25-32
+    - book: Psalms
+      chapter_verse: 119:65-72
+    - book: 1 Kings
+      chapters:
+      - 13
+      - 14
+  - date: Jun-10
+    sections:
+    - book: Luke
+      chapter_verse: 3:21-38
+    - book: Ephesians
+      chapter_verse: 5:1-21
+    - book: Psalms
+      chapter_verse: 119:73-80
+    - book: 1 Kings
+      chapters:
+      - 15
+      - 16
+  - date: Jun-11
+    sections:
+    - book: Luke
+      chapter_verse: 4:1-12
+    - book: Ephesians
+      chapter_verse: 5:22-33
+    - book: Psalms
+      chapter_verse: 119:81-88
+    - book: 1 Kings
+      chapters:
+      - 17
+      - 18
+  - date: Jun-12
+    sections:
+    - book: Luke
+      chapter_verse: 4:13-30
+    - book: Ephesians
+      chapter_verse: 6:1-9
+    - book: Psalms
+      chapter_verse: 119:89-96
+    - book: 1 Kings
+      chapters:
+      - 19
+      - 20
+  - date: Jun-13
+    sections:
+    - book: Luke
+      chapter_verse: 4:31-37
+    - book: Ephesians
+      chapter_verse: 6:10-24
+    - book: Psalms
+      chapter_verse: 119:97-104
+    - book: 1 Kings
+      chapters:
+      - 21
+      - 22
+  - date: Jun-14
+    sections:
+    - book: Luke
+      chapter_verse: 4:38-44
+    - book: Philippians
+      chapter_verse: 1:1-11
+    - book: Psalms
+      chapter_verse: 119:105-112
+    - book: 2 Kings
+      chapters:
+      - 1
+      - 2
+      - 3
+  - date: Jun-15
+    sections:
+    - book: Luke
+      chapter_verse: 5:1-11
+    - book: Philippians
+      chapter_verse: 1:12-20
+    - book: Psalms
+      chapter_verse: 119:113-120
+    - book: 2 Kings
+      chapters:
+      - 4
+      - 5
+  - date: Jun-16
+    sections:
+    - book: Luke
+      chapter_verse: 5:12-16
+    - book: Philippians
+      chapter_verse: 1:21-30
+    - book: Psalms
+      chapter_verse: 119:121-128
+    - book: 2 Kings
+      chapters:
+      - 6
+      - 7
+  - date: Jun-17
+    sections:
+    - book: Luke
+      chapter_verse: 5:17-26
+    - book: Philippians
+      chapter_verse: 2:1-11
+    - book: Psalms
+      chapter_verse: 119:129-136
+    - book: 2 Kings
+      chapters:
+      - 8
+      - 9
+  - date: Jun-18
+    sections:
+    - book: Luke
+      chapter_verse: 5:27-32
+    - book: Philippians
+      chapter_verse: 2:12-18
+    - book: Psalms
+      chapter_verse: 119:137-144
+    - book: 2 Kings
+      chapters:
+      - 10
+      - 11
+  - date: Jun-19
+    sections:
+    - book: Luke
+      chapter_verse: 5:33-39
+    - book: Philippians
+      chapter_verse: 2:19-30
+    - book: Psalms
+      chapter_verse: 119:145-152
+    - book: 2 Kings
+      chapters:
+      - 12
+      - 13
+  - date: Jun-20
+    sections:
+    - book: Luke
+      chapter_verse: 6:1-16
+    - book: Philippians
+      chapter_verse: 3:1-9
+    - book: Psalms
+      chapter_verse: 119:153-160
+    - book: 2 Kings
+      chapters:
+      - 14
+      - 15
+  - date: Jun-21
+    sections:
+    - book: Luke
+      chapter_verse: 6:17-26
+    - book: Philippians
+      chapter_verse: 3:10-14
+    - book: Psalms
+      chapter_verse: 119:161-168
+    - book: 2 Kings
+      chapters:
+      - 16
+      - 17
+  - date: Jun-22
+    sections:
+    - book: Luke
+      chapter_verse: 6:27-36
+    - book: Philippians
+      chapter_verse: 3:15-21
+    - book: Psalms
+      chapter_verse: 119:169-176
+    - book: 2 Kings
+      chapters:
+      - 18
+      - 19
+  - date: Jun-23
+    sections:
+    - book: Luke
+      chapter_verse: 6:37-42
+    - book: Philippians
+      chapter_verse: 4:1-7
+    - book: Psalms
+      chapters:
+      - 120
+    - book: 2 Kings
+      chapters:
+      - 20
+      - 21
+  - date: Jun-24
+    sections:
+    - book: Luke
+      chapter_verse: 6:43-49
+    - book: Philippians
+      chapter_verse: 4:8-13
+    - book: Psalms
+      chapters:
+      - 121
+    - book: 2 Kings
+      chapters:
+      - 22
+      - 23
+  - date: Jun-25
+    sections:
+    - book: Luke
+      chapter_verse: 7:1-10
+    - book: Philippians
+      chapter_verse: 4:14-23
+    - book: Psalms
+      chapters:
+      - 122
+    - book: 2 Kings
+      chapters:
+      - 24
+      - 25
+  - date: Jul-01
+    sections:
+    - book: Luke
+      chapter_verse: 7:11-17
+    - book: Colossians
+      chapter_verse: 1:1-14
+    - book: Psalms
+      chapters:
+      - 123
+      - 124
+    - book: 1 Chronicles
+      chapters:
+      - 1
+      - 2
+  - date: Jul-02
+    sections:
+    - book: Luke
+      chapter_verse: 7:18-35
+    - book: Colossians
+      chapter_verse: 1:15-29
+    - book: Psalms
+      chapters:
+      - 125
+    - book: 1 Chronicles
+      chapters:
+      - 3
+      - 4
+  - date: Jul-03
+    sections:
+    - book: Luke
+      chapter_verse: 7:36-50
+    - book: Colossians
+      chapter_verse: 2:1-7
+    - book: Psalms
+      chapters:
+      - 126
+    - book: 1 Chronicles
+      chapters:
+      - 5
+      - 6
+  - date: Jul-04
+    sections:
+    - book: Luke
+      chapter_verse: 8:1-15
+    - book: Colossians
+      chapter_verse: 2:8-15
+    - book: Psalms
+      chapters:
+      - 127
+    - book: 1 Chronicles
+      chapters:
+      - 7
+      - 8
+      - 9
+  - date: Jul-05
+    sections:
+    - book: Luke
+      chapter_verse: 8:16-25
+    - book: Colossians
+      chapter_verse: 2:16-23
+    - book: Psalms
+      chapters:
+      - 128
+    - book: 1 Chronicles
+      chapters:
+      - 10
+      - 11
+  - date: Jul-06
+    sections:
+    - book: Luke
+      chapter_verse: 8:26-39
+    - book: Colossians
+      chapter_verse: 3:1-14
+    - book: Psalms
+      chapters:
+      - 129
+    - book: 1 Chronicles
+      chapters:
+      - 12
+      - 13
+      - 14
+  - date: Jul-07
+    sections:
+    - book: Luke
+      chapter_verse: 8:40-56
+    - book: Colossians
+      chapter_verse: 3:15-25
+    - book: Psalms
+      chapters:
+      - 130
+      - 131
+    - book: 1 Chronicles
+      chapters:
+      - 15
+      - 16
+  - date: Jul-08
+    sections:
+    - book: Luke
+      chapter_verse: 9:1-17
+    - book: Colossians
+      chapter_verse: 4:1-9
+    - book: Psalms
+      chapters:
+      - 132
+    - book: 1 Chronicles
+      chapters:
+      - 17
+      - 18
+      - 19
+  - date: Jul-09
+    sections:
+    - book: Luke
+      chapter_verse: 9:18-27
+    - book: Colossians
+      chapter_verse: 4:10-18
+    - book: Psalms
+      chapters:
+      - 133
+      - 134
+    - book: 1 Chronicles
+      chapters:
+      - 20
+      - 21
+      - 22
+  - date: Jul-10
+    sections:
+    - book: Luke
+      chapter_verse: 9:28-36
+    - book: 1 Thessalonians
+      chapters:
+      - 1
+    - book: Psalms
+      chapters:
+      - 135
+    - book: 1 Chronicles
+      chapters:
+      - 23
+      - 24
+      - 25
+  - date: Jul-11
+    sections:
+    - book: Luke
+      chapter_verse: 9:37-50
+    - book: 1 Thessalonians
+      chapter_verse: 2:1-9
+    - book: Psalms
+      chapters:
+      - 136
+    - book: 1 Chronicles
+      chapters:
+      - 26
+      - 27
+      - 28
+  - date: Jul-12
+    sections:
+    - book: Luke
+      chapter_verse: 9:51-62
+    - book: 1 Thessalonians
+      chapter_verse: 2:10-20
+    - book: Psalms
+      chapters:
+      - 137
+    - book: 1 Chronicles
+      chapters:
+      - 29
+  - date: Jul-13
+    sections:
+    - book: Luke
+      chapter_verse: 10:1-16
+    - book: 1 Thessalonians
+      chapter_verse: 3:1-6
+    - book: Psalms
+      chapters:
+      - 138
+    - book: 2 Chronicles
+      chapters:
+      - 1
+      - 2
+  - date: Jul-14
+    sections:
+    - book: Luke
+      chapter_verse: 10:17-24
+    - book: 1 Thessalonians
+      chapter_verse: 3:7-13
+    - book: Psalms
+      chapters:
+      - 139
+    - book: 2 Chronicles
+      chapters:
+      - 3
+      - 4
+      - 5
+  - date: Jul-15
+    sections:
+    - book: Luke
+      chapter_verse: 10:25-37
+    - book: 1 Thessalonians
+      chapter_verse: 4:1-10
+    - book: Psalms
+      chapters:
+      - 140
+    - book: 2 Chronicles
+      chapters:
+      - 6
+      - 7
+  - date: Jul-16
+    sections:
+    - book: Luke
+      chapter_verse: 10:38-42
+    - book: 1 Thessalonians
+      chapter_verse: 4:11-18
+    - book: Psalms
+      chapters:
+      - 141
+    - book: 2 Chronicles
+      chapters:
+      - 8
+      - 9
+  - date: Jul-17
+    sections:
+    - book: Luke
+      chapter_verse: 11:1-13
+    - book: 1 Thessalonians
+      chapter_verse: 5:1-11
+    - book: Psalms
+      chapters:
+      - 142
+    - book: 2 Chronicles
+      chapters:
+      - 10
+      - 11
+      - 12
+  - date: Jul-18
+    sections:
+    - book: Luke
+      chapter_verse: 11:14-28
+    - book: 1 Thessalonians
+      chapter_verse: 5:12-28
+    - book: Psalms
+      chapters:
+      - 143
+    - book: 2 Chronicles
+      chapters:
+      - 13
+      - 14
+      - 15
+      - 16
+  - date: Jul-19
+    sections:
+    - book: Luke
+      chapter_verse: 11:29-36
+    - book: 2 Thessalonians
+      chapter_verse: 1:1-7
+    - book: Psalms
+      chapters:
+      - 144
+    - book: 2 Chronicles
+      chapters:
+      - 17
+      - 18
+      - 19
+  - date: Jul-20
+    sections:
+    - book: Luke
+      chapter_verse: 11:37-54
+    - book: 2 Thessalonians
+      chapter_verse: 1:8-12
+    - book: Psalms
+      chapters:
+      - 145
+    - book: 2 Chronicles
+      chapters:
+      - 20
+      - 21
+  - date: Jul-21
+    sections:
+    - book: Luke
+      chapter_verse: 12:1-12
+    - book: 2 Thessalonians
+      chapter_verse: 2:1-12
+    - book: Psalms
+      chapters:
+      - 146
+    - book: 2 Chronicles
+      chapters:
+      - 22
+      - 23
+      - 24
+  - date: Jul-22
+    sections:
+    - book: Luke
+      chapter_verse: 12:13-21
+    - book: 2 Thessalonians
+      chapter_verse: 2:13-17
+    - book: Psalms
+      chapters:
+      - 147
+    - book: 2 Chronicles
+      chapters:
+      - 25
+      - 26
+      - 27
+  - date: Jul-23
+    sections:
+    - book: Luke
+      chapter_verse: 12:22-34
+    - book: 2 Thessalonians
+      chapter_verse: 3:1-5
+    - book: Psalms
+      chapters:
+      - 148
+    - book: 2 Chronicles
+      chapters:
+      - 28
+      - 29
+  - date: Jul-24
+    sections:
+    - book: Luke
+      chapter_verse: 12:35-48
+    - book: 2 Thessalonians
+      chapter_verse: 3:6-13
+    - book: Psalms
+      chapters:
+      - 149
+    - book: 2 Chronicles
+      chapters:
+      - 30
+      - 31
+      - 32
+      - 33
+  - date: Jul-25
+    sections:
+    - book: Luke
+      chapter_verse: 12:49-59
+    - book: 2 Thessalonians
+      chapter_verse: 3:14-18
+    - book: Psalms
+      chapters:
+      - 150
+    - book: 2 Chronicles
+      chapters:
+      - 34
+      - 35
+      - 36
+  - date: Aug-01
+    sections:
+    - book: Luke
+      chapter_verse: 13:1-9
+    - book: 1 Timothy
+      chapter_verse: 1:1-11
+    - book: Proverbs
+      chapters:
+      - 1
+    - book: Ezra
+      chapters:
+      - 1
+      - 2
+  - date: Aug-02
+    sections:
+    - book: Luke
+      chapter_verse: 13:10-21
+    - book: 1 Timothy
+      chapter_verse: 1:12-20
+    - book: Proverbs
+      chapters:
+      - 2
+    - book: Ezra
+      chapters:
+      - 3
+  - date: Aug-03
+    sections:
+    - book: Luke
+      chapter_verse: 13:22-35
+    - book: 1 Timothy
+      chapters:
+      - 2
+    - book: Proverbs
+      chapters:
+      - 3
+    - book: Ezra
+      chapters:
+      - 4
+      - 5
+  - date: Aug-04
+    sections:
+    - book: Luke
+      chapter_verse: 14:1-14
+    - book: 1 Timothy
+      chapter_verse: 3:1-10
+    - book: Proverbs
+      chapters:
+      - 4
+    - book: Ezra
+      chapters:
+      - 6
+  - date: Aug-05
+    sections:
+    - book: Luke
+      chapter_verse: 14:15-24
+    - book: 1 Timothy
+      chapter_verse: 3:11-16
+    - book: Proverbs
+      chapters:
+      - 5
+    - book: Ezra
+      chapters:
+      - 7
+  - date: Aug-06
+    sections:
+    - book: Luke
+      chapter_verse: 14:25-35
+    - book: 1 Timothy
+      chapters:
+      - 4
+    - book: Proverbs
+      chapters:
+      - 6
+    - book: Ezra
+      chapters:
+      - 8
+  - date: Aug-07
+    sections:
+    - book: Luke
+      chapter_verse: 15:1-10
+    - book: 1 Timothy
+      chapter_verse: 5:1-15
+    - book: Proverbs
+      chapters:
+      - 7
+    - book: Ezra
+      chapters:
+      - 9
+  - date: Aug-08
+    sections:
+    - book: Luke
+      chapter_verse: 15:11-32
+    - book: 1 Timothy
+      chapter_verse: 5:16-25
+    - book: Proverbs
+      chapters:
+      - 8
+    - book: Ezra
+      chapters:
+      - 10
+  - date: Aug-09
+    sections:
+    - book: Luke
+      chapter_verse: 16:1-9
+    - book: 1 Timothy
+      chapter_verse: 6:1-10
+    - book: Proverbs
+      chapters:
+      - 9
+    - book: Nehemiah
+      chapters:
+      - 1
+      - 2
+  - date: Aug-10
+    sections:
+    - book: Luke
+      chapter_verse: 16:10-18
+    - book: 1 Timothy
+      chapter_verse: 6:11-21
+    - book: Proverbs
+      chapter_verse: 10:1-16
+    - book: Nehemiah
+      chapters:
+      - 3
+  - date: Aug-11
+    sections:
+    - book: Luke
+      chapter_verse: 16:19-31
+    - book: 2 Timothy
+      chapter_verse: 1:1-7
+    - book: Proverbs
+      chapter_verse: 10:17-32
+    - book: Nehemiah
+      chapters:
+      - 4
+      - 5
+  - date: Aug-12
+    sections:
+    - book: Luke
+      chapter_verse: 17:1-10
+    - book: 2 Timothy
+      chapter_verse: 1:8-18
+    - book: Proverbs
+      chapter_verse: 11:1-15
+    - book: Nehemiah
+      chapters:
+      - 6
+  - date: Aug-13
+    sections:
+    - book: Luke
+      chapter_verse: 17:11-19
+    - book: 2 Timothy
+      chapter_verse: 2:1-13
+    - book: Proverbs
+      chapter_verse: 11:16-31
+    - book: Nehemiah
+      chapters:
+      - 7
+  - date: Aug-14
+    sections:
+    - book: Luke
+      chapter_verse: 17:20-37
+    - book: 2 Timothy
+      chapter_verse: 2:14-26
+    - book: Proverbs
+      chapter_verse: 12:1-14
+    - book: Nehemiah
+      chapters:
+      - 8
+  - date: Aug-15
+    sections:
+    - book: Luke
+      chapter_verse: 18:1-8
+    - book: 2 Timothy
+      chapter_verse: 3:1-9
+    - book: Proverbs
+      chapter_verse: 12:15-28
+    - book: Nehemiah
+      chapters:
+      - 9
+  - date: Aug-16
+    sections:
+    - book: Luke
+      chapter_verse: 18:9-17
+    - book: 2 Timothy
+      chapter_verse: 3:10-17
+    - book: Proverbs
+      chapter_verse: 13:1-12
+    - book: Nehemiah
+      chapters:
+      - 10
+  - date: Aug-17
+    sections:
+    - book: Luke
+      chapter_verse: 18:18-30
+    - book: 2 Timothy
+      chapters:
+      - 4
+    - book: Proverbs
+      chapter_verse: 13:13-25
+    - book: Nehemiah
+      chapters:
+      - 11
+  - date: Aug-18
+    sections:
+    - book: Luke
+      chapter_verse: 18:31-43
+    - book: Titus
+      chapter_verse: 1:1-9
+    - book: Proverbs
+      chapter_verse: 14:1-18
+    - book: Nehemiah
+      chapters:
+      - 12
+  - date: Aug-19
+    sections:
+    - book: Luke
+      chapter_verse: 19:1-10
+    - book: Titus
+      chapter_verse: 1:10-16
+    - book: Proverbs
+      chapter_verse: 14:19-35
+    - book: Nehemiah
+      chapters:
+      - 13
+  - date: Aug-20
+    sections:
+    - book: Luke
+      chapter_verse: 19:11-27
+    - book: Titus
+      chapter_verse: 2:1-10
+    - book: Proverbs
+      chapter_verse: 15:1-17
+    - book: Esther
+      chapters:
+      - 1
+  - date: Aug-21
+    sections:
+    - book: Luke
+      chapter_verse: 19:28-38
+    - book: Titus
+      chapter_verse: 2:11-15
+    - book: Proverbs
+      chapter_verse: 15:18-33
+    - book: Esther
+      chapters:
+      - 2
+  - date: Aug-22
+    sections:
+    - book: Luke
+      chapter_verse: 19:39-48
+    - book: Titus
+      chapter_verse: 3:1-8
+    - book: Proverbs
+      chapter_verse: 16:1-16
+    - book: Esther
+      chapters:
+      - 3
+      - 4
+  - date: Aug-23
+    sections:
+    - book: Luke
+      chapter_verse: 20:1-8
+    - book: Titus
+      chapter_verse: 3:9-15
+    - book: Proverbs
+      chapter_verse: 16:17-33
+    - book: Esther
+      chapters:
+      - 5
+      - 6
+  - date: Aug-24
+    sections:
+    - book: Luke
+      chapter_verse: 20:9-19
+    - book: Philemon
+      chapter_verse: 1:1-11
+    - book: Proverbs
+      chapter_verse: 17:1-14
+    - book: Esther
+      chapters:
+      - 7
+      - 8
+  - date: Aug-25
+    sections:
+    - book: Luke
+      chapter_verse: 20:20-26
+    - book: Philemon
+      chapter_verse: 1:12-25
+    - book: Proverbs
+      chapter_verse: 17:15-28
+    - book: Esther
+      chapters:
+      - 9
+      - 10
+  - date: Sep-01
+    sections:
+    - book: Luke
+      chapter_verse: 20:27-40
+    - book: Hebrews
+      chapter_verse: 1:1-9
+    - book: Proverbs
+      chapters:
+      - 18
+    - book: Isaiah
+      chapters:
+      - 1
+      - 2
+  - date: Sep-02
+    sections:
+    - book: Luke
+      chapter_verse: 20:41-47
+    - book: Hebrews
+      chapter_verse: 1:10-14
+    - book: Proverbs
+      chapter_verse: 19:1-14
+    - book: Isaiah
+      chapters:
+      - 3
+      - 4
+      - 5
+  - date: Sep-03
+    sections:
+    - book: Luke
+      chapter_verse: 21:1-19
+    - book: Hebrews
+      chapter_verse: 2:1-9
+    - book: Proverbs
+      chapter_verse: 19:15-29
+    - book: Isaiah
+      chapters:
+      - 6
+      - 7
+      - 8
+  - date: Sep-04
+    sections:
+    - book: Luke
+      chapter_verse: 21:20-28
+    - book: Hebrews
+      chapter_verse: 2:10-18
+    - book: Proverbs
+      chapter_verse: 20:1-15
+    - book: Isaiah
+      chapters:
+      - 9
+      - 10
+  - date: Sep-05
+    sections:
+    - book: Luke
+      chapter_verse: 21:29-38
+    - book: Hebrews
+      chapters:
+      - 3
+    - book: Proverbs
+      chapter_verse: 20:16-30
+    - book: Isaiah
+      chapters:
+      - 11
+      - 12
+      - 13
+  - date: Sep-06
+    sections:
+    - book: Luke
+      chapter_verse: 22:1-13
+    - book: Hebrews
+      chapter_verse: 4:1-11
+    - book: Proverbs
+      chapter_verse: 21:1-16
+    - book: Isaiah
+      chapters:
+      - 14
+      - 15
+      - 16
+  - date: Sep-07
+    sections:
+    - book: Luke
+      chapter_verse: 22:14-23
+    - book: Hebrews
+      chapter_verse: 4:12-16
+    - book: Proverbs
+      chapter_verse: 21:17-31
+    - book: Isaiah
+      chapters:
+      - 17
+      - 18
+      - 19
+      - 20
+  - date: Sep-08
+    sections:
+    - book: Luke
+      chapter_verse: 22:24-30
+    - book: Hebrews
+      chapters:
+      - 5
+    - book: Proverbs
+      chapter_verse: 22:1-16
+    - book: Isaiah
+      chapters:
+      - 21
+      - 22
+      - 23
+  - date: Sep-09
+    sections:
+    - book: Luke
+      chapter_verse: 22:31-38
+    - book: Hebrews
+      chapter_verse: 6:1-12
+    - book: Proverbs
+      chapter_verse: 22:17-29
+    - book: Isaiah
+      chapters:
+      - 24
+      - 25
+      - 26
+  - date: Sep-10
+    sections:
+    - book: Luke
+      chapter_verse: 22:39-46
+    - book: Hebrews
+      chapter_verse: 6:13-20
+    - book: Proverbs
+      chapter_verse: 23:1-18
+    - book: Isaiah
+      chapters:
+      - 27
+      - 28
+  - date: Sep-11
+    sections:
+    - book: Luke
+      chapter_verse: 22:47-53
+    - book: Hebrews
+      chapter_verse: 7:1-10
+    - book: Proverbs
+      chapter_verse: 23:19-35
+    - book: Isaiah
+      chapters:
+      - 29
+      - 30
+  - date: Sep-12
+    sections:
+    - book: Luke
+      chapter_verse: 22:54-62
+    - book: Hebrews
+      chapter_verse: 7:11-28
+    - book: Proverbs
+      chapter_verse: 24:1-22
+    - book: Isaiah
+      chapters:
+      - 31
+      - 32
+      - 33
+  - date: Sep-13
+    sections:
+    - book: Luke
+      chapter_verse: 22:63-71
+    - book: Hebrews
+      chapter_verse: 8:1-6
+    - book: Proverbs
+      chapter_verse: 24:23-34
+    - book: Isaiah
+      chapters:
+      - 34
+      - 35
+      - 36
+  - date: Sep-14
+    sections:
+    - book: Luke
+      chapter_verse: 23:1-12
+    - book: Hebrews
+      chapter_verse: 8:7-13
+    - book: Proverbs
+      chapter_verse: 25:1-14
+    - book: Isaiah
+      chapters:
+      - 37
+      - 38
+      - 39
+  - date: Sep-15
+    sections:
+    - book: Luke
+      chapter_verse: 23:13-25
+    - book: Hebrews
+      chapter_verse: 9:1-10
+    - book: Proverbs
+      chapter_verse: 25:15-28
+    - book: Isaiah
+      chapters:
+      - 40
+      - 41
+  - date: Sep-16
+    sections:
+    - book: Luke
+      chapter_verse: 23:26-31
+    - book: Hebrews
+      chapter_verse: 9:11-28
+    - book: Proverbs
+      chapter_verse: 26:1-16
+    - book: Isaiah
+      chapters:
+      - 42
+      - 43
+  - date: Sep-17
+    sections:
+    - book: Luke
+      chapter_verse: 23:32-37
+    - book: Hebrews
+      chapter_verse: 10:1-18
+    - book: Proverbs
+      chapter_verse: 26:17-28
+    - book: Isaiah
+      chapters:
+      - 44
+      - 45
+  - date: Sep-18
+    sections:
+    - book: Luke
+      chapter_verse: 23:38-43
+    - book: Hebrews
+      chapter_verse: 10:19-39
+    - book: Proverbs
+      chapter_verse: 27:1-14
+    - book: Isaiah
+      chapters:
+      - 46
+      - 47
+      - 48
+  - date: Sep-19
+    sections:
+    - book: Luke
+      chapter_verse: 23:44-49
+    - book: Hebrews
+      chapter_verse: 11:1-16
+    - book: Proverbs
+      chapter_verse: 27:15-27
+    - book: Isaiah
+      chapters:
+      - 49
+      - 50
+  - date: Sep-20
+    sections:
+    - book: Luke
+      chapter_verse: 23:50-56
+    - book: Hebrews
+      chapter_verse: 11:17-31
+    - book: Proverbs
+      chapter_verse: 28:1-14
+    - book: Isaiah
+      chapters:
+      - 51
+      - 52
+      - 53
+  - date: Sep-21
+    sections:
+    - book: Luke
+      chapter_verse: 24:1-12
+    - book: Hebrews
+      chapter_verse: 11:32-40
+    - book: Proverbs
+      chapter_verse: 28:15-28
+    - book: Isaiah
+      chapters:
+      - 54
+      - 55
+  - date: Sep-22
+    sections:
+    - book: Luke
+      chapter_verse: 24:13-27
+    - book: Hebrews
+      chapter_verse: 12:1-13
+    - book: Proverbs
+      chapter_verse: 29:1-14
+    - book: Isaiah
+      chapters:
+      - 56
+      - 57
+      - 58
+  - date: Sep-23
+    sections:
+    - book: Luke
+      chapter_verse: 24:28-35
+    - book: Hebrews
+      chapter_verse: 12:14-29
+    - book: Proverbs
+      chapter_verse: 29:15-27
+    - book: Isaiah
+      chapters:
+      - 59
+      - 60
+      - 61
+  - date: Sep-24
+    sections:
+    - book: Luke
+      chapter_verse: 24:36-44
+    - book: Hebrews
+      chapter_verse: 13:1-8
+    - book: Proverbs
+      chapters:
+      - 30
+    - book: Isaiah
+      chapters:
+      - 62
+      - 63
+      - 64
+  - date: Sep-25
+    sections:
+    - book: Luke
+      chapter_verse: 24:45-53
+    - book: Hebrews
+      chapter_verse: 13:9-25
+    - book: Proverbs
+      chapters:
+      - 31
+    - book: Isaiah
+      chapters:
+      - 65
+      - 66
+  - date: Oct-01
+    sections:
+    - book: John
+      chapter_verse: 1:1-18
+    - book: James
+      chapter_verse: 1:1-11
+    - book: Ecclesiastes
+      chapters:
+      - 1
+    - book: Jeremiah
+      chapters:
+      - 1
+      - 2
+  - date: Oct-02
+    sections:
+    - book: John
+      chapter_verse: 1:19-28
+    - book: James
+      chapter_verse: 1:12-18
+    - book: Ecclesiastes
+      chapter_verse: 2:1-16
+    - book: Jeremiah
+      chapters:
+      - 3
+      - 4
+  - date: Oct-03
+    sections:
+    - book: John
+      chapter_verse: 1:29-34
+    - book: James
+      chapter_verse: 1:19-27
+    - book: Ecclesiastes
+      chapter_verse: 2:17-26
+    - book: Jeremiah
+      chapters:
+      - 5
+      - 6
+  - date: Oct-04
+    sections:
+    - book: John
+      chapter_verse: 1:35-42
+    - book: James
+      chapter_verse: 2:1-13
+    - book: Ecclesiastes
+      chapter_verse: 3:1-15
+    - book: Jeremiah
+      chapters:
+      - 7
+      - 8
+      - 9
+  - date: Oct-05
+    sections:
+    - book: John
+      chapter_verse: 1:43-51
+    - book: James
+      chapter_verse: 2:14-26
+    - book: Ecclesiastes
+      chapter_verse: 3:16-22
+    - book: Jeremiah
+      chapters:
+      - 10
+      - 11
+  - date: Oct-06
+    sections:
+    - book: John
+      chapter_verse: 2:1-11
+    - book: James
+      chapter_verse: 3:1-12
+    - book: Ecclesiastes
+      chapters:
+      - 4
+    - book: Jeremiah
+      chapters:
+      - 12
+      - 13
+  - date: Oct-07
+    sections:
+    - book: John
+      chapter_verse: 2:12-25
+    - book: James
+      chapter_verse: 3:13-18
+    - book: Ecclesiastes
+      chapters:
+      - 5
+    - book: Jeremiah
+      chapters:
+      - 14
+      - 15
+  - date: Oct-08
+    sections:
+    - book: John
+      chapter_verse: 3:1-15
+    - book: James
+      chapter_verse: 4:1-10
+    - book: Ecclesiastes
+      chapters:
+      - 6
+    - book: Jeremiah
+      chapters:
+      - 16
+      - 17
+      - 18
+  - date: Oct-09
+    sections:
+    - book: John
+      chapter_verse: 3:16-21
+    - book: James
+      chapter_verse: 4:11-17
+    - book: Ecclesiastes
+      chapter_verse: 7:1-14
+    - book: Jeremiah
+      chapters:
+      - 19
+      - 20
+      - 21
+      - 22
+  - date: Oct-10
+    sections:
+    - book: John
+      chapter_verse: 3:22-36
+    - book: James
+      chapter_verse: 5:1-6
+    - book: Ecclesiastes
+      chapter_verse: 7:15-29
+    - book: Jeremiah
+      chapters:
+      - 23
+      - 24
+      - 25
+  - date: Oct-11
+    sections:
+    - book: John
+      chapter_verse: 4:1-14
+    - book: James
+      chapter_verse: 5:7-12
+    - book: Ecclesiastes
+      chapters:
+      - 8
+    - book: Jeremiah
+      chapters:
+      - 26
+      - 27
+      - 28
+      - 29
+  - date: Oct-12
+    sections:
+    - book: John
+      chapter_verse: 4:15-26
+    - book: James
+      chapter_verse: 5:13-20
+    - book: Ecclesiastes
+      chapters:
+      - 9
+    - book: Jeremiah
+      chapters:
+      - 30
+      - 31
+  - date: Oct-13
+    sections:
+    - book: John
+      chapter_verse: 4:27-42
+    - book: 1 Peter
+      chapter_verse: 1:1-9
+    - book: Ecclesiastes
+      chapters:
+      - 10
+    - book: Jeremiah
+      chapters:
+      - 32
+      - 33
+      - 34
+  - date: Oct-14
+    sections:
+    - book: John
+      chapter_verse: 4:43-54
+    - book: 1 Peter
+      chapter_verse: 1:10-16
+    - book: Ecclesiastes
+      chapters:
+      - 11
+    - book: Jeremiah
+      chapters:
+      - 35
+      - 36
+      - 37
+      - 38
+  - date: Oct-15
+    sections:
+    - book: John
+      chapter_verse: 5:1-15
+    - book: 1 Peter
+      chapter_verse: 1:17-25
+    - book: Ecclesiastes
+      chapters:
+      - 12
+    - book: Jeremiah
+      chapters:
+      - 39
+      - 40
+      - 41
+      - 42
+      - 43
+  - date: Oct-16
+    sections:
+    - book: John
+      chapter_verse: 5:16-30
+    - book: 1 Peter
+      chapter_verse: 2:1-8
+    - book: Song of Solomon
+      chapters:
+      - 1
+    - book: Jeremiah
+      chapters:
+      - 44
+      - 45
+      - 46
+  - date: Oct-17
+    sections:
+    - book: John
+      chapter_verse: 5:31-47
+    - book: 1 Peter
+      chapter_verse: 2:9-17
+    - book: Song of Solomon
+      chapters:
+      - 2
+    - book: Jeremiah
+      chapters:
+      - 47
+      - 48
+  - date: Oct-18
+    sections:
+    - book: John
+      chapter_verse: 6:1-15
+    - book: 1 Peter
+      chapter_verse: 2:18-25
+    - book: Song of Solomon
+      chapters:
+      - 3
+    - book: Jeremiah
+      chapters:
+      - 49
+  - date: Oct-19
+    sections:
+    - book: John
+      chapter_verse: 6:16-24
+    - book: 1 Peter
+      chapter_verse: 3:1-7
+    - book: Song of Solomon
+      chapter_verse: 4:1-7
+    - book: Jeremiah
+      chapters:
+      - 50
+  - date: Oct-20
+    sections:
+    - book: John
+      chapter_verse: 6:25-40
+    - book: 1 Peter
+      chapter_verse: 3:8-12
+    - book: Song of Solomon
+      chapter_verse: 4:8-16
+    - book: Jeremiah
+      chapters:
+      - 51
+  - date: Oct-21
+    sections:
+    - book: John
+      chapter_verse: 6:41-59
+    - book: 1 Peter
+      chapter_verse: 3:13-22
+    - book: Song of Solomon
+      chapters:
+      - 5
+    - book: Jeremiah
+      chapters:
+      - 52
+  - date: Oct-22
+    sections:
+    - book: John
+      chapter_verse: 6:60-71
+    - book: 1 Peter
+      chapter_verse: 4:1-11
+    - book: Song of Solomon
+      chapters:
+      - 6
+    - book: Lamentations
+      chapters:
+      - 1
+  - date: Oct-23
+    sections:
+    - book: John
+      chapter_verse: 7:1-13
+    - book: 1 Peter
+      chapter_verse: 4:12-19
+    - book: Song of Solomon
+      chapters:
+      - 7
+    - book: Lamentations
+      chapters:
+      - 2
+  - date: Oct-24
+    sections:
+    - book: John
+      chapter_verse: 7:14-24
+    - book: 1 Peter
+      chapter_verse: 5:1-7
+    - book: Song of Solomon
+      chapter_verse: 8:1-7
+    - book: Lamentations
+      chapters:
+      - 3
+  - date: Oct-25
+    sections:
+    - book: John
+      chapter_verse: 7:25-36
+    - book: 1 Peter
+      chapter_verse: 5:8-14
+    - book: Song of Solomon
+      chapter_verse: 8:8-14
+    - book: Lamentations
+      chapters:
+      - 4
+      - 5
+  - date: Nov-01
+    sections:
+    - book: John
+      chapter_verse: 7:37-44
+    - book: 2 Peter
+      chapter_verse: 1:1-11
+    - book: Job
+      chapters:
+      - 1
+    - book: Ezekiel
+      chapters:
+      - 1
+      - 2
+      - 3
+  - date: Nov-02
+    sections:
+    - book: John
+      chapter_verse: 7:45-53
+    - book: 2 Peter
+      chapter_verse: 1:12-21
+    - book: Job
+      chapters:
+      - 2
+    - book: Ezekiel
+      chapters:
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+  - date: Nov-03
+    sections:
+    - book: John
+      chapter_verse: 8:1-11
+    - book: 2 Peter
+      chapter_verse: 2:1-9
+    - book: Job
+      chapters:
+      - 3
+    - book: Ezekiel
+      chapters:
+      - 9
+      - 10
+      - 11
+      - 12
+  - date: Nov-04
+    sections:
+    - book: John
+      chapter_verse: 8:12-20
+    - book: 2 Peter
+      chapter_verse: 2:10-16
+    - book: Job
+      chapters:
+      - 4
+    - book: Ezekiel
+      chapters:
+      - 13
+      - 14
+      - 15
+  - date: Nov-05
+    sections:
+    - book: John
+      chapter_verse: 8:21-30
+    - book: 2 Peter
+      chapter_verse: 2:17-22
+    - book: Job
+      chapters:
+      - 5
+    - book: Ezekiel
+      chapters:
+      - 16
+  - date: Nov-06
+    sections:
+    - book: John
+      chapter_verse: 8:31-47
+    - book: 2 Peter
+      chapter_verse: 3:1-9
+    - book: Job
+      chapters:
+      - 6
+    - book: Ezekiel
+      chapters:
+      - 17
+      - 18
+      - 19
+  - date: Nov-07
+    sections:
+    - book: John
+      chapter_verse: 8:48-59
+    - book: 2 Peter
+      chapter_verse: 3:10-18
+    - book: Job
+      chapters:
+      - 7
+    - book: Ezekiel
+      chapters:
+      - 20
+      - 21
+  - date: Nov-08
+    sections:
+    - book: John
+      chapter_verse: 9:1-12
+    - book: 1 John
+      chapter_verse: 1:1-4
+    - book: Job
+      chapters:
+      - 8
+    - book: Ezekiel
+      chapters:
+      - 22
+      - 23
+  - date: Nov-09
+    sections:
+    - book: John
+      chapter_verse: 9:13-25
+    - book: 1 John
+      chapter_verse: 1:5-10
+    - book: Job
+      chapter_verse: 9:1-20
+    - book: Ezekiel
+      chapters:
+      - 24
+      - 25
+      - 26
+  - date: Nov-10
+    sections:
+    - book: John
+      chapter_verse: 9:26-41
+    - book: 1 John
+      chapter_verse: 2:1-11
+    - book: Job
+      chapter_verse: 9:21-35
+    - book: Ezekiel
+      chapters:
+      - 27
+      - 28
+  - date: Nov-11
+    sections:
+    - book: John
+      chapter_verse: 10:1-10
+    - book: 1 John
+      chapter_verse: 2:12-17
+    - book: Job
+      chapters:
+      - 10
+    - book: Ezekiel
+      chapters:
+      - 29
+      - 30
+  - date: Nov-12
+    sections:
+    - book: John
+      chapter_verse: 10:11-21
+    - book: 1 John
+      chapter_verse: 2:18-23
+    - book: Job
+      chapters:
+      - 11
+    - book: Ezekiel
+      chapters:
+      - 31
+      - 32
+  - date: Nov-13
+    sections:
+    - book: John
+      chapter_verse: 10:22-42
+    - book: 1 John
+      chapter_verse: 2:24-29
+    - book: Job
+      chapters:
+      - 12
+    - book: Ezekiel
+      chapters:
+      - 33
+      - 34
+  - date: Nov-14
+    sections:
+    - book: John
+      chapter_verse: 11:1-16
+    - book: 1 John
+      chapter_verse: 3:1-10
+    - book: Job
+      chapters:
+      - 13
+    - book: Ezekiel
+      chapters:
+      - 35
+      - 36
+      - 37
+  - date: Nov-15
+    sections:
+    - book: John
+      chapter_verse: 11:17-37
+    - book: 1 John
+      chapter_verse: 3:11-18
+    - book: Job
+      chapters:
+      - 14
+    - book: Ezekiel
+      chapters:
+      - 38
+      - 39
+  - date: Nov-16
+    sections:
+    - book: John
+      chapter_verse: 11:38-44
+    - book: 1 John
+      chapter_verse: 3:19-24
+    - book: Job
+      chapter_verse: 15:1-16
+    - book: Ezekiel
+      chapters:
+      - 40
+      - 41
+  - date: Nov-17
+    sections:
+    - book: John
+      chapter_verse: 11:45-57
+    - book: 1 John
+      chapter_verse: 4:1-6
+    - book: Job
+      chapter_verse: 15:17-35
+    - book: Ezekiel
+      chapters:
+      - 42
+      - 43
+      - 44
+  - date: Nov-18
+    sections:
+    - book: John
+      chapter_verse: 12:1-11
+    - book: 1 John
+      chapter_verse: 4:7-21
+    - book: Job
+      chapters:
+      - 16
+    - book: Ezekiel
+      chapters:
+      - 45
+      - 46
+      - 47
+  - date: Nov-19
+    sections:
+    - book: John
+      chapter_verse: 12:12-19
+    - book: 1 John
+      chapter_verse: 5:1-12
+    - book: Job
+      chapters:
+      - 17
+    - book: Ezekiel
+      chapters:
+      - 48
+  - date: Nov-20
+    sections:
+    - book: John
+      chapter_verse: 12:20-36
+    - book: 1 John
+      chapter_verse: 5:13-21
+    - book: Job
+      chapters:
+      - 18
+    - book: Daniel
+      chapters:
+      - 1
+      - 2
+  - date: Nov-21
+    sections:
+    - book: John
+      chapter_verse: 12:37-50
+    - book: 2 John
+      chapter_verse: 1:1-13
+    - book: Job
+      chapters:
+      - 19
+    - book: Daniel
+      chapters:
+      - 3
+      - 4
+  - date: Nov-22
+    sections:
+    - book: John
+      chapter_verse: 13:1-11
+    - book: 3 John
+      chapter_verse: 1:1-14
+    - book: Job
+      chapters:
+      - 20
+    - book: Daniel
+      chapters:
+      - 5
+      - 6
+  - date: Nov-23
+    sections:
+    - book: John
+      chapter_verse: 13:12-17
+    - book: Jude
+      chapter_verse: 1:1-7
+    - book: Job
+      chapter_verse: 21:1-21
+    - book: Daniel
+      chapters:
+      - 7
+      - 8
+  - date: Nov-24
+    sections:
+    - book: John
+      chapter_verse: 13:18-30
+    - book: Jude
+      chapter_verse: 1:8-16
+    - book: Job
+      chapter_verse: 21:22-34
+    - book: Daniel
+      chapters:
+      - 9
+  - date: Nov-25
+    sections:
+    - book: John
+      chapter_verse: 13:31-38
+    - book: Jude
+      chapter_verse: 1:17-25
+    - book: Job
+      chapters:
+      - 22
+    - book: Daniel
+      chapters:
+      - 10
+      - 11
+      - 12
+  - date: Dec-01
+    sections:
+    - book: John
+      chapter_verse: 14:1-14
+    - book: Revelation
+      chapter_verse: 1:1-8
+    - book: Job
+      chapters:
+      - 23
+    - book: Hosea
+      chapters:
+      - 1
+      - 2
+      - 3
+  - date: Dec-02
+    sections:
+    - book: John
+      chapter_verse: 14:15-21
+    - book: Revelation
+      chapter_verse: 1:9-20
+    - book: Job
+      chapters:
+      - 24
+    - book: Hosea
+      chapters:
+      - 4
+      - 5
+      - 6
+  - date: Dec-03
+    sections:
+    - book: John
+      chapter_verse: 14:22-31
+    - book: Revelation
+      chapter_verse: 2:1-17
+    - book: Job
+      chapters:
+      - 25
+      - 26
+    - book: Hosea
+      chapters:
+      - 7
+      - 8
+  - date: Dec-04
+    sections:
+    - book: John
+      chapter_verse: 15:1-8
+    - book: Revelation
+      chapter_verse: 2:18-29
+    - book: Job
+      chapters:
+      - 27
+    - book: Hosea
+      chapters:
+      - 9
+      - 10
+      - 11
+      - 12
+  - date: Dec-05
+    sections:
+    - book: John
+      chapter_verse: 15:9-17
+    - book: Revelation
+      chapter_verse: 3:1-13
+    - book: Job
+      chapters:
+      - 28
+    - book: Hosea
+      chapters:
+      - 13
+      - 14
+  - date: Dec-06
+    sections:
+    - book: John
+      chapter_verse: 15:18-27
+    - book: Revelation
+      chapter_verse: 3:14-22
+    - book: Job
+      chapters:
+      - 29
+    - book: Joel
+      chapters:
+      - 1
+  - date: Dec-07
+    sections:
+    - book: John
+      chapter_verse: 16:1-11
+    - book: Revelation
+      chapters:
+      - 4
+    - book: Job
+      chapters:
+      - 30
+    - book: Joel
+      chapters:
+      - 2
+      - 3
+  - date: Dec-08
+    sections:
+    - book: John
+      chapter_verse: 16:12-24
+    - book: Revelation
+      chapters:
+      - 5
+    - book: Job
+      chapter_verse: 31:1-23
+    - book: Amos
+      chapters:
+      - 1
+      - 2
+  - date: Dec-09
+    sections:
+    - book: John
+      chapter_verse: 16:25-33
+    - book: Revelation
+      chapters:
+      - 6
+    - book: Job
+      chapter_verse: 31:24-40
+    - book: Amos
+      chapters:
+      - 3
+      - 4
+  - date: Dec-10
+    sections:
+    - book: John
+      chapter_verse: 17:1-5
+    - book: Revelation
+      chapters:
+      - 7
+    - book: Job
+      chapters:
+      - 32
+    - book: Amos
+      chapters:
+      - 5
+      - 6
+  - date: Dec-11
+    sections:
+    - book: John
+      chapter_verse: 17:6-19
+    - book: Revelation
+      chapters:
+      - 8
+    - book: Job
+      chapter_verse: 33:1-11
+    - book: Amos
+      chapters:
+      - 7
+      - 8
+      - 9
+  - date: Dec-12
+    sections:
+    - book: John
+      chapter_verse: 17:20-26
+    - book: Revelation
+      chapters:
+      - 9
+    - book: Job
+      chapter_verse: 33:12-33
+    - book: Obadiah
+      chapter_verse: 1:1-21
+  - date: Dec-13
+    sections:
+    - book: John
+      chapter_verse: 18:1-18
+    - book: Revelation
+      chapters:
+      - 10
+    - book: Job
+      chapter_verse: 34:1-20
+    - book: Jonah
+      chapters:
+      - 1
+      - 2
+      - 3
+      - 4
+  - date: Dec-14
+    sections:
+    - book: John
+      chapter_verse: 18:19-27
+    - book: Revelation
+      chapters:
+      - 11
+    - book: Job
+      chapter_verse: 34:21-37
+    - book: Micah
+      chapters:
+      - 1
+      - 2
+      - 3
+  - date: Dec-15
+    sections:
+    - book: John
+      chapter_verse: 18:28-40
+    - book: Revelation
+      chapters:
+      - 12
+    - book: Job
+      chapters:
+      - 35
+    - book: Micah
+      chapters:
+      - 4
+      - 5
+  - date: Dec-16
+    sections:
+    - book: John
+      chapter_verse: 19:1-16
+    - book: Revelation
+      chapters:
+      - 13
+    - book: Job
+      chapter_verse: 36:1-15
+    - book: Micah
+      chapters:
+      - 6
+      - 7
+  - date: Dec-17
+    sections:
+    - book: John
+      chapter_verse: 19:17-27
+    - book: Revelation
+      chapters:
+      - 14
+    - book: Job
+      chapter_verse: 36:16-33
+    - book: Nahum
+      chapters:
+      - 1
+      - 2
+      - 3
+  - date: Dec-18
+    sections:
+    - book: John
+      chapter_verse: 19:28-37
+    - book: Revelation
+      chapters:
+      - 15
+    - book: Job
+      chapters:
+      - 37
+    - book: Habakkuk
+      chapters:
+      - 1
+      - 2
+      - 3
+  - date: Dec-19
+    sections:
+    - book: John
+      chapter_verse: 19:38-42
+    - book: Revelation
+      chapters:
+      - 16
+    - book: Job
+      chapter_verse: 38:1-21
+    - book: Zephaniah
+      chapters:
+      - 1
+      - 2
+  - date: Dec-20
+    sections:
+    - book: John
+      chapter_verse: 20:1-9
+    - book: Revelation
+      chapters:
+      - 17
+    - book: Job
+      chapter_verse: 38:22-41
+    - book: Zephaniah
+      chapters:
+      - 3
+  - date: Dec-21
+    sections:
+    - book: John
+      chapter_verse: 20:10-18
+    - book: Revelation
+      chapters:
+      - 18
+    - book: Job
+      chapters:
+      - 39
+    - book: Haggai
+      chapters:
+      - 1
+      - 2
+  - date: Dec-22
+    sections:
+    - book: John
+      chapter_verse: 20:19-23
+    - book: Revelation
+      chapters:
+      - 19
+    - book: Job
+      chapters:
+      - 40
+    - book: Zechariah
+      chapters:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+  - date: Dec-23
+    sections:
+    - book: John
+      chapter_verse: 20:24-31
+    - book: Revelation
+      chapters:
+      - 20
+    - book: Job
+      chapter_verse: 41:1-11
+    - book: Zechariah
+      chapters:
+      - 6
+      - 7
+      - 8
+      - 9
+  - date: Dec-24
+    sections:
+    - book: John
+      chapter_verse: 21:1-14
+    - book: Revelation
+      chapters:
+      - 21
+    - book: Job
+      chapter_verse: 41:12-34
+    - book: Zechariah
+      chapters:
+      - 10
+      - 11
+      - 12
+      - 13
+      - 14
+  - date: Dec-25
+    sections:
+    - book: John
+      chapter_verse: 21:15-25
+    - book: Revelation
+      chapters:
+      - 22
+    - book: Job
+      chapters:
+      - 42
+    - book: Malachi
+      chapters:
+      - 1
+      - 2
+      - 3
+      - 4

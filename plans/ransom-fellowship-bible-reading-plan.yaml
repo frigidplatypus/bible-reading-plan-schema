@@ -1,0 +1,2133 @@
+plan:
+  id: ransom-fellowship-bible-reading-plan
+  name: Ransom Fellowship Bible Reading Plan
+  description: 'A day-of-week Bible reading plan from Ransom Fellowship. Each day of the week has a themed set of books to
+    read through: Sunday (O.T. Poetry), Monday (Pentateuch), Tuesday (O.T. History), Wednesday (O.T. History), Thursday (O.T.
+    Prophets), Friday (N.T. History), Saturday (N.T. Epistles). Each week advances through the assigned books.'
+  type: thematic
+  version: '1.0'
+  duration_days: -1
+  schedule_type: day-of-week
+  day_section:
+    sunday: O.T. Poetry
+    monday: Pentateuch
+    tuesday: O.T. History
+    wednesday: O.T. History
+    thursday: O.T. Prophets
+    friday: N.T. History
+    saturday: N.T. Epistles
+  metadata:
+    tags:
+    - day-of-week
+    - whole-bible
+    - ransom-fellowship
+    source: Ransom Fellowship Bible Reading Plan, ransomfellowship.org
+  features:
+    allow_notes: true
+    track_partial_completion: true
+    catch_up_strategy: flexible
+  readings:
+  - day_of_week: sunday
+    id: sunday-w01
+    sections:
+    - book: Psalms
+      chapters:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+    - book: Deuteronomy
+      chapters:
+      - 1
+      - 2
+      - 3
+    - book: 1 Kings
+      chapters:
+      - 1
+      - 2
+      - 3
+      - 4
+    - book: 2 Kings
+      chapters:
+      - 1
+      - 2
+      - 3
+      - 4
+    - book: Ezra
+      chapters:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+    - book: Nehemiah
+      chapters:
+      - 1
+      - 2
+      - 3
+      - 4
+    - book: Lamentations
+      chapters:
+      - 1
+      - 2
+    - book: Micah
+      chapters:
+      - 1
+      - 2
+      - 3
+      - 4
+    - book: Nahum
+      chapters:
+      - 1
+      - 2
+      - 3
+    - book: Habakkuk
+      chapters:
+      - 1
+      - 2
+      - 3
+    - book: Zephaniah
+      chapters:
+      - 1
+      - 2
+      - 3
+    - book: Haggai
+      chapters:
+      - 1
+      - 2
+    - book: John
+      chapters:
+      - 1
+      - 2
+      - 3
+    - book: Acts
+      chapters:
+      - 1
+      - 2
+      - 3
+    - book: 2 Corinthians
+      chapters:
+      - 1
+      - 2
+    - book: Galatians
+      chapters:
+      - 1
+      - 2
+      - 3
+    - book: Ephesians
+      chapters:
+      - 1
+      - 2
+      - 3
+    - book: Hebrews
+      chapters:
+      - 1
+      - 2
+    - book: James
+      chapters:
+      - 1
+      - 2
+      - 3
+    - book: 1 Peter
+      chapters:
+      - 1
+      - 2
+  - day_of_week: sunday
+    id: sunday-w02
+    sections:
+    - book: Psalms
+      chapters:
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+    - book: Deuteronomy
+      chapters:
+      - 4
+      - 5
+      - 6
+    - book: 1 Kings
+      chapters:
+      - 5
+      - 6
+      - 7
+    - book: 2 Kings
+      chapters:
+      - 5
+      - 6
+      - 7
+    - book: Ezra
+      chapters:
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+    - book: Nehemiah
+      chapters:
+      - 5
+      - 6
+      - 7
+      - 8
+    - book: Lamentations
+      chapters:
+      - 3
+      - 4
+      - 5
+    - book: Micah
+      chapters:
+      - 5
+      - 6
+      - 7
+    - book: John
+      chapters:
+      - 4
+      - 5
+      - 6
+    - book: Acts
+      chapters:
+      - 4
+      - 5
+      - 6
+    - book: 2 Corinthians
+      chapters:
+      - 3
+      - 4
+    - book: Galatians
+      chapters:
+      - 4
+      - 5
+      - 6
+    - book: Ephesians
+      chapters:
+      - 4
+      - 5
+      - 6
+    - book: Hebrews
+      chapters:
+      - 3
+      - 4
+    - book: James
+      chapters:
+      - 4
+      - 5
+    - book: 1 Peter
+      chapters:
+      - 3
+      - 4
+      - 5
+  - day_of_week: sunday
+    id: sunday-w03
+    sections:
+    - book: Psalms
+      chapters:
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+      - 16
+    - book: Deuteronomy
+      chapters:
+      - 7
+      - 8
+      - 9
+    - book: 1 Kings
+      chapters:
+      - 8
+      - 9
+      - 10
+      - 11
+    - book: 2 Kings
+      chapters:
+      - 8
+      - 9
+      - 10
+      - 11
+    - book: Nehemiah
+      chapters:
+      - 9
+      - 10
+      - 11
+    - book: John
+      chapters:
+      - 7
+      - 8
+      - 9
+    - book: Acts
+      chapters:
+      - 7
+      - 8
+      - 9
+    - book: 2 Corinthians
+      chapters:
+      - 5
+      - 6
+      - 7
+    - book: Hebrews
+      chapters:
+      - 5
+      - 6
+  - day_of_week: sunday
+    id: sunday-w04
+    sections:
+    - book: Psalms
+      chapters:
+      - 17
+      - 18
+      - 19
+      - 20
+      - 21
+    - book: Deuteronomy
+      chapters:
+      - 10
+      - 11
+      - 12
+    - book: 1 Kings
+      chapters:
+      - 12
+      - 13
+      - 14
+    - book: 2 Kings
+      chapters:
+      - 12
+      - 13
+      - 14
+    - book: Nehemiah
+      chapters:
+      - 12
+      - 13
+    - book: John
+      chapters:
+      - 10
+      - 11
+      - 12
+    - book: Acts
+      chapters:
+      - 10
+      - 11
+      - 12
+    - book: 2 Corinthians
+      chapters:
+      - 8
+      - 9
+      - 10
+    - book: Hebrews
+      chapters:
+      - 7
+      - 8
+  - day_of_week: sunday
+    id: sunday-w05
+    sections:
+    - book: Psalms
+      chapters:
+      - 22
+      - 23
+      - 24
+      - 25
+      - 26
+      - 27
+    - book: Deuteronomy
+      chapters:
+      - 13
+      - 14
+      - 15
+    - book: 1 Kings
+      chapters:
+      - 15
+      - 16
+      - 17
+      - 18
+    - book: 2 Kings
+      chapters:
+      - 15
+      - 16
+      - 17
+      - 18
+    - book: John
+      chapters:
+      - 13
+      - 14
+      - 15
+    - book: Acts
+      chapters:
+      - 13
+      - 14
+      - 15
+    - book: 2 Corinthians
+      chapters:
+      - 11
+      - 12
+      - 13
+    - book: Hebrews
+      chapters:
+      - 9
+      - 10
+  - day_of_week: sunday
+    id: sunday-w06
+    sections:
+    - book: Psalms
+      chapters:
+      - 28
+      - 29
+      - 30
+      - 31
+      - 32
+    - book: Deuteronomy
+      chapters:
+      - 16
+      - 17
+      - 18
+    - book: 1 Kings
+      chapters:
+      - 19
+      - 20
+      - 21
+      - 22
+    - book: 2 Kings
+      chapters:
+      - 19
+      - 20
+      - 21
+    - book: John
+      chapters:
+      - 16
+      - 17
+      - 18
+    - book: Acts
+      chapters:
+      - 16
+      - 17
+      - 18
+    - book: Hebrews
+      chapters:
+      - 11
+      - 12
+      - 13
+  - day_of_week: sunday
+    id: sunday-w07
+    sections:
+    - book: Psalms
+      chapters:
+      - 33
+      - 34
+      - 35
+      - 36
+      - 37
+    - book: Deuteronomy
+      chapters:
+      - 19
+      - 20
+      - 21
+    - book: 2 Kings
+      chapters:
+      - 22
+      - 23
+    - book: John
+      chapters:
+      - 19
+      - 20
+      - 21
+    - book: Acts
+      chapters:
+      - 19
+      - 20
+      - 21
+  - day_of_week: sunday
+    id: sunday-w08
+    sections:
+    - book: Psalms
+      chapters:
+      - 38
+      - 39
+      - 40
+      - 41
+      - 42
+    - book: Deuteronomy
+      chapters:
+      - 22
+      - 23
+      - 24
+    - book: 2 Kings
+      chapters:
+      - 24
+      - 25
+    - book: Acts
+      chapters:
+      - 22
+      - 23
+      - 24
+  - day_of_week: sunday
+    id: sunday-w09
+    sections:
+    - book: Psalms
+      chapters:
+      - 43
+      - 44
+      - 45
+      - 46
+      - 47
+    - book: Deuteronomy
+      chapters:
+      - 25
+      - 26
+      - 27
+    - book: Acts
+      chapters:
+      - 25
+      - 26
+      - 27
+      - 28
+  - day_of_week: sunday
+    id: sunday-w10
+    sections:
+    - book: Psalms
+      chapters:
+      - 48
+      - 49
+      - 50
+      - 51
+      - 52
+    - book: Deuteronomy
+      chapters:
+      - 28
+      - 29
+      - 30
+  - day_of_week: sunday
+    id: sunday-w11
+    sections:
+    - book: Psalms
+      chapters:
+      - 53
+      - 54
+      - 55
+      - 56
+      - 57
+    - book: Deuteronomy
+      chapters:
+      - 31
+      - 32
+      - 33
+      - 34
+  - day_of_week: sunday
+    id: sunday-w12
+    sections:
+    - book: Psalms
+      chapters:
+      - 58
+      - 59
+      - 60
+      - 61
+      - 62
+  - day_of_week: sunday
+    id: sunday-w13
+    sections:
+    - book: Psalms
+      chapters:
+      - 63
+      - 64
+      - 65
+      - 66
+      - 67
+  - day_of_week: sunday
+    id: sunday-w14
+    sections:
+    - book: Psalms
+      chapters:
+      - 68
+      - 69
+      - 70
+      - 71
+      - 72
+  - day_of_week: sunday
+    id: sunday-w15
+    sections:
+    - book: Psalms
+      chapters:
+      - 73
+      - 74
+      - 75
+      - 76
+      - 77
+  - day_of_week: sunday
+    id: sunday-w16
+    sections:
+    - book: Psalms
+      chapters:
+      - 78
+      - 79
+      - 80
+      - 81
+      - 82
+  - day_of_week: sunday
+    id: sunday-w17
+    sections:
+    - book: Psalms
+      chapters:
+      - 83
+      - 84
+      - 85
+      - 86
+      - 87
+  - day_of_week: sunday
+    id: sunday-w18
+    sections:
+    - book: Psalms
+      chapters:
+      - 88
+      - 89
+      - 90
+      - 91
+      - 92
+  - day_of_week: sunday
+    id: sunday-w19
+    sections:
+    - book: Psalms
+      chapters:
+      - 93
+      - 94
+      - 95
+      - 96
+      - 97
+  - day_of_week: sunday
+    id: sunday-w20
+    sections:
+    - book: Psalms
+      chapters:
+      - 98
+      - 99
+      - 100
+      - 101
+      - 102
+  - day_of_week: sunday
+    id: sunday-w21
+    sections:
+    - book: Psalms
+      chapters:
+      - 103
+      - 104
+      - 105
+      - 106
+      - 107
+  - day_of_week: sunday
+    id: sunday-w22
+    sections:
+    - book: Psalms
+      chapters:
+      - 108
+      - 109
+      - 110
+      - 111
+      - 112
+      - 113
+  - day_of_week: sunday
+    id: sunday-w23
+    sections:
+    - book: Psalms
+      chapters:
+      - 114
+      - 115
+      - 116
+      - 117
+      - 118
+  - day_of_week: sunday
+    id: sunday-w24
+    sections:
+    - book: Psalms
+      chapters:
+      - 119
+  - day_of_week: sunday
+    id: sunday-w25
+    sections:
+    - book: Psalms
+      chapters:
+      - 120
+      - 121
+      - 122
+      - 123
+      - 124
+      - 125
+  - day_of_week: sunday
+    id: sunday-w26
+    sections:
+    - book: Psalms
+      chapters:
+      - 126
+      - 127
+      - 128
+      - 129
+      - 130
+  - day_of_week: sunday
+    id: sunday-w27
+    sections:
+    - book: Psalms
+      chapters:
+      - 131
+      - 132
+      - 133
+      - 134
+      - 135
+  - day_of_week: sunday
+    id: sunday-w28
+    sections:
+    - book: Psalms
+      chapters:
+      - 136
+      - 137
+      - 138
+      - 139
+      - 140
+  - day_of_week: sunday
+    id: sunday-w29
+    sections:
+    - book: Psalms
+      chapters:
+      - 141
+      - 142
+      - 143
+      - 144
+      - 145
+  - day_of_week: sunday
+    id: sunday-w30
+    sections:
+    - book: Psalms
+      chapters:
+      - 146
+      - 147
+      - 148
+      - 149
+      - 150
+  - day_of_week: monday
+    id: monday-w01
+    sections:
+    - book: Proverbs
+      chapters:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+    - book: Ecclesiastes
+      chapters:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+    - book: Song of Solomon
+      chapters:
+      - 1
+      - 2
+      - 3
+      - 4
+    - book: Genesis
+      chapters:
+      - 1
+      - 2
+      - 3
+    - book: Leviticus
+      chapters:
+      - 1
+      - 2
+      - 3
+    - book: Numbers
+      chapters:
+      - 1
+      - 2
+      - 3
+    - book: 1 Samuel
+      chapters:
+      - 1
+      - 2
+      - 3
+    - book: 2 Samuel
+      chapters:
+      - 1
+      - 2
+      - 3
+    - book: Obadiah
+      chapters:
+      - 1
+    - book: Jonah
+      chapters:
+      - 1
+      - 2
+      - 3
+      - 4
+  - day_of_week: monday
+    id: monday-w02
+    sections:
+    - book: Proverbs
+      chapters:
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+    - book: Ecclesiastes
+      chapters:
+      - 7
+      - 8
+      - 9
+      - 10
+      - 11
+      - 12
+    - book: Song of Solomon
+      chapters:
+      - 5
+      - 6
+      - 7
+      - 8
+    - book: Genesis
+      chapters:
+      - 4
+      - 5
+      - 6
+      - 7
+    - book: Leviticus
+      chapters:
+      - 4
+      - 5
+      - 6
+    - book: Numbers
+      chapters:
+      - 4
+      - 5
+      - 6
+    - book: 1 Samuel
+      chapters:
+      - 4
+      - 5
+      - 6
+      - 7
+    - book: 2 Samuel
+      chapters:
+      - 4
+      - 5
+      - 6
+      - 7
+  - day_of_week: monday
+    id: monday-w03
+    sections:
+    - book: Proverbs
+      chapters:
+      - 11
+      - 12
+      - 13
+      - 14
+      - 15
+    - book: Leviticus
+      chapters:
+      - 7
+      - 8
+      - 9
+    - book: Numbers
+      chapters:
+      - 7
+      - 8
+      - 9
+    - book: 1 Samuel
+      chapters:
+      - 8
+      - 9
+      - 10
+    - book: 2 Samuel
+      chapters:
+      - 8
+      - 9
+      - 10
+  - day_of_week: monday
+    id: monday-w04
+    sections:
+    - book: Proverbs
+      chapters:
+      - 16
+      - 17
+      - 18
+      - 19
+      - 20
+    - book: Leviticus
+      chapters:
+      - 10
+      - 11
+      - 12
+    - book: Numbers
+      chapters:
+      - 10
+      - 11
+      - 12
+    - book: 1 Samuel
+      chapters:
+      - 11
+      - 12
+      - 13
+      - 14
+    - book: 2 Samuel
+      chapters:
+      - 11
+      - 12
+      - 13
+      - 14
+  - day_of_week: monday
+    id: monday-w05
+    sections:
+    - book: Proverbs
+      chapters:
+      - 21
+      - 22
+      - 23
+      - 24
+      - 25
+    - book: Leviticus
+      chapters:
+      - 13
+      - 14
+      - 15
+    - book: Numbers
+      chapters:
+      - 13
+      - 14
+      - 15
+    - book: 1 Samuel
+      chapters:
+      - 15
+      - 16
+      - 17
+    - book: 2 Samuel
+      chapters:
+      - 15
+      - 16
+      - 17
+  - day_of_week: monday
+    id: monday-w06
+    sections:
+    - book: Proverbs
+      chapters:
+      - 26
+      - 27
+      - 28
+      - 29
+      - 30
+      - 31
+    - book: Leviticus
+      chapters:
+      - 16
+      - 17
+      - 18
+    - book: Numbers
+      chapters:
+      - 16
+      - 17
+      - 18
+    - book: 1 Samuel
+      chapters:
+      - 18
+      - 19
+      - 20
+    - book: 2 Samuel
+      chapters:
+      - 18
+      - 19
+      - 20
+      - 21
+  - day_of_week: monday
+    id: monday-w07
+    sections:
+    - book: Leviticus
+      chapters:
+      - 19
+      - 20
+      - 21
+    - book: Numbers
+      chapters:
+      - 19
+      - 20
+      - 21
+    - book: 1 Samuel
+      chapters:
+      - 21
+      - 22
+      - 23
+      - 24
+    - book: 2 Samuel
+      chapters:
+      - 22
+      - 23
+      - 24
+  - day_of_week: monday
+    id: monday-w08
+    sections:
+    - book: Leviticus
+      chapters:
+      - 22
+      - 23
+      - 24
+    - book: Numbers
+      chapters:
+      - 22
+      - 23
+      - 24
+    - book: 1 Samuel
+      chapters:
+      - 25
+      - 26
+      - 27
+  - day_of_week: monday
+    id: monday-w09
+    sections:
+    - book: Leviticus
+      chapters:
+      - 25
+      - 26
+      - 27
+    - book: Numbers
+      chapters:
+      - 25
+      - 26
+      - 27
+    - book: 1 Samuel
+      chapters:
+      - 28
+      - 29
+      - 30
+      - 31
+  - day_of_week: monday
+    id: monday-w10
+    sections:
+    - book: Numbers
+      chapters:
+      - 28
+      - 29
+      - 30
+  - day_of_week: monday
+    id: monday-w11
+    sections:
+    - book: Numbers
+      chapters:
+      - 31
+      - 32
+      - 33
+  - day_of_week: monday
+    id: monday-w12
+    sections:
+    - book: Numbers
+      chapters:
+      - 34
+      - 35
+      - 36
+  - day_of_week: tuesday
+    id: tuesday-w01
+    sections:
+    - book: Exodus
+      chapters:
+      - 1
+      - 2
+      - 3
+      - 4
+    - book: Joshua
+      chapters:
+      - 1
+      - 2
+      - 3
+      - 4
+    - book: Judges
+      chapters:
+      - 1
+      - 2
+      - 3
+      - 4
+    - book: Ruth
+      chapters:
+      - 1
+      - 2
+      - 3
+      - 4
+    - book: Esther
+      chapters:
+      - 1
+      - 2
+      - 3
+    - book: Ezekiel
+      chapters:
+      - 1
+      - 2
+      - 3
+    - book: Zechariah
+      chapters:
+      - 1
+      - 2
+      - 3
+    - book: Philippians
+      chapters:
+      - 1
+      - 2
+      - 3
+      - 4
+    - book: Colossians
+      chapters:
+      - 1
+      - 2
+    - book: 2 Peter
+      chapters:
+      - 1
+      - 2
+      - 3
+  - day_of_week: tuesday
+    id: tuesday-w02
+    sections:
+    - book: Exodus
+      chapters:
+      - 5
+      - 6
+      - 7
+    - book: Joshua
+      chapters:
+      - 5
+      - 6
+      - 7
+    - book: Judges
+      chapters:
+      - 5
+      - 6
+      - 7
+    - book: Esther
+      chapters:
+      - 4
+      - 5
+      - 6
+      - 7
+    - book: Ezekiel
+      chapters:
+      - 4
+      - 5
+      - 6
+    - book: Zechariah
+      chapters:
+      - 4
+      - 5
+      - 6
+    - book: Colossians
+      chapters:
+      - 3
+      - 4
+  - day_of_week: tuesday
+    id: tuesday-w03
+    sections:
+    - book: Exodus
+      chapters:
+      - 8
+      - 9
+      - 10
+    - book: Joshua
+      chapters:
+      - 8
+      - 9
+      - 10
+    - book: Judges
+      chapters:
+      - 8
+      - 9
+      - 10
+      - 11
+    - book: Esther
+      chapters:
+      - 8
+      - 9
+      - 10
+    - book: Ezekiel
+      chapters:
+      - 7
+      - 8
+      - 9
+    - book: Zechariah
+      chapters:
+      - 7
+      - 8
+      - 9
+  - day_of_week: tuesday
+    id: tuesday-w04
+    sections:
+    - book: Exodus
+      chapters:
+      - 11
+      - 12
+      - 13
+    - book: Joshua
+      chapters:
+      - 11
+      - 12
+      - 13
+      - 14
+    - book: Judges
+      chapters:
+      - 12
+      - 13
+      - 14
+    - book: Ezekiel
+      chapters:
+      - 10
+      - 11
+      - 12
+    - book: Zechariah
+      chapters:
+      - 10
+      - 11
+      - 12
+  - day_of_week: tuesday
+    id: tuesday-w05
+    sections:
+    - book: Exodus
+      chapters:
+      - 14
+      - 15
+      - 16
+    - book: Joshua
+      chapters:
+      - 15
+      - 16
+      - 17
+    - book: Judges
+      chapters:
+      - 15
+      - 16
+      - 17
+      - 18
+    - book: Ezekiel
+      chapters:
+      - 13
+      - 14
+      - 15
+    - book: Zechariah
+      chapters:
+      - 13
+      - 14
+  - day_of_week: tuesday
+    id: tuesday-w06
+    sections:
+    - book: Exodus
+      chapters:
+      - 17
+      - 18
+      - 19
+    - book: Joshua
+      chapters:
+      - 18
+      - 19
+      - 20
+      - 21
+    - book: Judges
+      chapters:
+      - 19
+      - 20
+      - 21
+    - book: Ezekiel
+      chapters:
+      - 16
+      - 17
+      - 18
+  - day_of_week: tuesday
+    id: tuesday-w07
+    sections:
+    - book: Exodus
+      chapters:
+      - 20
+      - 21
+      - 22
+    - book: Joshua
+      chapters:
+      - 22
+      - 23
+      - 24
+    - book: Ezekiel
+      chapters:
+      - 19
+      - 20
+      - 21
+  - day_of_week: tuesday
+    id: tuesday-w08
+    sections:
+    - book: Exodus
+      chapters:
+      - 23
+      - 24
+      - 25
+    - book: Ezekiel
+      chapters:
+      - 22
+      - 23
+      - 24
+  - day_of_week: tuesday
+    id: tuesday-w09
+    sections:
+    - book: Exodus
+      chapters:
+      - 26
+      - 27
+      - 28
+    - book: Ezekiel
+      chapters:
+      - 25
+      - 26
+      - 27
+  - day_of_week: tuesday
+    id: tuesday-w10
+    sections:
+    - book: Exodus
+      chapters:
+      - 29
+      - 30
+      - 31
+    - book: Ezekiel
+      chapters:
+      - 28
+      - 29
+      - 30
+  - day_of_week: tuesday
+    id: tuesday-w11
+    sections:
+    - book: Exodus
+      chapters:
+      - 32
+      - 33
+      - 34
+    - book: Ezekiel
+      chapters:
+      - 31
+      - 32
+      - 33
+  - day_of_week: tuesday
+    id: tuesday-w12
+    sections:
+    - book: Exodus
+      chapters:
+      - 35
+      - 36
+      - 37
+    - book: Ezekiel
+      chapters:
+      - 34
+      - 35
+      - 36
+  - day_of_week: tuesday
+    id: tuesday-w13
+    sections:
+    - book: Exodus
+      chapters:
+      - 38
+      - 39
+      - 40
+    - book: Ezekiel
+      chapters:
+      - 37
+      - 38
+      - 39
+  - day_of_week: tuesday
+    id: tuesday-w14
+    sections:
+    - book: Ezekiel
+      chapters:
+      - 40
+      - 41
+      - 42
+  - day_of_week: tuesday
+    id: tuesday-w15
+    sections:
+    - book: Ezekiel
+      chapters:
+      - 43
+      - 44
+      - 45
+  - day_of_week: tuesday
+    id: tuesday-w16
+    sections:
+    - book: Ezekiel
+      chapters:
+      - 46
+      - 47
+      - 48
+  - day_of_week: wednesday
+    id: wednesday-w01
+    sections:
+    - book: Job
+      chapters:
+      - 1
+      - 2
+      - 3
+    - book: 1 Chronicles
+      chapters:
+      - 1
+      - 2
+      - 3
+    - book: 2 Chronicles
+      chapters:
+      - 1
+  - day_of_week: wednesday
+    id: wednesday-w02
+    sections:
+    - book: Job
+      chapters:
+      - 4
+      - 5
+      - 6
+    - book: 1 Chronicles
+      chapters:
+      - 4
+      - 5
+      - 6
+    - book: 2 Chronicles
+      chapters:
+      - 2
+      - 3
+      - 4
+  - day_of_week: wednesday
+    id: wednesday-w03
+    sections:
+    - book: Job
+      chapters:
+      - 7
+      - 8
+      - 9
+    - book: 1 Chronicles
+      chapters:
+      - 7
+      - 8
+      - 9
+    - book: 2 Chronicles
+      chapters:
+      - 5
+      - 6
+      - 7
+  - day_of_week: wednesday
+    id: wednesday-w04
+    sections:
+    - book: Job
+      chapters:
+      - 10
+      - 11
+      - 12
+    - book: 1 Chronicles
+      chapters:
+      - 10
+      - 11
+      - 12
+    - book: 2 Chronicles
+      chapters:
+      - 8
+      - 9
+      - 10
+  - day_of_week: wednesday
+    id: wednesday-w05
+    sections:
+    - book: Job
+      chapters:
+      - 13
+      - 14
+      - 15
+    - book: 1 Chronicles
+      chapters:
+      - 13
+      - 14
+      - 15
+    - book: 2 Chronicles
+      chapters:
+      - 11
+      - 12
+      - 13
+  - day_of_week: wednesday
+    id: wednesday-w06
+    sections:
+    - book: Job
+      chapters:
+      - 16
+      - 17
+      - 18
+    - book: 1 Chronicles
+      chapters:
+      - 16
+      - 17
+      - 18
+    - book: 2 Chronicles
+      chapters:
+      - 14
+      - 15
+      - 16
+  - day_of_week: wednesday
+    id: wednesday-w07
+    sections:
+    - book: Job
+      chapters:
+      - 19
+      - 20
+      - 21
+    - book: 1 Chronicles
+      chapters:
+      - 19
+      - 20
+      - 21
+  - day_of_week: wednesday
+    id: wednesday-w08
+    sections:
+    - book: Job
+      chapters:
+      - 22
+      - 23
+      - 24
+    - book: 1 Chronicles
+      chapters:
+      - 22
+      - 23
+      - 24
+  - day_of_week: wednesday
+    id: wednesday-w09
+    sections:
+    - book: Job
+      chapters:
+      - 25
+      - 26
+      - 27
+    - book: 1 Chronicles
+      chapters:
+      - 25
+      - 26
+      - 27
+  - day_of_week: wednesday
+    id: wednesday-w10
+    sections:
+    - book: Job
+      chapters:
+      - 28
+      - 29
+      - 30
+    - book: 1 Chronicles
+      chapters:
+      - 28
+      - 29
+  - day_of_week: wednesday
+    id: wednesday-w11
+    sections:
+    - book: Job
+      chapters:
+      - 31
+      - 32
+      - 33
+  - day_of_week: wednesday
+    id: wednesday-w12
+    sections:
+    - book: Job
+      chapters:
+      - 34
+      - 35
+      - 36
+  - day_of_week: wednesday
+    id: wednesday-w13
+    sections:
+    - book: Job
+      chapters:
+      - 37
+      - 38
+      - 39
+  - day_of_week: wednesday
+    id: wednesday-w14
+    sections:
+    - book: Job
+      chapters:
+      - 40
+      - 41
+      - 42
+  - day_of_week: thursday
+    id: thursday-w01
+    sections:
+    - book: Isaiah
+      chapters:
+      - 1
+      - 2
+      - 3
+    - book: Jeremiah
+      chapters:
+      - 1
+      - 2
+      - 3
+    - book: Daniel
+      chapters:
+      - 1
+      - 2
+      - 3
+    - book: Malachi
+      chapters:
+      - 1
+      - 2
+      - 3
+      - 4
+  - day_of_week: thursday
+    id: thursday-w02
+    sections:
+    - book: Isaiah
+      chapters:
+      - 4
+      - 5
+      - 6
+    - book: Jeremiah
+      chapters:
+      - 4
+      - 5
+      - 6
+    - book: Daniel
+      chapters:
+      - 4
+      - 5
+      - 6
+  - day_of_week: thursday
+    id: thursday-w03
+    sections:
+    - book: Isaiah
+      chapters:
+      - 7
+      - 8
+      - 9
+    - book: Jeremiah
+      chapters:
+      - 7
+      - 8
+      - 9
+    - book: Daniel
+      chapters:
+      - 7
+      - 8
+      - 9
+  - day_of_week: thursday
+    id: thursday-w04
+    sections:
+    - book: Isaiah
+      chapters:
+      - 10
+      - 11
+      - 12
+    - book: Jeremiah
+      chapters:
+      - 10
+      - 11
+      - 12
+    - book: Daniel
+      chapters:
+      - 10
+      - 11
+      - 12
+  - day_of_week: thursday
+    id: thursday-w05
+    sections:
+    - book: Isaiah
+      chapters:
+      - 13
+      - 14
+      - 15
+    - book: Jeremiah
+      chapters:
+      - 13
+      - 14
+      - 15
+  - day_of_week: thursday
+    id: thursday-w06
+    sections:
+    - book: Isaiah
+      chapters:
+      - 16
+      - 17
+      - 18
+    - book: Jeremiah
+      chapters:
+      - 16
+      - 17
+      - 18
+  - day_of_week: thursday
+    id: thursday-w07
+    sections:
+    - book: Isaiah
+      chapters:
+      - 19
+      - 20
+      - 21
+    - book: Jeremiah
+      chapters:
+      - 19
+      - 20
+      - 21
+  - day_of_week: thursday
+    id: thursday-w08
+    sections:
+    - book: Isaiah
+      chapters:
+      - 22
+      - 23
+      - 24
+  - day_of_week: thursday
+    id: thursday-w09
+    sections:
+    - book: Isaiah
+      chapters:
+      - 25
+      - 26
+      - 27
+  - day_of_week: thursday
+    id: thursday-w10
+    sections:
+    - book: Isaiah
+      chapters:
+      - 28
+      - 29
+      - 30
+  - day_of_week: thursday
+    id: thursday-w11
+    sections:
+    - book: Isaiah
+      chapters:
+      - 31
+      - 32
+      - 33
+  - day_of_week: thursday
+    id: thursday-w12
+    sections:
+    - book: Isaiah
+      chapters:
+      - 34
+      - 35
+      - 36
+  - day_of_week: thursday
+    id: thursday-w13
+    sections:
+    - book: Isaiah
+      chapters:
+      - 37
+      - 38
+      - 39
+  - day_of_week: thursday
+    id: thursday-w14
+    sections:
+    - book: Isaiah
+      chapters:
+      - 40
+      - 41
+      - 42
+  - day_of_week: thursday
+    id: thursday-w15
+    sections:
+    - book: Isaiah
+      chapters:
+      - 43
+      - 44
+      - 45
+  - day_of_week: thursday
+    id: thursday-w16
+    sections:
+    - book: Isaiah
+      chapters:
+      - 46
+      - 47
+      - 48
+  - day_of_week: thursday
+    id: thursday-w17
+    sections:
+    - book: Isaiah
+      chapters:
+      - 49
+      - 50
+      - 51
+  - day_of_week: thursday
+    id: thursday-w18
+    sections:
+    - book: Isaiah
+      chapters:
+      - 52
+      - 53
+      - 54
+  - day_of_week: thursday
+    id: thursday-w19
+    sections:
+    - book: Isaiah
+      chapters:
+      - 55
+      - 56
+      - 57
+  - day_of_week: thursday
+    id: thursday-w20
+    sections:
+    - book: Isaiah
+      chapters:
+      - 58
+      - 59
+      - 60
+  - day_of_week: thursday
+    id: thursday-w21
+    sections:
+    - book: Isaiah
+      chapters:
+      - 61
+      - 62
+      - 63
+  - day_of_week: thursday
+    id: thursday-w22
+    sections:
+    - book: Isaiah
+      chapters:
+      - 64
+      - 65
+      - 66
+  - day_of_week: friday
+    id: friday-w01
+    sections:
+    - book: Hosea
+      chapters:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+    - book: Joel
+      chapters:
+      - 1
+      - 2
+      - 3
+    - book: Amos
+      chapters:
+      - 1
+      - 2
+      - 3
+    - book: Matthew
+      chapters:
+      - 1
+      - 2
+      - 3
+    - book: Mark
+      chapters:
+      - 1
+      - 2
+      - 3
+    - book: Luke
+      chapters:
+      - 1
+      - 2
+      - 3
+    - book: 1 Corinthians
+      chapters:
+      - 1
+      - 2
+    - book: 2 Timothy
+      chapters:
+      - 1
+      - 2
+    - book: Titus
+      chapters:
+      - 1
+      - 2
+      - 3
+    - book: Philemon
+      chapters:
+      - 1
+  - day_of_week: friday
+    id: friday-w02
+    sections:
+    - book: Hosea
+      chapters:
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+    - book: Amos
+      chapters:
+      - 4
+      - 5
+      - 6
+    - book: Matthew
+      chapters:
+      - 4
+      - 5
+      - 6
+    - book: Mark
+      chapters:
+      - 4
+      - 5
+      - 6
+    - book: Luke
+      chapters:
+      - 4
+      - 5
+      - 6
+    - book: 1 Corinthians
+      chapters:
+      - 3
+      - 4
+      - 5
+    - book: 2 Timothy
+      chapters:
+      - 3
+      - 4
+  - day_of_week: friday
+    id: friday-w03
+    sections:
+    - book: Hosea
+      chapters:
+      - 11
+      - 12
+      - 13
+      - 14
+    - book: Amos
+      chapters:
+      - 7
+      - 8
+      - 9
+    - book: Matthew
+      chapters:
+      - 7
+      - 8
+      - 9
+    - book: Mark
+      chapters:
+      - 7
+      - 8
+      - 9
+    - book: Luke
+      chapters:
+      - 7
+      - 8
+      - 9
+    - book: 1 Corinthians
+      chapters:
+      - 6
+      - 7
+      - 8
+  - day_of_week: friday
+    id: friday-w04
+    sections:
+    - book: Matthew
+      chapters:
+      - 10
+      - 11
+      - 12
+    - book: Mark
+      chapters:
+      - 10
+      - 11
+      - 12
+    - book: Luke
+      chapters:
+      - 10
+      - 11
+      - 12
+    - book: 1 Corinthians
+      chapters:
+      - 9
+      - 10
+      - 11
+  - day_of_week: friday
+    id: friday-w05
+    sections:
+    - book: Matthew
+      chapters:
+      - 13
+      - 14
+      - 15
+    - book: Mark
+      chapters:
+      - 13
+      - 14
+      - 15
+      - 16
+    - book: Luke
+      chapters:
+      - 13
+      - 14
+      - 15
+    - book: 1 Corinthians
+      chapters:
+      - 12
+      - 13
+      - 14
+  - day_of_week: friday
+    id: friday-w06
+    sections:
+    - book: Matthew
+      chapters:
+      - 16
+      - 17
+      - 18
+    - book: Luke
+      chapters:
+      - 16
+      - 17
+      - 18
+    - book: 1 Corinthians
+      chapters:
+      - 15
+      - 16
+  - day_of_week: friday
+    id: friday-w07
+    sections:
+    - book: Matthew
+      chapters:
+      - 19
+      - 20
+      - 21
+    - book: Luke
+      chapters:
+      - 19
+      - 20
+      - 21
+  - day_of_week: friday
+    id: friday-w08
+    sections:
+    - book: Matthew
+      chapters:
+      - 22
+      - 23
+      - 24
+    - book: Luke
+      chapters:
+      - 22
+      - 23
+      - 24
+  - day_of_week: friday
+    id: friday-w09
+    sections:
+    - book: Matthew
+      chapters:
+      - 25
+      - 26
+  - day_of_week: friday
+    id: friday-w10
+    sections:
+    - book: Matthew
+      chapters:
+      - 27
+      - 28
+  - day_of_week: saturday
+    id: saturday-w01
+    sections:
+    - book: Romans
+      chapters:
+      - 1
+      - 2
+      - 3
+    - book: 1 Thessalonians
+      chapters:
+      - 1
+      - 2
+      - 3
+    - book: 2 Thessalonians
+      chapters:
+      - 1
+      - 2
+      - 3
+    - book: 1 Timothy
+      chapters:
+      - 1
+      - 2
+      - 3
+    - book: 1 John
+      chapters:
+      - 1
+      - 2
+      - 3
+    - book: 2 John
+      chapters:
+      - 1
+    - book: 3 John
+      chapters:
+      - 1
+    - book: Jude
+      chapters:
+      - 1
+    - book: Revelation
+      chapters:
+      - 1
+      - 2
+      - 3
+  - day_of_week: saturday
+    id: saturday-w02
+    sections:
+    - book: Romans
+      chapters:
+      - 4
+      - 5
+    - book: 1 Thessalonians
+      chapters:
+      - 4
+      - 5
+    - book: 1 Timothy
+      chapters:
+      - 4
+      - 5
+      - 6
+    - book: 1 John
+      chapters:
+      - 4
+      - 5
+    - book: Revelation
+      chapters:
+      - 4
+      - 5
+      - 6
+      - 7
+  - day_of_week: saturday
+    id: saturday-w03
+    sections:
+    - book: Romans
+      chapters:
+      - 6
+      - 7
+    - book: Revelation
+      chapters:
+      - 8
+      - 9
+      - 10
+  - day_of_week: saturday
+    id: saturday-w04
+    sections:
+    - book: Romans
+      chapters:
+      - 8
+      - 9
+    - book: Revelation
+      chapters:
+      - 11
+      - 12
+      - 13
+  - day_of_week: saturday
+    id: saturday-w05
+    sections:
+    - book: Romans
+      chapters:
+      - 10
+      - 11
+    - book: Revelation
+      chapters:
+      - 14
+      - 15
+      - 16
+  - day_of_week: saturday
+    id: saturday-w06
+    sections:
+    - book: Romans
+      chapters:
+      - 12
+      - 13
+    - book: Revelation
+      chapters:
+      - 17
+      - 18
+      - 19
+  - day_of_week: saturday
+    id: saturday-w07
+    sections:
+    - book: Romans
+      chapters:
+      - 14
+      - 15
+      - 16
+    - book: Revelation
+      chapters:
+      - 20
+      - 21
+      - 22

@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+import json
 import yaml
 import argparse
 import os
@@ -27,13 +28,17 @@ class ValidationError(Exception):
     """Custom exception for validation errors."""
     pass
 
-def load_yaml_file(filepath):
-    """Loads a YAML file with error handling."""
+def load_plan_file(filepath):
+    """Loads a YAML or JSON plan/data file with error handling."""
     if not os.path.exists(filepath):
         raise ValidationError(f"File not found: {filepath}")
     try:
         with open(filepath, 'r', encoding='utf-8') as f:
+            if filepath.lower().endswith('.json'):
+                return json.load(f)
             return yaml.safe_load(f)
+    except json.JSONDecodeError as e:
+        raise ValidationError(f"Error parsing JSON file {filepath}: {e}")
     except yaml.YAMLError as e:
         raise ValidationError(f"Error parsing YAML file {filepath}: {e}")
     except Exception as e:
@@ -202,13 +207,13 @@ def validate_mmdd_date(date_str):
 # --- Main Validation Logic ---
 
 def validate_plan(plan_file_path, bible_data_path):
-    """Validates the reading plan YAML file."""
+    """Validates the reading plan YAML or JSON file."""
     global processed_bible_data_global
     errors = []
 
     # 1. Load Bible Data and Preprocess
     try:
-        raw_bible_data = load_yaml_file(bible_data_path)
+        raw_bible_data = load_plan_file(bible_data_path)
         processed_bible_data_global = preprocess_bible_data(raw_bible_data)
     except ValidationError as e:
         errors.append(f"Critical error loading Bible data ({bible_data_path}): {e}")
@@ -216,7 +221,7 @@ def validate_plan(plan_file_path, bible_data_path):
 
     # 2. Load Plan Data
     try:
-        plan_yaml = load_yaml_file(plan_file_path)
+        plan_yaml = load_plan_file(plan_file_path)
     except ValidationError as e:
         errors.append(f"Critical error loading plan file ({plan_file_path}): {e}")
         return errors # Cannot proceed without plan data
@@ -510,11 +515,11 @@ def validate_plan(plan_file_path, bible_data_path):
 
 # --- Main Execution ---
 def main():
-    parser = argparse.ArgumentParser(description="Validate a Bible Reading Plan YAML file against the specified format.")
-    parser.add_argument("plan_file", help="Path to the Bible Reading Plan YAML file to validate.")
+    parser = argparse.ArgumentParser(description="Validate a Bible Reading Plan YAML or JSON file against the specified format.")
+    parser.add_argument("plan_file", help="Path to the Bible Reading Plan YAML or JSON file to validate.")
     parser.add_argument("--bible-data",
                         default=BIBLE_DATA_DEFAULT_FILENAME,
-                        help=f"Path to the Bible book data YAML file (default: {BIBLE_DATA_DEFAULT_FILENAME} in the current directory).")
+                        help=f"Path to the Bible book data YAML or JSON file (default: {BIBLE_DATA_DEFAULT_FILENAME} in the current directory).")
 
     if len(sys.argv) == 1:
         parser.print_help(sys.stderr)
