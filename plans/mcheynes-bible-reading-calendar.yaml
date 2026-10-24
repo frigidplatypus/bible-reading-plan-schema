@@ -2,8 +2,9 @@ plan:
   id: mcheynes-bible-reading-calendar
   name: Robert Murray M'Cheyne's Bible Reading Calendar
   description: 'A one-year calendar reading the whole Bible: Old Testament once, New Testament and Psalms
-    twice. Four readings per day (two for family worship, two for secret reading). Based on the calendar
-    prepared by Robert Murray M''Cheyne (1813-1843), minister of St Peter''s Church, Dundee, Scotland.'
+    twice. Four readings per day (two for family worship, two for secret reading). Based on the
+    reading calendar of Robert Murray M''Cheyne (1813-1843), minister of St Peter''s Church, Dundee,
+    Scotland; this arrangement compiled by David F. Haslam (January 2000).'
   type: sequential
   version: '1.0'
   duration_days: 365
@@ -14,7 +15,7 @@ plan:
     - whole-bible
     - calendar
     - one-year
-    source: Robert Murray M'Cheyne's Bible Reading Calendar, mcheyne.info
+    source: "Robert Murray M'Cheyne's Bible Reading Calendar, compiled by David F. Haslam (January 2000), mcheyne.info"
   features:
     allow_notes: true
     track_partial_completion: true
