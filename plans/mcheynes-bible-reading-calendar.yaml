@@ -2,9 +2,9 @@ plan:
   id: mcheynes-bible-reading-calendar
   name: Robert Murray M'Cheyne's Bible Reading Calendar
   description: 'A one-year calendar reading the whole Bible: Old Testament once, New Testament and Psalms
-    twice. Four readings per day (two for family worship, two for secret reading). Based on the
-    reading calendar of Robert Murray M''Cheyne (1813-1843), minister of St Peter''s Church, Dundee,
-    Scotland; this arrangement compiled by David F. Haslam (January 2000).'
+    twice. Four readings per day (two for family worship, two for secret reading). Based on the reading
+    calendar of Robert Murray M''Cheyne (1813-1843), minister of St Peter''s Church, Dundee, Scotland;
+    this arrangement compiled by David F. Haslam (January 2000).'
   type: sequential
   version: '1.0'
   duration_days: 365
@@ -15,7 +15,8 @@ plan:
     - whole-bible
     - calendar
     - one-year
-    source: "Robert Murray M'Cheyne's Bible Reading Calendar, compiled by David F. Haslam (January 2000), mcheyne.info"
+    source: Robert Murray M'Cheyne's Bible Reading Calendar, compiled by David F. Haslam (January 2000),
+      mcheyne.info
   features:
     allow_notes: true
     track_partial_completion: true
@@ -138,6 +139,8 @@ plan:
     - book: Genesis
       chapters:
       - 9
+    - book: Genesis
+      chapters:
       - 10
     - book: Matthew
       chapters:
@@ -467,6 +470,8 @@ plan:
     - book: Esther
       chapters:
       - 9
+    - book: Esther
+      chapters:
       - 10
     - book: Romans
       chapters:
@@ -490,6 +495,8 @@ plan:
     - book: Genesis
       chapters:
       - 35
+    - book: Genesis
+      chapters:
       - 36
     - book: Mark
       chapters:
@@ -691,6 +698,8 @@ plan:
     - book: Job
       chapters:
       - 16
+    - book: Job
+      chapters:
       - 17
     - book: 1 Corinthians
       chapters:
@@ -804,6 +813,8 @@ plan:
     - book: Job
       chapters:
       - 25
+    - book: Job
+      chapters:
       - 26
     - book: 1 Corinthians
       chapters:
@@ -1276,6 +1287,8 @@ plan:
     - book: Leviticus
       chapters:
       - 2
+    - book: Leviticus
+      chapters:
       - 3
     - book: John
       chapters:
@@ -1294,6 +1307,8 @@ plan:
     - book: Psalms
       chapters:
       - 1
+    - book: Psalms
+      chapters:
       - 2
     - book: Proverbs
       chapters:
@@ -1309,6 +1324,8 @@ plan:
     - book: Psalms
       chapters:
       - 3
+    - book: Psalms
+      chapters:
       - 4
     - book: Proverbs
       chapters:
@@ -1324,6 +1341,8 @@ plan:
     - book: Psalms
       chapters:
       - 5
+    - book: Psalms
+      chapters:
       - 6
     - book: Proverbs
       chapters:
@@ -1339,6 +1358,8 @@ plan:
     - book: Psalms
       chapters:
       - 7
+    - book: Psalms
+      chapters:
       - 8
     - book: Proverbs
       chapters:
@@ -1382,6 +1403,8 @@ plan:
     - book: Psalms
       chapters:
       - 11
+    - book: Psalms
+      chapters:
       - 12
     - book: Proverbs
       chapters:
@@ -1394,10 +1417,14 @@ plan:
     - book: Leviticus
       chapters:
       - 11
+    - book: Leviticus
+      chapters:
       - 12
     - book: Psalms
       chapters:
       - 13
+    - book: Psalms
+      chapters:
       - 14
     - book: Proverbs
       chapters:
@@ -1413,6 +1440,8 @@ plan:
     - book: Psalms
       chapters:
       - 15
+    - book: Psalms
+      chapters:
       - 16
     - book: Proverbs
       chapters:
@@ -1470,6 +1499,8 @@ plan:
     - book: Psalms
       chapters:
       - 20
+    - book: Psalms
+      chapters:
       - 21
     - book: Proverbs
       chapters:
@@ -1499,6 +1530,8 @@ plan:
     - book: Psalms
       chapters:
       - 23
+    - book: Psalms
+      chapters:
       - 24
     - book: Ecclesiastes
       chapters:
@@ -1528,6 +1561,8 @@ plan:
     - book: Psalms
       chapters:
       - 26
+    - book: Psalms
+      chapters:
       - 27
     - book: Ecclesiastes
       chapters:
@@ -1543,6 +1578,8 @@ plan:
     - book: Psalms
       chapters:
       - 28
+    - book: Psalms
+      chapters:
       - 29
     - book: Ecclesiastes
       chapters:
@@ -1698,6 +1735,8 @@ plan:
     - book: Psalms
       chapters:
       - 40
+    - book: Psalms
+      chapters:
       - 41
     - book: Song of Solomon
       chapters:
@@ -1713,6 +1752,8 @@ plan:
     - book: Psalms
       chapters:
       - 42
+    - book: Psalms
+      chapters:
       - 43
     - book: Song of Solomon
       chapters:
@@ -1756,6 +1797,8 @@ plan:
     - book: Psalms
       chapters:
       - 46
+    - book: Psalms
+      chapters:
       - 47
     - book: Song of Solomon
       chapters:
@@ -1782,6 +1825,8 @@ plan:
     - book: Numbers
       chapters:
       - 12
+    - book: Numbers
+      chapters:
       - 13
     - book: Psalms
       chapters:
@@ -1803,6 +1848,8 @@ plan:
     - book: Isaiah
       chapters:
       - 3
+    - book: Isaiah
+      chapters:
       - 4
     - book: Hebrews
       chapters:
@@ -1829,7 +1876,11 @@ plan:
     - book: Psalms
       chapters:
       - 52
+    - book: Psalms
+      chapters:
       - 53
+    - book: Psalms
+      chapters:
       - 54
     - book: Isaiah
       chapters:
@@ -1842,6 +1893,8 @@ plan:
     - book: Numbers
       chapters:
       - 17
+    - book: Numbers
+      chapters:
       - 18
     - book: Psalms
       chapters:
@@ -1860,6 +1913,8 @@ plan:
     - book: Psalms
       chapters:
       - 56
+    - book: Psalms
+      chapters:
       - 57
     - book: Isaiah
       chapters:
@@ -1877,6 +1932,8 @@ plan:
     - book: Psalms
       chapters:
       - 58
+    - book: Psalms
+      chapters:
       - 59
     - book: Isaiah
       chapter_verse: 9:7-21
@@ -1893,6 +1950,8 @@ plan:
     - book: Psalms
       chapters:
       - 60
+    - book: Psalms
+      chapters:
       - 61
     - book: Isaiah
       chapter_verse: 10:5-34
@@ -1907,10 +1966,14 @@ plan:
     - book: Psalms
       chapters:
       - 62
+    - book: Psalms
+      chapters:
       - 63
     - book: Isaiah
       chapters:
       - 11
+    - book: Isaiah
+      chapters:
       - 12
     - book: James
       chapters:
@@ -1923,6 +1986,8 @@ plan:
     - book: Psalms
       chapters:
       - 64
+    - book: Psalms
+      chapters:
       - 65
     - book: Isaiah
       chapters:
@@ -1938,6 +2003,8 @@ plan:
     - book: Psalms
       chapters:
       - 66
+    - book: Psalms
+      chapters:
       - 67
     - book: Isaiah
       chapters:
@@ -1981,10 +2048,14 @@ plan:
     - book: Psalms
       chapters:
       - 70
+    - book: Psalms
+      chapters:
       - 71
     - book: Isaiah
       chapters:
       - 17
+    - book: Isaiah
+      chapters:
       - 18
     - book: 1 Peter
       chapters:
@@ -2000,6 +2071,8 @@ plan:
     - book: Isaiah
       chapters:
       - 19
+    - book: Isaiah
+      chapters:
       - 20
     - book: 2 Peter
       chapters:
@@ -2040,6 +2113,8 @@ plan:
     - book: Psalms
       chapters:
       - 75
+    - book: Psalms
+      chapters:
       - 76
     - book: Isaiah
       chapters:
@@ -2123,6 +2198,8 @@ plan:
     - book: Psalms
       chapters:
       - 81
+    - book: Psalms
+      chapters:
       - 82
     - book: Isaiah
       chapters:
@@ -2138,6 +2215,8 @@ plan:
     - book: Psalms
       chapters:
       - 83
+    - book: Psalms
+      chapters:
       - 84
     - book: Isaiah
       chapters:
@@ -2167,6 +2246,8 @@ plan:
     - book: Psalms
       chapters:
       - 86
+    - book: Psalms
+      chapters:
       - 87
     - book: Isaiah
       chapters:
@@ -2238,6 +2319,8 @@ plan:
     - book: Psalms
       chapters:
       - 92
+    - book: Psalms
+      chapters:
       - 93
     - book: Isaiah
       chapters:
@@ -2267,6 +2350,8 @@ plan:
     - book: Psalms
       chapters:
       - 95
+    - book: Psalms
+      chapters:
       - 96
     - book: Isaiah
       chapters:
@@ -2282,6 +2367,8 @@ plan:
     - book: Psalms
       chapters:
       - 97
+    - book: Psalms
+      chapters:
       - 98
     - book: Isaiah
       chapters:
@@ -2294,11 +2381,17 @@ plan:
     - book: Deuteronomy
       chapters:
       - 13
+    - book: Deuteronomy
+      chapters:
       - 14
     - book: Psalms
       chapters:
       - 99
+    - book: Psalms
+      chapters:
       - 100
+    - book: Psalms
+      chapters:
       - 101
     - book: Isaiah
       chapters:
@@ -2398,6 +2491,8 @@ plan:
     - book: Psalms
       chapters:
       - 108
+    - book: Psalms
+      chapters:
       - 109
     - book: Isaiah
       chapters:
@@ -2413,6 +2508,8 @@ plan:
     - book: Psalms
       chapters:
       - 110
+    - book: Psalms
+      chapters:
       - 111
     - book: Isaiah
       chapters:
@@ -2428,6 +2525,8 @@ plan:
     - book: Psalms
       chapters:
       - 112
+    - book: Psalms
+      chapters:
       - 113
     - book: Isaiah
       chapters:
@@ -2443,6 +2542,8 @@ plan:
     - book: Psalms
       chapters:
       - 114
+    - book: Psalms
+      chapters:
       - 115
     - book: Isaiah
       chapters:
@@ -2472,6 +2573,8 @@ plan:
     - book: Psalms
       chapters:
       - 117
+    - book: Psalms
+      chapters:
       - 118
     - book: Isaiah
       chapters:
@@ -2563,6 +2666,8 @@ plan:
     - book: Deuteronomy
       chapters:
       - 33
+    - book: Deuteronomy
+      chapters:
       - 34
     - book: Psalms
       chapter_verse: 119:145-176
@@ -2580,7 +2685,11 @@ plan:
     - book: Psalms
       chapters:
       - 120
+    - book: Psalms
+      chapters:
       - 121
+    - book: Psalms
+      chapters:
       - 122
     - book: Isaiah
       chapters:
@@ -2596,7 +2705,11 @@ plan:
     - book: Psalms
       chapters:
       - 123
+    - book: Psalms
+      chapters:
       - 124
+    - book: Psalms
+      chapters:
       - 125
     - book: Isaiah
       chapters:
@@ -2612,7 +2725,11 @@ plan:
     - book: Psalms
       chapters:
       - 126
+    - book: Psalms
+      chapters:
       - 127
+    - book: Psalms
+      chapters:
       - 128
     - book: Isaiah
       chapters:
@@ -2628,7 +2745,11 @@ plan:
     - book: Psalms
       chapters:
       - 129
+    - book: Psalms
+      chapters:
       - 130
+    - book: Psalms
+      chapters:
       - 131
     - book: Isaiah
       chapters:
@@ -2646,7 +2767,11 @@ plan:
     - book: Psalms
       chapters:
       - 132
+    - book: Psalms
+      chapters:
       - 133
+    - book: Psalms
+      chapters:
       - 134
     - book: Isaiah
       chapters:
@@ -2661,6 +2786,8 @@ plan:
     - book: Psalms
       chapters:
       - 135
+    - book: Psalms
+      chapters:
       - 136
     - book: Isaiah
       chapters:
@@ -2676,6 +2803,8 @@ plan:
     - book: Psalms
       chapters:
       - 137
+    - book: Psalms
+      chapters:
       - 138
     - book: Jeremiah
       chapters:
@@ -2705,6 +2834,8 @@ plan:
     - book: Psalms
       chapters:
       - 140
+    - book: Psalms
+      chapters:
       - 141
     - book: Jeremiah
       chapters:
@@ -2720,6 +2851,8 @@ plan:
     - book: Psalms
       chapters:
       - 142
+    - book: Psalms
+      chapters:
       - 143
     - book: Jeremiah
       chapters:
@@ -2746,6 +2879,8 @@ plan:
     - book: Joshua
       chapters:
       - 12
+    - book: Joshua
+      chapters:
       - 13
     - book: Psalms
       chapters:
@@ -2761,10 +2896,14 @@ plan:
     - book: Joshua
       chapters:
       - 14
+    - book: Joshua
+      chapters:
       - 15
     - book: Psalms
       chapters:
       - 146
+    - book: Psalms
+      chapters:
       - 147
     - book: Jeremiah
       chapters:
@@ -2777,6 +2916,8 @@ plan:
     - book: Joshua
       chapters:
       - 16
+    - book: Joshua
+      chapters:
       - 17
     - book: Psalms
       chapters:
@@ -2792,10 +2933,14 @@ plan:
     - book: Joshua
       chapters:
       - 18
+    - book: Joshua
+      chapters:
       - 19
     - book: Psalms
       chapters:
       - 149
+    - book: Psalms
+      chapters:
       - 150
     - book: Jeremiah
       chapters:
@@ -2808,6 +2953,8 @@ plan:
     - book: Joshua
       chapters:
       - 20
+    - book: Joshua
+      chapters:
       - 21
     - book: Acts
       chapters:
@@ -3096,6 +3243,8 @@ plan:
     - book: Jeremiah
       chapters:
       - 30
+    - book: Jeremiah
+      chapters:
       - 31
     - book: Mark
       chapters:
@@ -3114,6 +3263,8 @@ plan:
     - book: Psalms
       chapters:
       - 1
+    - book: Psalms
+      chapters:
       - 2
   - date: Aug-05
     sections:
@@ -3129,6 +3280,8 @@ plan:
     - book: Psalms
       chapters:
       - 3
+    - book: Psalms
+      chapters:
       - 4
   - date: Aug-06
     sections:
@@ -3144,6 +3297,8 @@ plan:
     - book: Psalms
       chapters:
       - 5
+    - book: Psalms
+      chapters:
       - 6
   - date: Aug-07
     sections:
@@ -3159,6 +3314,8 @@ plan:
     - book: Psalms
       chapters:
       - 7
+    - book: Psalms
+      chapters:
       - 8
   - date: Aug-08
     sections:
@@ -3171,6 +3328,8 @@ plan:
     - book: Jeremiah
       chapters:
       - 36
+    - book: Jeremiah
+      chapters:
       - 45
     - book: Psalms
       chapters:
@@ -3194,6 +3353,8 @@ plan:
     - book: Ruth
       chapters:
       - 3
+    - book: Ruth
+      chapters:
       - 4
     - book: Acts
       chapters:
@@ -3204,6 +3365,8 @@ plan:
     - book: Psalms
       chapters:
       - 11
+    - book: Psalms
+      chapters:
       - 12
   - date: Aug-11
     sections:
@@ -3219,6 +3382,8 @@ plan:
     - book: Psalms
       chapters:
       - 13
+    - book: Psalms
+      chapters:
       - 14
   - date: Aug-12
     sections:
@@ -3234,6 +3399,8 @@ plan:
     - book: Psalms
       chapters:
       - 15
+    - book: Psalms
+      chapters:
       - 16
   - date: Aug-13
     sections:
@@ -3268,6 +3435,8 @@ plan:
     - book: 1 Samuel
       chapters:
       - 5
+    - book: 1 Samuel
+      chapters:
       - 6
     - book: Romans
       chapters:
@@ -3283,6 +3452,8 @@ plan:
     - book: 1 Samuel
       chapters:
       - 7
+    - book: 1 Samuel
+      chapters:
       - 8
     - book: Romans
       chapters:
@@ -3293,6 +3464,8 @@ plan:
     - book: Psalms
       chapters:
       - 20
+    - book: Psalms
+      chapters:
       - 21
   - date: Aug-17
     sections:
@@ -3322,6 +3495,8 @@ plan:
     - book: Psalms
       chapters:
       - 23
+    - book: Psalms
+      chapters:
       - 24
   - date: Aug-19
     sections:
@@ -3351,6 +3526,8 @@ plan:
     - book: Psalms
       chapters:
       - 26
+    - book: Psalms
+      chapters:
       - 27
   - date: Aug-21
     sections:
@@ -3366,6 +3543,8 @@ plan:
     - book: Psalms
       chapters:
       - 28
+    - book: Psalms
+      chapters:
       - 29
   - date: Aug-22
     sections:
@@ -3470,6 +3649,8 @@ plan:
     - book: 1 Samuel
       chapters:
       - 21
+    - book: 1 Samuel
+      chapters:
       - 22
     - book: 1 Corinthians
       chapters:
@@ -3522,6 +3703,8 @@ plan:
     - book: Psalms
       chapters:
       - 40
+    - book: Psalms
+      chapters:
       - 41
   - date: Sep-02
     sections:
@@ -3537,6 +3720,8 @@ plan:
     - book: Psalms
       chapters:
       - 42
+    - book: Psalms
+      chapters:
       - 43
   - date: Sep-03
     sections:
@@ -3571,6 +3756,8 @@ plan:
     - book: 1 Samuel
       chapters:
       - 29
+    - book: 1 Samuel
+      chapters:
       - 30
     - book: 1 Corinthians
       chapters:
@@ -3581,6 +3768,8 @@ plan:
     - book: Psalms
       chapters:
       - 46
+    - book: Psalms
+      chapters:
       - 47
   - date: Sep-06
     sections:
@@ -3643,6 +3832,8 @@ plan:
     - book: 2 Samuel
       chapters:
       - 4
+    - book: 2 Samuel
+      chapters:
       - 5
     - book: 1 Corinthians
       chapters:
@@ -3653,7 +3844,11 @@ plan:
     - book: Psalms
       chapters:
       - 52
+    - book: Psalms
+      chapters:
       - 53
+    - book: Psalms
+      chapters:
       - 54
   - date: Sep-11
     sections:
@@ -3683,12 +3878,16 @@ plan:
     - book: Psalms
       chapters:
       - 56
+    - book: Psalms
+      chapters:
       - 57
   - date: Sep-13
     sections:
     - book: 2 Samuel
       chapters:
       - 8
+    - book: 2 Samuel
+      chapters:
       - 9
     - book: 2 Corinthians
       chapters:
@@ -3699,6 +3898,8 @@ plan:
     - book: Psalms
       chapters:
       - 58
+    - book: Psalms
+      chapters:
       - 59
   - date: Sep-14
     sections:
@@ -3714,6 +3915,8 @@ plan:
     - book: Psalms
       chapters:
       - 60
+    - book: Psalms
+      chapters:
       - 61
   - date: Sep-15
     sections:
@@ -3729,6 +3932,8 @@ plan:
     - book: Psalms
       chapters:
       - 62
+    - book: Psalms
+      chapters:
       - 63
   - date: Sep-16
     sections:
@@ -3744,6 +3949,8 @@ plan:
     - book: Psalms
       chapters:
       - 64
+    - book: Psalms
+      chapters:
       - 65
   - date: Sep-17
     sections:
@@ -3759,6 +3966,8 @@ plan:
     - book: Psalms
       chapters:
       - 66
+    - book: Psalms
+      chapters:
       - 67
   - date: Sep-18
     sections:
@@ -3802,6 +4011,8 @@ plan:
     - book: Psalms
       chapters:
       - 70
+    - book: Psalms
+      chapters:
       - 71
   - date: Sep-21
     sections:
@@ -3859,6 +4070,8 @@ plan:
     - book: Psalms
       chapters:
       - 75
+    - book: Psalms
+      chapters:
       - 76
   - date: Sep-25
     sections:
@@ -3942,6 +4155,8 @@ plan:
     - book: Psalms
       chapters:
       - 81
+    - book: Psalms
+      chapters:
       - 82
   - date: Oct-01
     sections:
@@ -3957,12 +4172,16 @@ plan:
     - book: Psalms
       chapters:
       - 83
+    - book: Psalms
+      chapters:
       - 84
   - date: Oct-02
     sections:
     - book: 1 Kings
       chapters:
       - 4
+    - book: 1 Kings
+      chapters:
       - 5
     - book: Ephesians
       chapters:
@@ -4001,6 +4220,8 @@ plan:
     - book: Psalms
       chapters:
       - 87
+    - book: Psalms
+      chapters:
       - 88
   - date: Oct-05
     sections:
@@ -4058,6 +4279,8 @@ plan:
     - book: Psalms
       chapters:
       - 92
+    - book: Psalms
+      chapters:
       - 93
   - date: Oct-09
     sections:
@@ -4087,6 +4310,8 @@ plan:
     - book: Psalms
       chapters:
       - 95
+    - book: Psalms
+      chapters:
       - 96
   - date: Oct-11
     sections:
@@ -4102,6 +4327,8 @@ plan:
     - book: Psalms
       chapters:
       - 97
+    - book: Psalms
+      chapters:
       - 98
   - date: Oct-12
     sections:
@@ -4117,7 +4344,11 @@ plan:
     - book: Psalms
       chapters:
       - 99
+    - book: Psalms
+      chapters:
       - 100
+    - book: Psalms
+      chapters:
       - 101
   - date: Oct-13
     sections:
@@ -4217,6 +4448,8 @@ plan:
     - book: Psalms
       chapters:
       - 108
+    - book: Psalms
+      chapters:
       - 109
   - date: Oct-20
     sections:
@@ -4232,6 +4465,8 @@ plan:
     - book: Psalms
       chapters:
       - 110
+    - book: Psalms
+      chapters:
       - 111
   - date: Oct-21
     sections:
@@ -4247,6 +4482,8 @@ plan:
     - book: Psalms
       chapters:
       - 112
+    - book: Psalms
+      chapters:
       - 113
   - date: Oct-22
     sections:
@@ -4262,6 +4499,8 @@ plan:
     - book: Psalms
       chapters:
       - 114
+    - book: Psalms
+      chapters:
       - 115
   - date: Oct-23
     sections:
@@ -4291,6 +4530,8 @@ plan:
     - book: Psalms
       chapters:
       - 117
+    - book: Psalms
+      chapters:
       - 118
   - date: Oct-25
     sections:
@@ -4362,6 +4603,8 @@ plan:
     - book: 2 Kings
       chapters:
       - 11
+    - book: 2 Kings
+      chapters:
       - 12
     - book: 2 Timothy
       chapters:
@@ -4369,6 +4612,8 @@ plan:
     - book: Hosea
       chapters:
       - 3
+    - book: Hosea
+      chapters:
       - 4
     - book: Psalms
       chapter_verse: 119:121-144
@@ -4383,6 +4628,8 @@ plan:
     - book: Hosea
       chapters:
       - 5
+    - book: Hosea
+      chapters:
       - 6
     - book: Psalms
       chapter_verse: 119:145-176
@@ -4400,7 +4647,11 @@ plan:
     - book: Psalms
       chapters:
       - 120
+    - book: Psalms
+      chapters:
       - 121
+    - book: Psalms
+      chapters:
       - 122
   - date: Nov-02
     sections:
@@ -4416,7 +4667,11 @@ plan:
     - book: Psalms
       chapters:
       - 123
+    - book: Psalms
+      chapters:
       - 124
+    - book: Psalms
+      chapters:
       - 125
   - date: Nov-03
     sections:
@@ -4432,7 +4687,11 @@ plan:
     - book: Psalms
       chapters:
       - 126
+    - book: Psalms
+      chapters:
       - 127
+    - book: Psalms
+      chapters:
       - 128
   - date: Nov-04
     sections:
@@ -4448,7 +4707,11 @@ plan:
     - book: Psalms
       chapters:
       - 129
+    - book: Psalms
+      chapters:
       - 130
+    - book: Psalms
+      chapters:
       - 131
   - date: Nov-05
     sections:
@@ -4464,7 +4727,11 @@ plan:
     - book: Psalms
       chapters:
       - 132
+    - book: Psalms
+      chapters:
       - 133
+    - book: Psalms
+      chapters:
       - 134
   - date: Nov-06
     sections:
@@ -4480,6 +4747,8 @@ plan:
     - book: Psalms
       chapters:
       - 135
+    - book: Psalms
+      chapters:
       - 136
   - date: Nov-07
     sections:
@@ -4495,6 +4764,8 @@ plan:
     - book: Psalms
       chapters:
       - 137
+    - book: Psalms
+      chapters:
       - 138
   - date: Nov-08
     sections:
@@ -4524,6 +4795,8 @@ plan:
     - book: Psalms
       chapters:
       - 140
+    - book: Psalms
+      chapters:
       - 141
   - date: Nov-10
     sections:
@@ -4572,6 +4845,8 @@ plan:
     - book: 1 Chronicles
       chapters:
       - 1
+    - book: 1 Chronicles
+      chapters:
       - 2
     - book: Hebrews
       chapters:
@@ -4587,6 +4862,8 @@ plan:
     - book: 1 Chronicles
       chapters:
       - 3
+    - book: 1 Chronicles
+      chapters:
       - 4
     - book: Hebrews
       chapters:
@@ -4597,12 +4874,16 @@ plan:
     - book: Psalms
       chapters:
       - 146
+    - book: Psalms
+      chapters:
       - 147
   - date: Nov-15
     sections:
     - book: 1 Chronicles
       chapters:
       - 5
+    - book: 1 Chronicles
+      chapters:
       - 6
     - book: Hebrews
       chapters:
@@ -4613,13 +4894,19 @@ plan:
     - book: Psalms
       chapters:
       - 148
+    - book: Psalms
+      chapters:
       - 149
+    - book: Psalms
+      chapters:
       - 150
   - date: Nov-16
     sections:
     - book: 1 Chronicles
       chapters:
       - 7
+    - book: 1 Chronicles
+      chapters:
       - 8
     - book: Hebrews
       chapters:
@@ -4634,6 +4921,8 @@ plan:
     - book: 1 Chronicles
       chapters:
       - 9
+    - book: 1 Chronicles
+      chapters:
       - 10
     - book: Hebrews
       chapters:
@@ -4648,6 +4937,8 @@ plan:
     - book: 1 Chronicles
       chapters:
       - 11
+    - book: 1 Chronicles
+      chapters:
       - 12
     - book: Hebrews
       chapters:
@@ -4663,6 +4954,8 @@ plan:
     - book: 1 Chronicles
       chapters:
       - 13
+    - book: 1 Chronicles
+      chapters:
       - 14
     - book: James
       chapters:
@@ -4734,6 +5027,8 @@ plan:
     - book: 1 Chronicles
       chapters:
       - 19
+    - book: 1 Chronicles
+      chapters:
       - 20
     - book: 1 Peter
       chapters:
@@ -4791,6 +5086,8 @@ plan:
     - book: 1 Chronicles
       chapters:
       - 24
+    - book: 1 Chronicles
+      chapters:
       - 25
     - book: 1 Peter
       chapters:
@@ -4806,6 +5103,8 @@ plan:
     - book: 1 Chronicles
       chapters:
       - 26
+    - book: 1 Chronicles
+      chapters:
       - 27
     - book: 2 Peter
       chapters:
@@ -4877,6 +5176,8 @@ plan:
     - book: 2 Chronicles
       chapters:
       - 3
+    - book: 2 Chronicles
+      chapters:
       - 4
     - book: 1 John
       chapters:
@@ -4977,6 +5278,8 @@ plan:
     - book: 2 Chronicles
       chapters:
       - 11
+    - book: 2 Chronicles
+      chapters:
       - 12
     - book: Revelation
       chapters:
@@ -5006,6 +5309,8 @@ plan:
     - book: 2 Chronicles
       chapters:
       - 14
+    - book: 2 Chronicles
+      chapters:
       - 15
     - book: Revelation
       chapters:
@@ -5063,6 +5368,8 @@ plan:
     - book: 2 Chronicles
       chapters:
       - 19
+    - book: 2 Chronicles
+      chapters:
       - 20
     - book: Revelation
       chapters:
@@ -5092,6 +5399,8 @@ plan:
     - book: 2 Chronicles
       chapters:
       - 22
+    - book: 2 Chronicles
+      chapters:
       - 23
     - book: Revelation
       chapters:
@@ -5149,6 +5458,8 @@ plan:
     - book: 2 Chronicles
       chapters:
       - 27
+    - book: 2 Chronicles
+      chapters:
       - 28
     - book: Revelation
       chapters:
