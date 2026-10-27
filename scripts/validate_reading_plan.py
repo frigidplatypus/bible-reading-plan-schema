@@ -387,7 +387,7 @@ def validate_plan(plan_file_path, bible_data_path):
         if not sections and reading_type not in ['rest', 'catch-up']:
              errors.append(f"Error in {reading_context}: 'sections' list cannot be empty for reading type '{reading_type}'.")
 
-        section_info = []  # (canonical_book, chapters_list_or_None) per section, for redundancy check
+        full_section_books = []  # canonical book names, one per full-chapter section, for redundancy check
         for j, section in enumerate(sections):
             section_context = f"{reading_context}, section {j+1}"
 
@@ -466,24 +466,26 @@ def validate_plan(plan_file_path, bible_data_path):
                      errors.append(f"Error in {section_context}: Could not parse chapter/verse numbers in '{cv_string}'.")
 
             # Record this section for the redundant-split check below.
-            # chapters_list is the full-chapter list, or None for partial/invalid sections.
-            if has_chapters:
-                section_info.append((canonical_book, chapters_list if isinstance(chapters_list, list) else None))
-            else:
-                section_info.append((canonical_book, None))
+            # A full-chapter section is one that uses 'chapters' (a list of whole
+            # chapters). Partial sections ('chapter_verse') are tracked separately.
+            if has_chapters and isinstance(chapters_list, list) and chapters_list:
+                full_section_books.append(canonical_book)
 
-        # Reject redundant splits: two adjacent sections for the same book whose
-        # full-chapter lists are contiguous should be a single section.
-        for k in range(len(section_info) - 1):
-            book_a, chs_a = section_info[k]
-            book_b, chs_b = section_info[k + 1]
-            if book_a == book_b and chs_a and chs_b:
-                if all(isinstance(c, int) for c in chs_a + chs_b) and chs_b[0] == chs_a[-1] + 1:
-                    errors.append(
-                        f"Error in {reading_context}: Redundant sections for '{book_a}' "
-                        f"(chapters {chs_a[-1]} and {chs_b[0]} are contiguous). "
-                        f"Combine them into a single section."
-                    )
+        # Reject redundant splits: the same book must not appear in more than one
+        # full-chapter section within a single reading. Two full-chapter sections
+        # for the same book (whether contiguous or not) should be one section.
+        # A full-chapter section plus a partial ('chapter_verse') section for the
+        # same book is allowed, since they cover different chapters.
+        seen_full = {}
+        for book in full_section_books:
+            if book in seen_full:
+                errors.append(
+                    f"Error in {reading_context}: Redundant sections for '{book}'. "
+                    f"The same book appears in more than one full-chapter section; "
+                    f"combine them into a single section."
+                )
+            else:
+                seen_full[book] = True
 
         # Validate supplementary content (optional)
         supplementary = reading.get('supplementary')
